@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Why We Sleep Notes
+description: Personal notes from the book Why We Sleep by Matthew Walker
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://LeVietHung0101.github.io
+baseurl: /Book-WhyWeSleep
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
