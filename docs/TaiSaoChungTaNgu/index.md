@@ -42,7 +42,7 @@ Từ góc nhìn tiến hoá, giấc ngủ có vẻ là một "bất lợi" rõ r
 
 Với hàng loạt bất lợi như vậy, lẽ ra giấc ngủ phải bị loại bỏ qua quá trình chọn lọc tự nhiên. Nhưng thực tế hoàn toàn ngược lại: **mọi loài động vật có hệ thần kinh phức tạp đều ngủ, và thiếu ngủ có thể gây hậu quả nghiêm trọng, thậm chí tử vong.**
 
-⮩ Điều này dẫn đến kết luận quan trọng: Giấc ngủ phải mang lại những lợi ích sinh học cực kỳ thiết yếu, đủ lớn để "đánh đổi" với các rủi ro của nó.
+Điều này dẫn đến kết luận quan trọng: Giấc ngủ phải mang lại những lợi ích sinh học cực kỳ thiết yếu, đủ lớn để "đánh đổi" với các rủi ro của nó.
 
 ---
 
