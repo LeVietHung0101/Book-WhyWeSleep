@@ -16,6 +16,14 @@ Và sẽ thật tốt hơn nếu kiến thức đó tiếp tục được lan tr
 Nếu bạn muốn một bản tóm tắt thật sự ngắn gọn, hãy tham khảo [Why We Sleep by Matthew Walker — Book Summary and Notes](https://www.justologist.com/why-we-sleep/).
 
 
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Photo_of_WhyWeSleepBook_and_Matthew Walker.png"
+  />
+  <figcaption>Giáo sư Matthew Walker và cuốn sách Why we sleep</figcaption>
+</figure>
+
+
 <!-- 
 bundle exec jekyll serve
 

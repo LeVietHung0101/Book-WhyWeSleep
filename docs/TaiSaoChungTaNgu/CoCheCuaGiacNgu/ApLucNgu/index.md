@@ -12,6 +12,12 @@ has_children: true
 {: .note }
 **Áp lực ngủ (sleep pressure)** là sự gia tăng nồng độ adenosine ở bộ não, gây ra ham muốn ngủ tăng lên. Thức càng lâu, adenosine tích tụ càng nhiều. Khi ngủ, adenosine được dọn sạch, áp lực ngủ giảm và sự tỉnh táo trở lại. Adenosine sẽ gắn vào các thụ thể adenosine và kích thích chúng, gây ra cảm giác buồn ngủ. 
 
+
+<!-- 
+Lấy thông tin về Adenosine 
+https://sites.psu.edu/lifeitmoveson/2018/01/26/sleep-external-influences/
+ -->
+
 <table class="hover-table">
   <thead>
     <tr>
