@@ -26,9 +26,13 @@ Sự ra đời của máy bay phản lực giúp con người di chuyển xuyên
 {: .note }
 Jet lag là trạng thái lệch pha giữa đồng hồ sinh học nội tại và môi trường bên ngoài.
 
+---
+
 ## Nguyên nhân của Jet lag
 
 Nguyên nhân cốt lõi là **hệ điều hòa nhịp sinh học chỉ có thể điều chỉnh khoảng 1 giờ mỗi ngày**. Vì vậy, nếu lệch múi giờ 8 tiếng, cơ thể có thể cần tới khoảng 8 ngày để thích nghi hoàn toàn.
+
+---
 
 ## Ảnh hưởng của Jet lag
 
@@ -54,6 +58,8 @@ Những đối tượng chịu ảnh hưởng rõ rệt nhất là **phi công, 
   />
   <figcaption>Những đối tượng chịu ảnh hưởng nhiều bởi Jet lag.</figcaption>
 </figure>
+
+---
 
 ## Làm sao để giảm ảnh hưởng từ Jet lag
 

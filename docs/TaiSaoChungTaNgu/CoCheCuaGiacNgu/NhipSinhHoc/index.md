@@ -20,9 +20,11 @@ nav_order: 1
 {: .note }
 Nhịp sinh học là chu kỳ tự nhiên của các quá trình sinh lý, hóa học và hành vi trong cơ thể sinh vật.
 
-Nhịp sinh học (circadian rhythm) có các cách gọi khác như: Đồng hồ sinh học 24 giờ / Nhịp sinh học ngày đêm.
+> *Nhịp sinh học: Đồng hồ sinh học 24 giờ / Nhịp sinh học ngày đêm / Circadian rhythm / Circadian process / Process C.*
 
 Tiền thân của nhịp sinh học là các giai đoạn chủ động và thụ động tương ứng với chu kỳ sáng - tối của mặt trời ở những dạng sinh vật đơn bào tồn tại hơn thời gian 24 giờ (như vi khuẩn).
+
+---
 
 ### Nhịp sinh học phát sinh từ đâu?
 
@@ -48,6 +50,8 @@ Nhân trên chéo thị giác sẽ nhận tín hiệu trực tiếp từ võng m
   <figcaption>Hoạt động của nhịp sinh học.</figcaption>
 </figure>
 
+---
+
 ### Các nguồn tín hiệu giúp "đặt lại" nhịp sinh học
 
 Mục tiêu cốt lõi của nhịp sinh học là **đồng bộ cơ thể với môi trường**. Tín hiệu quan trọng nhất là chu kỳ sáng – tối của Mặt Trời, giúp "đặt lại" đồng hồ sinh học mỗi ngày. Ngoài ra, các yếu tố như ăn uống, vận động, nhiệt độ và tương tác xã hội cũng góp phần điều chỉnh nhịp này. Nhờ nhiều nguồn tín hiệu bổ trợ, ngay cả những người không tiếp nhận ánh sáng (như người mù) vẫn duy trì được nhịp sinh học tương đối ổn định.
@@ -57,6 +61,7 @@ Mục tiêu cốt lõi của nhịp sinh học là **đồng bộ cơ thể vớ
 >- Chính (tin cậy): Chu kỳ sáng – tối của Mặt Trời.
 >- Phụ (hỗ trợ): ăn uống, vận động, nhiệt độ và tương tác xã hội.
 
+---
 
 ### Tại sao cơ thể cần có nhịp sinh học?
 
@@ -65,6 +70,18 @@ Nhịp sinh học đóng vai trò như một "bộ điều phối trung tâm", *
 Ví dụ, nhịp sinh học sẽ giảm *thân nhiệt trung tâm* khi gần tới *giờ ngủ theo thói quen*, và đạt nhiệt độ thấp nhất sau khi bắt đầu ngủ khoảng 2 tiếng - một dấu hiệu cho thấy cơ thể đang chuyển sang trạng thái nghỉ ngơi.
 - *Thân nhiệt trung tâm (Core body temperature)*: là nhiệt độ của các vùng nằm sâu bên trong cơ thể, *phản ánh trực tiếp nhiệt độ của các cơ quan nội tạng và máu*. Nó ảnh hưởng trực tiếp đến tốc độ các phản ứng sinh học, từ chuyển hoá đến hoạt động của enzyme. Đồng thời, thân nhiệt trung tâm cũng là *cơ sở của cơ chế điều hoà nhiệt*, giúp cơ thể duy trì trạng thái ổn định dù nhiệt độ môi trường bên ngoài thay đổi. Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân nhiệt trung tâm tương đối ổn định và chỉ dao động trong một khoảng hẹp. Nó thường được *đo tại trực tràng*, là vị trí cho kết quả ổn định và chính xác nhất. Ở con người, trong điều kiện bình thường, thân nhiệt đo tại đây thường nằm trong khoảng 36,3 – 37,1°C.
 - *Giờ ngủ theo thói quen (Habitual bedtime)*: là thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.
+
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\ProcessC_CircadianProcess.png"
+  />
+  <figcaption>Nhịp sinh học mỗi ngày.<br>
+  Nguồn: <a href="https://www.sleepprimarycareresources.org.au/insomnia/basic-sleep-and-sleep-hygiene-education" target="_blank">Basic Sleep & Sleep Hygiene Education - Australasian Sleep Association</a>
+  </figcaption>
+</figure>
+
+---
 
 ### Đặc điểm của nhịp sinh học ở con người
 
@@ -88,6 +105,8 @@ Hầu hết sinh vật có tuổi thọ dài hơn vài ngày đều có nhịp s
 Melatonin là một hormone tự nhiên do cơ thể tiết ra, chủ yếu từ tuyến tùng (pineal gland) trong não. Nó đóng vai trò điều hòa nhịp sinh học và đặc biệt liên quan đến thời gian bắt đầu ngủ.
 
 **Melatonin chỉ đưa ra sự chỉ dẫn chính thức để bắt đầu giấc ngủ mà không hề tham gia vào hoạt động ngủ**. Nên melatonin không ảnh hưởng đến chất lượng giấc ngủ.
+
+---
 
 ### Cơ chế hoạt động của melatonin
 
@@ -114,6 +133,8 @@ Melatonin ở động vật có vú có nhịp sinh học rõ rệt: thấp vào
   Nguồn: <a href="https://sites.psu.edu/lifeitmoveson/2018/01/26/sleep-external-influences/" target="_blank">Sleep: external influences</a>
   </figcaption>
 </figure>
+
+---
 
 ### Nồng độ melatonin ở các độ tuổi khác nhau
 
