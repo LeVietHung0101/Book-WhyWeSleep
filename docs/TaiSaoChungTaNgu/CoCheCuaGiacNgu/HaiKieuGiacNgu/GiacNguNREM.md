@@ -13,47 +13,116 @@ nav_order: 1
 {:toc}
 </details>
 
---
+---
 
-## Giấc ngủ NREM - Sóng chậm (slow-wave sleep - SWS) 
+## Sóng chậm
 
-Sóng chậm là một trạng thái hoạt động bộ não mang tính chủ động, thận trọng nhưng đồng bộ cao, xuất hiện tron giấc ngủ NREM. 
+**Sóng chậm (Slow-wave sleep - SWS)** là một trạng thái hoạt động của não bộ, xuất hiện trong **giấc ngủ NREM** (Non Rapid Eye Movement, giấc ngủ không chuyển động mắt nhanh). Trong trạng thái này, não vận hành một cách đồng bộ, ổn định và có kiểm soát, khác hẳn với sự hỗn loạn của trạng thái thức.
 
-Ta không mơ và mất ý thức (tạm thời về) bên ngoài vì vùng đồi thị đã ngăn cản các tín hiệu tri giác đến vỏ não hoặc đỉnh não, cho phép bộ não "thư giãn" và đi vào chế độ thực hiện chức năng mặc định của nó là sóng chậm. 
+Trong giấc ngủ NREM, bạn sẽ không mơ và mất ý thức (tạm thời) với môi trường bên ngoài. Nguyên nhân là do vùng đồi thị đã ngăn cản các tín hiệu tri giác đến vỏ não hoặc đỉnh não, cho phép bộ não "thư giãn" và đi vào chế độ thực hiện *chức năng mặc định* của nó là sóng chậm.
 
-**Chức năng**: Lưu trữ trí nhớ 
+{: .note }
+Giấc ngủ NREM, nơi bộ não chứa đầy sóng chậm, là trạng thái bộ não "bế quan, toả cảng", tập trung vào các chức năng mặc định, thay vì xử lý thông tin mới từ môi trường bên ngoài.
 
-Các sóng chậm, ổn định, đồng bộ quét qua bộ não trong giấc ngủ sâu mở ra những khả năng giao tiếp giữa các vùng cách xa nhau của bộ não, cho phép chúng gửi và nhận các kho lưu trữ khác nhau về kinh nghiệm một cách cộng tác. 
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\EEG_Wakefulness_Stage3.png"
+  />
+  <figcaption>Sóng não ở trạng thái thức (trong khung màu xanh) và ở giấc ngủ NREM (trong khung màu đỏ).<br>
+  Nguồn: <a href="https://www.britannica.com/science/NREM-sleep" target="_blank">NREM sleep - Britannica</a>
+  </figcaption>
+</figure>
 
-Sóng chậm giống một người đưa thư, có thể vận chuyển các gói thông tin giữa các trung tâm bộ não khác nhau. 
+## Chức năng lưu trữ trí nhớ
 
-Sóng chậm sẽ chuyển các gói bộ nhớ (các kinh nghiệm mới nhất) từ vị trí lưu trữ ngắn hạn (đồi hải mã), vốn khá mong manh, đến một vị trí lưu trữ lâu dài và an toàn hơn (vỏ não). 
+Chức năng nổi bật nhất của giấc ngủ sóng chậm là củng cố trí nhớ, đặc biệt là việc **chuyển đổi thông tin từ ngắn hạn sang dài hạn**.
+
+Trong giai đoạn này, các sóng chậm lan tỏa đồng bộ trên diện rộng của não, tạo điều kiện cho các vùng xa nhau giao tiếp hiệu quả. Nhờ đó, thông tin có thể được trao đổi và tích hợp giữa nhiều khu vực khác nhau thay vì bị cô lập.
+
+Cụ thể, các ký ức mới, ban đầu được lưu trữ tạm thời ở đồi hải mã (hippocampus), sẽ được "vận chuyển" dần sang vỏ não mới (neocortex) – nơi lưu trữ lâu dài và ổn định hơn. Quá trình này giống như một hệ thống phân phối dữ liệu: sóng chậm đóng vai trò trung gian vận chuyển và đồng bộ hóa thông tin giữa các vùng não liên quan đến trí nhớ. Nói cách khác, giấc ngủ NREM sóng chậm không chỉ lưu giữ thông tin mà còn tái tổ chức và tối ưu hóa hệ thống trí nhớ của não.
+
+
+<details markdown="block">
+<summary><i>Đồi hải mã (hippocampus)</i></summary>
+
+> Đồi hải mã (hippocampus) là nơi lưu trữ tạm thời các ký ức mới (thông tin, trải nghiệm mới). Vùng này có dung lượng hạn chế và không ổn định về lâu dài.
+{: .codeBlock }
+</details>
+
+
+<details markdown="block">
+<summary><i>Vỏ não mới (neocortex)</i></summary>
+
+> Vỏ não mới (neocortex) là lớp vỏ não ngoài cùng, chịu trách nhiệm cho các chức năng nhận thức bậc cao như tư duy, ngôn ngữ, lập kế hoạch và đặc biệt là lưu trữ trí nhớ dài hạn.
+> 
+> Về cấu trúc, neocortex gồm nhiều lớp tế bào thần kinh (thường mô tả là 6 lớp), cho phép xử lý và tích hợp thông tin rất phức tạp từ nhiều nguồn khác nhau.
+{: .codeBlock }
+</details>
+
+{: .note }
+Sóng chậm giống một người đưa thư, có thể vận chuyển các gói thông tin giữa các vùng khác nhau của bộ não.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\brainconsoli.png"
+  />
+  <figcaption>Ký ức mới được vận chuyển bởi sóng chậm từ đồi hải mã (hippocampus) đến vỏ não mới (neocortex).<br>
+  Nguồn: <a href="https://medicalxpress.com/news/2015-09-brain-memory-three-step-brainwave.html" target="_blank">Brain consolidates memory with three-step brainwave - Medical Xpress</a>  
+  </figcaption>
+</figure>
+
+---
 
 ## Nguồn gốc
 
-Sóng chậm được sinh ra từ sự đồng bộ hóa của các tế bào thần kinh trong vỏ não (đặc biệt là vùng trước trán) và đồi thị, chứ không phải từ một vùng cụ thể. 
+Sóng chậm không xuất phát từ một điểm đơn lẻ mà là kết quả của sự phối hợp trong toàn bộ mạng lưới não, đặc biệt là giữa vỏ não và đồi thị.
 
-Vỏ não trước trán (Cortex):  
+### Vỏ não (Cortex)
 
-Sóng chậm chủ yếu xuất hiện ở vùng vỏ trước trán (prefrontal cortex), thuộc thuỳ trán (frontal lobe), và các vùng vỏ khác, nơi các tế bào thần kinh dao động đồng bộ giữa trạng thái "up" (kích hoạt) và "down" (ức chế). 
+Vỏ não là nơi thể hiện rõ nhất các sóng chậm, nhất là **vùng vỏ trước trán (prefrontal cortex)**, thuộc thuỳ trán (frontal lobe), là nơi xuất hiện chủ yếu của các sóng chậm.
 
-Các vùng vỏ não trước (frontal cortex) thường cho thấy sóng Delta (0.5–4 Hz) mạnh nhất trong SWS, đặc biệt ở người lớn, cho thấy đây là một trong những trung tâm đồng bộ hóa và lan truyền sóng chậm. 
+Tại đây, các tế bào thần kinh dao động nhịp nhàng giữa hai trạng thái: kích hoạt (depolarization) và ức chế (hyperpolarization). Chính sự chuyển đổi đồng bộ này tạo nên các sóng Delta (0.5–4 Hz) đặc trưng của giấc ngủ sâu.
 
-Đồi thị (Thalamus): 
+Các vùng vỏ não trước (frontal cortex) thường cho thấy sóng Delta mạnh nhất trong giấc ngủ sóng chậm, đặc biệt ở người lớn, cho thấy đây là một trong những trung tâm đồng bộ hóa và lan truyền sóng chậm.
 
-Đồi thị đóng vai trò như một "máy điều hòa nhịp" (pacemaker), phối hợp với vỏ não để tạo ra các dao động chậm. Nó giúp đồng bộ hóa hoạt động của các tế bào thần kinh trên toàn bộ vỏ não, tạo ra sóng Delta đặc trưng của SWS. 
+### Đồi thị (Thalamus)
 
-Sự tương tác giữa đồi thị và vỏ não (thalamo-cortical network) là chìa khóa để sinh ra sóng chậm. 
+Trong khi đó, đồi thị đóng vai trò điều phối nhịp, giống như một "bộ tạo xung" giúp đồng bộ hoạt động của các vùng vỏ não. Sự tương tác hai chiều giữa đồi thị và vỏ não (mạng thalamo-cortical) là yếu tố then chốt tạo ra và duy trì sóng chậm.
 
-Cơ chế sinh học: 
+### Ảnh hưởng từ áp lực ngủ
 
-Sóng chậm được tạo ra do sự dao động đồng bộ của các tế bào thần kinh, khi chúng chuyển đổi giữa trạng thái kích hoạt (depolarization) và ức chế (hyperpolarization). 
+Toàn bộ quá trình trên chịu ảnh hưởng của áp lực ngủ (Process-S). Khi thời gian thức kéo dài, áp lực này tăng lên, khiến sóng Delta trở tăng cường độ và thời lượng, từ đó thúc đẩy giấc ngủ sâu.
 
-Quá trình này được điều chỉnh bởi Process-S, với áp lực ngủ tích lũy (do thức lâu) làm tăng cường độ và thời lượng của sóng Delta. 
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Location_of_Prefrontal_cortex_and_Thamalus.png"
+  />
+  <figcaption>Vị trí của vùng vỏ não trước (frontal cortex) và đồi thị (thalamus).<br>
+  Nguồn: <a href="https://neuroscientificallychallenged.com/posts/know-your-brain-limbic-system" target="_blank">Know Your Brain: Limbic System - Neuroscientifically Challenged</a>
+  </figcaption>
+</figure>
 
 <figure>
   <img
     src="{{ site.baseurl }}\assets\images\CNS_frontal_label.en.x512.png"
   />
-  <figcaption>Các thành phần của thuỳ não.</figcaption>
+  <figcaption>Các thành phần của thuỳ trán (frontal lobe).<br>
+  Nguồn: <a href="https://theory.labster.com/frontal-lobe/" target="_blank">Frontal lobe
+ - Theory pages: Labster</a>  
+  </figcaption>
 </figure>
+
+---
+
+## Tổng kết
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\CoCheCungCoTriNhoTrongGiacNguSongCham.png"
+  />
+  <figcaption>Cơ chế củng cố trí nhớ trong giấc ngủ sóng chậm.<br>
+  Nguồn: Hình ảnh được tạo bởi AI.
+  </figcaption>
+</figure>
+
+

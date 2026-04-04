@@ -65,11 +65,34 @@ Mục tiêu cốt lõi của nhịp sinh học là **đồng bộ cơ thể vớ
 
 ### Tại sao cơ thể cần có nhịp sinh học?
 
-Nhịp sinh học đóng vai trò như một "bộ điều phối trung tâm", **gửi tín hiệu thời gian đến toàn bộ cơ thể**. Nhờ đó, chúng ta biết khi nào nên ngủ, khi nào nên thức, đồng thời điều khiển nhiều quá trình khác như cảm xúc, sự thèm ăn, chuyển hoá, nhiệt độ cơ thể, sự tiết hormone và lượng nước tiểu bài tiết,...
+Nhịp sinh học đóng vai trò như một "bộ điều phối trung tâm", **gửi tín hiệu thời gian đến toàn bộ cơ thể**. Nhờ đó, chúng ta biết khi nào nên ngủ, khi nào nên thức, đồng thời điều khiển nhiều quá trình khác như cảm xúc, sự thèm ăn, chuyển hoá, nhiệt độ cơ thể, sự tiết hormone và lượng nước tiểu bài tiết,... Nhịp sinh học cũng ức chế cảm giác buồn ngủ vào ban ngày, ngay cả khi [áp lực ngủ]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/ApLucNgu/" | relative_url }}) cao.
 
 Ví dụ, nhịp sinh học sẽ giảm *thân nhiệt trung tâm* khi gần tới *giờ ngủ theo thói quen*, và đạt nhiệt độ thấp nhất sau khi bắt đầu ngủ khoảng 2 tiếng - một dấu hiệu cho thấy cơ thể đang chuyển sang trạng thái nghỉ ngơi.
-- *Thân nhiệt trung tâm (Core body temperature)*: là nhiệt độ của các vùng nằm sâu bên trong cơ thể, *phản ánh trực tiếp nhiệt độ của các cơ quan nội tạng và máu*. Nó ảnh hưởng trực tiếp đến tốc độ các phản ứng sinh học, từ chuyển hoá đến hoạt động của enzyme. Đồng thời, thân nhiệt trung tâm cũng là *cơ sở của cơ chế điều hoà nhiệt*, giúp cơ thể duy trì trạng thái ổn định dù nhiệt độ môi trường bên ngoài thay đổi. Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân nhiệt trung tâm tương đối ổn định và chỉ dao động trong một khoảng hẹp. Nó thường được *đo tại trực tràng*, là vị trí cho kết quả ổn định và chính xác nhất. Ở con người, trong điều kiện bình thường, thân nhiệt đo tại đây thường nằm trong khoảng 36,3 – 37,1°C.
-- *Giờ ngủ theo thói quen (Habitual bedtime)*: là thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.
+
+<details markdown="block">
+<summary><i>Thân nhiệt trung tâm</i></summary>
+
+> <strong>Thân nhiệt trung tâm (Core body temperature)</strong> là nhiệt độ của các vùng nằm sâu bên trong cơ thể, <strong>phản ánh trực tiếp nhiệt độ của các cơ quan nội tạng và máu</strong>. Nó ảnh hưởng trực tiếp đến tốc độ các phản ứng sinh học, từ chuyển hoá đến hoạt động của enzyme.
+>
+> Đồng thời, thân nhiệt trung tâm cũng là <strong>cơ sở của cơ chế điều hoà nhiệt</strong>, giúp cơ thể duy trì trạng thái ổn định dù nhiệt độ môi trường bên ngoài thay đổi.
+>
+> Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân nhiệt trung tâm tương đối ổn định và chỉ dao động trong một khoảng hẹp. Nó thường được <strong>đo tại trực tràng</strong>, là vị trí cho kết quả ổn định và chính xác nhất. Ở con người, trong điều kiện bình thường, thân nhiệt đo tại đây thường nằm trong <strong>khoảng 36,3 – 37,1°C</strong>.
+> <figure>
+>  <img
+>    src="{{ site.baseurl }}\assets\images\COS-cosinuss-bodytemperature-core_shell-EN-XXXX-V01.jpg"
+>    width="75%"
+>  />
+>  <figcaption>Trường nhiệt độ của cơ thể người. Phần lõi cơ thể có nhiệt độ gần như không đổi, trong khi nhiệt độ của lớp da chịu ảnh hưởng bởi các yếu tố bên ngoài và bên trong.<br>Nguồn: <a href="https://www.cosinuss.com/en/measured-data/vital-signs/body-temperature/" target="_blank">Body temperature  - Cosinuss</a></figcaption>
+> </figure>
+{: .codeBlock }
+</details>
+
+<details markdown="block">
+<summary><i>Giờ ngủ theo thói quen</i></summary>
+
+> <strong>Giờ ngủ theo thói quen (Habitual bedtime)</strong> là thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.
+{: .codeBlock }
+</details>
 
 
 <figure>
@@ -96,6 +119,20 @@ Hầu hết sinh vật có tuổi thọ dài hơn vài ngày đều có nhịp s
   </figcaption>
 </figure>
 
+---
+
+### Đỉnh điểm tỉnh táo vào buổi tối
+
+**Đỉnh điểm tỉnh táo vào buổi tối (Evening Wakefulness Peak)** là sự gia tăng cường độ tỉnh táo xảy ra từ 1 đến 3 giờ trước <i>giờ ngủ theo thói quen</i>. Trạng thái này có thể được cảm nhận như sự tỉnh táo cao độ vào đầu buổi tối, ngay cả sau khi đã thức trong thời gian dài. Đỉnh điểm tỉnh táo vào buổi tối khiến việc đi ngủ sớm trở nên khó khăn. Các nhà nghiên cứu về giấc ngủ gọi thời gian này là "vùng duy trì sự tỉnh táo" (wake maintenance zone). Bộ điều hòa nhịp sinh học giúp chúng ta chuẩn bị cho giấc ngủ bằng cách giảm quá trình tỉnh táo trước <i>giờ ngủ theo thói quen</i>, điều này thúc đẩy cảm giác buồn ngủ và dễ dàng đi vào giấc ngủ.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\M2G-medium.jpg"
+  />
+  <figcaption>Nhịp sinh học thúc đẩy sự tỉnh táo.<br>
+  Nguồn: <a href="https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod2/15.html" target="_blank">Circadian Rhythms That Promote Wakefulness - The National Institute for Occupational Safety and Health (NIOSH)</a>
+  </figcaption>
+</figure>
 
 ---
 

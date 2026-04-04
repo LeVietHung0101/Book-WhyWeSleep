@@ -42,7 +42,7 @@ Chức năng xử lý thông tin của 3 trạng thái:
 
 ---
 
-## Hoạt động sống não ở 3 trạng thái
+## Hoạt động sóng não ở 3 trạng thái
 
 Hoạt động sống não ở 3 trạng thái (xem xét ở người trưởng thành hoặc thanh niên khoẻ mạnh): 
 
