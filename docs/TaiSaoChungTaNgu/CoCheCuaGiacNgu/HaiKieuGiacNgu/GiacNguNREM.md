@@ -39,7 +39,7 @@ Chức năng nổi bật nhất của giấc ngủ sóng chậm là củng cố 
 
 Trong giai đoạn này, các sóng chậm lan tỏa đồng bộ trên diện rộng của não, tạo điều kiện cho các vùng xa nhau giao tiếp hiệu quả. Nhờ đó, thông tin có thể được trao đổi và tích hợp giữa nhiều khu vực khác nhau thay vì bị cô lập.
 
-Cụ thể, các ký ức mới, ban đầu được lưu trữ tạm thời ở đồi hải mã (hippocampus), sẽ được "vận chuyển" dần sang vỏ não mới (neocortex) – nơi lưu trữ lâu dài và ổn định hơn. Quá trình này giống như một hệ thống phân phối dữ liệu: sóng chậm đóng vai trò trung gian vận chuyển và đồng bộ hóa thông tin giữa các vùng não liên quan đến trí nhớ. Nói cách khác, giấc ngủ NREM sóng chậm không chỉ lưu giữ thông tin mà còn tái tổ chức và tối ưu hóa hệ thống trí nhớ của não.
+Cụ thể, các ký ức mới (là các mẫu hoạt động thần kinh đã xảy ra khi học/trải nghiệm) ban đầu được lưu trữ tạm thời ở đồi hải mã (hippocampus). Trong giấc ngủ sóng chậm, các ký ức mới này sẽ được đồi hải mã phát lại (replay) liên tục và "vận chuyển" dần sang vỏ não mới (neocortex) – nơi lưu trữ lâu dài và ổn định hơn. Quá trình này giống như một hệ thống phân phối dữ liệu: sóng chậm đóng vai trò trung gian vận chuyển và đồng bộ hóa thông tin giữa các vùng não liên quan đến trí nhớ. Nói cách khác, giấc ngủ NREM sóng chậm không chỉ lưu giữ thông tin mà còn tái tổ chức và tối ưu hóa hệ thống trí nhớ của não.
 
 
 <details markdown="block">

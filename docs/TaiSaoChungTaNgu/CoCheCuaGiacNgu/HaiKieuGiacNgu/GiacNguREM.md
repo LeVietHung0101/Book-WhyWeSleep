@@ -13,34 +13,31 @@ nav_order: 2
 {:toc}
 </details>
 
+--- 
+
+## Hoạt động sóng não trong giấc ngủ REM tương tự khi đang thức
+
+**Giấc ngủ REM (Rapid Eye Movement, giấc ngủ chuyển động mắt nhanh)** là trạng thái đặc biệt khi hoạt động của não gần như tương đương với lúc tỉnh táo. Thậm chí, một số vùng não còn hoạt động mạnh hơn, có thể tăng đến hơn 30% so với khi thức. Điểm khác biệt quan trọng nằm ở hướng dòng thông tin: nếu khi tỉnh táo, tín hiệu đi từ môi trường bên ngoài → đồi thị → vỏ não, thì trong giấc ngủ REM, não lại "tự phát tín hiệu từ bên trong". Các vùng xử lý cảm giác như thị giác, thính giác và vận động được kích hoạt bởi ký ức, cảm xúc và động lực nội tại, tạo nên trải nghiệm giấc mơ sống động.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\brain_waves_is_awake_in_REM_sleep_and_in_NREM_sleep.png"
+  />
+  <figcaption>Sóng não khi thức, trong giấc ngủ REM và NREM.<br>
+  Nguồn: <a href="https://www.whoop.com/us/en/thelocker/what-is-rem-sleep/?srsltid=AfmBOoree-Vd4uDkol5H56WPmgYZ7ztjA-QpOjFqFXwyWTLKpFm8ovWy" target="_blank">What is REM Sleep, Why it’s Important, How Much You Need & How to Increase It - WHOOP</a> 
+  </figcaption>
+</figure>
+
 ---
 
-Hoạt động sóng não trong giấc ngủ REM tương tự như khi tỉnh táo. 
+## Sự mất trương lực 
 
-Có những bộ phận riêng lẻ của bộ não tăng hoạt động đến hơn 30% trong suốt giấc ngủ REM so với khi hoàn toàn tỉnh táo. 
+Một đặc trưng sinh lý quan trọng của giấc ngủ REM là hiện tượng mất trương lực (muscle atonia). Đây là trạng thái các cơ bắp tự chủ (cơ vân như tay, chân, mặt) gần như bị "tắt hoạt động", do tín hiệu ức chế mạnh từ thân não truyền xuống tủy sống. Kết quả là cơ thể rơi vào trạng thái gần như tê liệt, không thể thực hiện các hành động theo nội dung giấc mơ. Cơ chế này đóng vai trò bảo vệ, ngăn những vận động hư cấu trong giấc mơ thành hiện thực.
 
-Khi tỉnh táo, tín hiệu từ bên ngoài truyền đến vùng đồi thị rồi đến vỏ não. Nhưng trong giấc ngủ REM thì ngược lại. Các tín hiệu cảm xúc, động lực thúc đẩy và ký ức (quá khứ cùng hiện tại) đều được phát ra ở các vùng vỏ não thị giác, thính giác và cảm giác vận động. 
+Tuy nhiên, sự mất trương lực này chỉ áp dụng cho cơ bắp tự chủ. Các cơ không tự chủ như cơ tim và cơ trơn (ở ruột, mạch máu, nội tạng) vẫn hoạt động bình thường để duy trì sự sống. Ở một số trường hợp (như người cao tuổi hoặc rối loạn giấc ngủ), cơ chế ức chế này có thể suy yếu, dẫn đến hiện tượng vận động trong khi ngủ mơ (mộng du).
 
- 
-
-Sự mất trương lực 
-
-Sự mất trương lực được biểu hiện bằng việc không có sự rắn chắc ở các cơ bắp; xảy ra do một tín hiệu vô hiệu hoá mạnh mẽ được truyền xuống dọc suốt chiều dài tuỷ sống từ thân não. Khi này các cơ bắp tạo dáng điệu của cơ thể sẽ không đáp ứng các lệnh được đưa ra từ bộ não, dẫn tới cơ thể bị tê liệt trong giấc ngủ REM. 
-
-Sự mất trương lực chỉ xảy ra ở cơ bắp tự chủ và không xảy ra ở cơ bắp không tự chủ. 
-
-Cơ bắp tự chủ (cơ vân): cơ ở tay, chân, mặt; được điều khiển có ý thức. 
-
-Mất trương lực khi ngủ mơ (REM): ngăn cản những vận động hư cấu thành hiện thực. 
-
-Cơ bắp không tự chủ (cơ tim, cơ trơn): cơ ở tim và các cơ quan nội tạng (thành ruột, dạ dày, bàng quang, mạch máu,...); hoạt động tự động, không cần sự điều khiển có ý thức. 
-
-Không mất trương lực khi ngủ mơ (REM): duy trì sự sống. 
-
-Tuy nhiên, cơ chế này có thể không hoạt động ở một số người (người cao tuổi, người mộng du,...). 
+---
 
 ## Mắt chuyển động nhanh 
 
-Trong suốc giấc ngủ REM, có những giai đoạn nhãn cầu sẽ chuyển động nhanh hết sức, liên tục từ trái sang phải (video 1, video 2). 
-
-Ngược lại với quá trình khi chuyển từ thức sang giấc ngủ NREM nông N1, hai mắt sẽ cùng lúc bắt đầu đảo đều nhau một cách nhẹ nhàng và hết sức chậm rãi. 
+Một dấu hiệu nổi bật khác của REM là chuyển động mắt nhanh (Rapid Eye Movement). Trong giai đoạn này, nhãn cầu di chuyển nhanh, liên tục theo nhiều hướng, phản ánh việc não đang xử lý hình ảnh và nội dung giấc mơ. Điều này trái ngược với giai đoạn ngủ nông NREM (N1), khi mắt chỉ chuyển động chậm, đều và nhẹ trong quá trình chuyển từ trạng thái thức sang ngủ.

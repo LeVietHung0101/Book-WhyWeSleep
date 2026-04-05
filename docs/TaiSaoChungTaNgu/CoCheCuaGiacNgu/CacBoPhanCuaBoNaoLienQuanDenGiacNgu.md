@@ -23,9 +23,17 @@ Vỏ não trước trán (prefrontal cortex): nằm ngay phía sau nhãn cầu; 
   <figcaption>Các thành phần của thuỳ não.</figcaption>
 </figure>
 
+## Vỏ não mới
+
+Vỏ não mới (neocortex) là lớp vỏ não ngoài cùng, chịu trách nhiệm cho các chức năng nhận thức bậc cao như tư duy, ngôn ngữ, lập kế hoạch và đặc biệt là lưu trữ trí nhớ dài hạn.
+
+Về cấu trúc, neocortex gồm nhiều lớp tế bào thần kinh (thường mô tả là 6 lớp), cho phép xử lý và tích hợp thông tin rất phức tạp từ nhiều nguồn khác nhau.
+
 --
 
 ## Hồi hải mã
+
+Đồi hải mã (hippocampus) là nơi lưu trữ tạm thời các ký ức mới (thông tin, trải nghiệm mới). Vùng này có dung lượng hạn chế và không ổn định về lâu dài.
 
 --
 

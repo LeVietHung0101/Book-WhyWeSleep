@@ -1,7 +1,7 @@
 ---
 title: Hai kiểu giấc ngủ
 parent: Giấc ngủ hoạt động thế nào?
-nav_order: 4
+nav_order: 3
 ---
 
 # Hai kiểu giấc ngủ
@@ -15,174 +15,91 @@ nav_order: 4
 
 ---
 
-## NREM hay REM quan trọng hơn? 
+## Hai pha ngủ
 
-Khi bị thiếu ngủ (sau hơn 24h không ngủ), bộ não sẽ cố gắng bù đắp cả 2 loại giấc ngủ NREM và REM. 
+Giấc ngủ của con người không phải là một trạng thái đồng nhất mà được chia thành hai pha chính: **NREM** (Non-Rapid Eye Movement) và **REM** (Rapid Eye Movement). Hai pha này luân phiên theo chu kỳ trong suốt đêm, tạo thành một hệ thống phối hợp chặt chẽ nhằm phục hồi và tối ưu hóa hoạt động của não bộ.
 
-Thời gian ngủ trong đêm hồi phục dài hơn nhiều so với một đêm tiêu chuẩn không bị thiếu ngủ. Đây là "ngủ bù" - sự hồi phục giấc ngủ. 
+[Giấc ngủ NREM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguNREM/" | relative_url }}), đặc biệt là giai đoạn sóng chậm (slow-wave sleep), là lúc não bước vào trạng thái đồng bộ cao và giảm tương tác với môi trường bên ngoài. Đây là giai đoạn đóng vai trò nền tảng trong phục hồi thể chất và củng cố trí nhớ, khi các ký ức mới được chuyển từ vùng lưu trữ tạm thời sang lưu trữ dài hạn. Có thể xem NREM là "chế độ bảo trì và ổn định" của não.
 
-Bộ não sẽ dùng đến tỉ lệ giấc ngủ NREM sâu lớn hơn so với giấc ngủ REM vào đêm đầu tiên sau khi thiếu ngủ. 
+Ngược lại, [giấc ngủ REM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguREM/" | relative_url }}) có hoạt động não gần giống trạng thái thức, thậm chí một số vùng còn hoạt động mạnh hơn. Đây là giai đoạn gắn liền với giấc mơ sống động, nơi não xử lý cảm xúc, tái tổ chức thông tin và tích hợp ký ức vào hệ thống nhận thức phức tạp. REM có thể được hiểu như "chế độ xử lý nâng cao", giúp tinh chỉnh và làm giàu trải nghiệm tinh thần.
 
-Trong các đêm hồi phục thứ 2, 3 và 4, giấc ngủ REM lại chiếm tỉ lệ lớn hơn. 
-
-Tuy nhiên, bộ não không bao giờ lấy lại được tổng thời gian ngủ mà nó đã mất bằng cách "ngủ bù". Việc bù đắp NREM và REM chỉ để cứu vãn một số thiệt hại mà cơ thể phải chịu. 
-
----
-
-## Bộ não của bạn sinh ra giấc ngủ như thế nào
-
-Chức năng xử lý thông tin của 3 trạng thái: 
-
-- Thức (tỉnh táo): Sự tiếp nhận - trải nghiệm và liên tục học hỏi thế giới xung quanh. 
-
-- Giấc ngủ NREM: Sự phản chiếu - lưu trữ và củng cố các thành phần thô của các sự việc và kỹ năng mới. 
-
-- Giấc ngủ REM: Sự tích hợp - kết nối những thành phần thô này lại với nhau, cùng các kinh nghiệm trong quá khứ, để xây dựng một mô hình chính xác về cách thế giới hoạt động (bao gồm các hiểu biết sáng tạo và khả năng giải quyết vấn đề). 
+Cả NREM và REM đều không thể thay thế cho nhau mà bổ sung chức năng, tạo nên một chu trình hoàn chỉnh để duy trì sức khỏe thể chất lẫn tinh thần.
 
 
 ---
 
-## Hoạt động sóng não ở 3 trạng thái
+## Chu kì giấc ngủ
 
-Hoạt động sống não ở 3 trạng thái (xem xét ở người trưởng thành hoặc thanh niên khoẻ mạnh): 
-
-**Thức (tỉnh táo):**
-
-Các sóng não có tần số nhanh và hỗn loạn. 
-
-Nguyên nhân: khi đang tỉnh táo, các bộ phận khác nhau của não sẽ xử lý các mẫu thông tin khác nhau tại các thời điểm thích hợp khác nhau và theo những cách khác nhau. Khi được tổng hợp lại với nhau, thứ chúng tạo xuất hiện như một mẫu hoạt động hỗn loạn được ghi lại nhờ các điện cực đặt trên đầu bạn. 
-
-Sóng Beta (13–30 Hz): Xuất hiện khi tỉnh táo, tập trung, giải quyết vấn đề hoặc tham gia vào các hoạt động tinh thần tích cực. Tần số cao hơn (20–30 Hz) liên quan đến sự tập trung cao độ hoặc căng thẳng. 
-
-Sóng Alpha (8–12 Hz): Xuất hiện khi thư giãn nhưng vẫn tỉnh táo, như khi nhắm mắt hoặc thiền nhẹ. Đây là trạng thái chuyển tiếp giữa tỉnh táo và thư giãn. 
-
-Sóng Theta (4–8 Hz): Thỉnh thoảng xuất hiện ở trạng thái tỉnh táo, đặc biệt khi mơ mộng, buồn ngủ nhẹ hoặc trong trạng thái thiền sâu. 
-
-**Giấc ngủ NREM:** 
-
-Các sóng não chậm vào đồng bộ. 
-
-Giai đoạn N1 (Ngủ nông, 4–8 Hz): Sóng Theta (4–8 Hz) chiếm ưu thế. 
-
-Giai đoạn N2 (Ngủ nhẹ, 4–15 Hz): Bao gồm sóng Theta (4–8 Hz) và các đặc trưng như: 
-
-Sleep Spindles (Các đợt sóng ngắn, tần số 11–15 Hz): Chủ yếu hỗ trợ củng cố trí nhớ, bảo vệ giấc ngủ, và tăng cường khả năng học tập. Chúng đặc biệt quan trọng trong việc xử lý thông tin nhận thức. 
-
-K-Complexes (Sóng đơn ngắn, biên độ cao): Bảo vệ giấc ngủ bằng cách ngăn chặn thức tỉnh, xử lý kích thích bên ngoài, và có thể hỗ trợ củng cố trí nhớ cùng với sleep spindles. 
-
-Giai đoạn N3 (Ngủ sâu/Slow-Wave Sleep, 0.5–4 Hz): Sóng Delta (0.5–4 Hz) chiếm ưu thế. 
-
-**Giấc ngủ REM:**
-
-Các sóng não có tần số tương tự trạng thái tỉnh táo, thường được gọi là "ngủ nghịch lý" (paradoxical sleep, bộ não đang thức nhưng cơ thể đang ngủ say). 
-
-Sóng Beta (13–30 Hz): Chiếm ưu thế, phản ánh hoạt động não mạnh mẽ tương tự khi tỉnh táo, liên quan đến giấc mơ sống động, củng cố trí nhớ dài hạn và xử lý cảm xúc. 
-
-Sóng Theta (4–8 Hz): Có thể xuất hiện xen kẽ, đặc biệt trong các giai đoạn mơ màng hoặc chuyển đổi. 
-
-
-Bảng tóm tắt phạm vi tần số của sóng não ở các trạng thái khác nhau: 
-
-
-<table class="hover-table">
-  <thead>
-    <tr>
-      <th>Trạng thái</th>
-      <th>Sóng não chính</th>
-      <th>Phạm vi tần số (Hz)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tỉnh táo</td>
-      <td>Beta, Alpha</td>
-      <td>8–30 Hz</td>
-    </tr>
-    <tr>
-      <td>NREM - N1</td>
-      <td>Theta</td>
-      <td>4–8 Hz</td>
-    </tr>
-    <tr>
-      <td>NREM - N2</td>
-      <td>Theta, Sleep Spindles</td>
-      <td>4–15 Hz</td>
-    </tr>
-    <tr>
-      <td>NREM - N3 & N4</td>
-      <td>Delta</td>
-      <td>0.5–4 Hz</td>
-    </tr>
-    <tr>
-      <td>REM</td>
-      <td>Beta, Theta</td>
-      <td>4–30 Hz</td>
-    </tr>
-  </tbody>
-</table>
-
+Giấc ngủ có cấu trúc theo chu kỳ lặp lại. Ở người trưởng thành với giấc ngủ đủ và chất lượng tốt, một đêm thường gồm 5 chu kỳ, mỗi chu kỳ kéo dài trung bình khoảng 90 phút. Các chu kỳ này không giống hệt nhau mà thay đổi dần theo thời gian trong đêm.
 
 <figure>
   <img
-    src="{{ site.baseurl }}\assets\images\FIgure-SC.9-Brainwave-Activity-Changes-During-Sleep-Extra-Spicy-Edition.jpeg"
+    src="{{ site.baseurl }}\assets\images\TheArchitectureOfSleep.png"
   />
-  <figcaption>Hoạt động sóng não thay đổi đáng kể ở các giai đoạn khác nhau của giấc ngủ.</figcaption>
+  <figcaption>Kiến trúc giấc ngủ.<br>
+  Nguồn: Why We Sleep - Matthew Walker, PhD
+  </figcaption>
 </figure>
 
----
+Khi bắt đầu ngủ, não gần như ngay lập tức đi vào giấc ngủ NREM. Trong các chu kỳ đầu tiên, NREM, đặc biệt là giấc ngủ sâu, chiếm phần lớn thời gian, phản ánh nhu cầu phục hồi sinh lý và tái thiết cơ thể sau một ngày hoạt động. Sau mỗi pha NREM, não chuyển sang REM ở cuối chu kỳ, nhưng ở giai đoạn đầu đêm, REM còn ngắn và chiếm tỷ lệ nhỏ.
 
-## Phân loại sóng não dựa trên tần số (ngoài lề)
+Từ giữa đêm trở đi, cấu trúc này dần đảo chiều. Các pha REM xuất hiện rõ rệt hơn và kéo dài hơn qua từng chu kỳ, đặc biệt vào nửa sau của giấc ngủ. Ở chu kỳ cuối cùng (thường gần sáng), REM có thể chiếm phần lớn thời gian, cho thấy vai trò ngày càng tăng của xử lý cảm xúc và tích hợp ký ức khi cơ thể đã được phục hồi tương đối.
 
-**Sóng Delta (0.5–4 Hz):**
+Chu kỳ NREM - REM là một đặc điểm phổ quát ở nhiều loài, nhưng độ dài mỗi chu kỳ có sự khác biệt. Ở người, chu kỳ tương đối dài ( khoảng 90 phút), trong khi ở nhiều loài động vật khác, chu kỳ này thường ngắn hơn đáng kể.
 
-Tần số thấp nhất, liên quan đến giấc ngủ sâu (NREM giai đoạn N3) và các quá trình phục hồi thể chất. 
 
-Có thể xuất hiện ở trẻ sơ sinh hoặc trong trạng thái hôn mê, tổn thương não. 
-
-Biên độ cao (sóng lớn), phản ánh hoạt động não chậm.  
-
-**Sóng Theta (4–8 Hz):**
-
-Liên quan đến trạng thái buồn ngủ nhẹ, mơ màng, thiền, hoặc giấc ngủ NREM giai đoạn N1 và N2. 
-
-Thường xuất hiện khi não ở trạng thái sáng tạo, trực giác, hoặc xử lý thông tin tiềm thức. 
-
-Có thể thấy ở trẻ em nhiều hơn người lớn trong trạng thái tỉnh táo.  
-
-**Sóng Alpha (8–12 Hz):**
-
-Xuất hiện khi thư giãn nhưng vẫn tỉnh táo, như khi nhắm mắt, thiền, hoặc nghỉ ngơi yên tĩnh. 
-
-Là cầu nối giữa trạng thái tập trung (Beta) và trạng thái mơ màng (Theta). 
-
-Giảm khi mắt mở hoặc khi tập trung vào một nhiệm vụ.  
-
-**Sóng Beta (13–30 Hz):**
-
-Liên quan đến trạng thái tỉnh táo, tập trung, giải quyết vấn đề, hoặc tư duy logic. 
-
-Phổ biến trong các hoạt động tinh thần tích cực, ra quyết định, hoặc căng thẳng. 
-
-Trong giấc ngủ REM, sóng Beta cũng chiếm ưu thế, phản ánh hoạt động não tương tự trạng thái tỉnh táo.  
-
-Sóng Gamma (30–100 Hz, thường 40 Hz trở lên):  
-
-Tần số cao nhất, liên quan đến tư duy cấp cao, nhận thức, học tập, và xử lý thông tin phức tạp. 
-
-Thường xuất hiện trong trạng thái tập trung cực độ, thiền sâu, hoặc khi não tích hợp thông tin từ nhiều vùng khác nhau. 
-
-Ít được đề cập trong nghiên cứu giấc ngủ so với các loại sóng khác. 
-
-**Lưu ý về phân loại** 
-
-Phân loại dựa trên tần số là cách chính để xác định các loại sóng não, nhưng biên độ (độ mạnh của sóng) và bối cảnh (trạng thái tâm lý, sinh lý) cũng quan trọng trong việc diễn giải ý nghĩa của chúng. 
-
-Các loại sóng não không hoạt động độc lập mà thường xen kẽ hoặc kết hợp trong các trạng thái khác nhau. Ví dụ, trong giấc ngủ NREM giai đoạn N2, bạn có thể thấy cả sóng Theta và các đợt sleep spindles (11–15 Hz, thuộc phạm vi Beta thấp). 
-
-Tần số cụ thể có thể thay đổi nhẹ tùy thuộc vào nghiên cứu hoặc thiết bị EEG, nhưng các phạm vi trên là tiêu chuẩn được chấp nhận rộng rãi. 
+Đọc thêm:
+1. [Physiology, Sleep Stages  - National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
 
 ---
 
-## Ảnh hưởng của Process-S và Process-C đến REM và NREM
+## Thời gian ngủ ảnh hưởng thế nào đến các pha ngủ NREM và REM?
+
+Do giấc ngủ được tổ chức theo chu kỳ với NREM sâu tập trung nhiều ở đầu đêm và REM kéo dài về cuối đêm, việc cắt ngắn ở mỗi đầu sẽ gây ra những thiếu hụt khác nhau.
+
+Khi **ngủ muộn**, bạn làm **suy giảm phần đầu của giấc ngủ - nơi NREM sâu chiếm ưu thế**. Dù tổng thời gian ngủ có thể vẫn đủ (ví dụ ngủ từ 0 giờ đến 8 giờ), bạn đã bỏ lỡ giai đoạn phục hồi sinh lý quan trọng nhất. Kết quả là cơ thể không được "tái thiết" đầy đủ, và tỷ lệ giữa các pha ngủ bị lệch: REM tăng tương đối, còn NREM sâu giảm.
+
+Khi **ngủ ngắn (dậy sớm hơn bình thường)**, bạn làm **mất phần cuối của giấc ngủ - nơi REM chiếm ưu thế**. Ví dụ, nếu một người cần ngủ 8 giờ (từ 22 giờ đến 6 giờ) nhưng dậy lúc 4 giờ, họ mất khoảng 25% tổng thời gian ngủ. Tuy nhiên, phần bị mất này lại chứa tỷ lệ REM rất cao, có thể lên tới 60% - 90% lượng REM của cả đêm. Điều này ảnh hưởng mạnh đến các chức năng như xử lý cảm xúc, tích hợp ký ức và tư duy sáng tạo.
+
+> *Việc xác định ngủ muộn và ngủ ngắn (dậy sớm) là so với giờ ngủ theo thói quen (habitual bedtime) - thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.*
+
+{: .note }
+Ngủ muộn cắt giảm NREM sâu, ngủ ngắn cắt giảm REM cuối.
 
 ---
+
+## NREM hay REM quan trọng hơn?
+
+Khi bị thiếu ngủ kéo dài (ví dụ hơn 24 giờ không ngủ), bộ não không ưu tiên tuyệt đối một loại giấc ngủ nào mà tìm cách bù đắp cả NREM và REM. Điều này cho thấy hai pha ngủ này đều thiết yếu, phục vụ những chức năng khác nhau nhưng bổ sung cho nhau.
+
+Trong đêm đầu tiên sau thiếu ngủ, thời gian ngủ thường kéo dài hơn bình thường - hiện tượng này được gọi là**ngủ bù**. Đáng chú ý, não ưu tiên tăng mạnh giấc ngủ NREM sâu (slow-wave sleep). Đây là giai đoạn liên quan đến phục hồi sinh lý, cân bằng nội môi và củng cố trí nhớ cơ bản, nên được xem là nhu cầu "cấp thiết" khi cơ thể bị thiếu ngủ.
+
+Ở các đêm hồi phục tiếp theo (khoảng đêm thứ 2 đến thứ 4), xu hướng này thay đổi: giấc ngủ REM tăng tỷ lệ nhiều hơn. REM liên quan chặt chẽ đến xử lý cảm xúc, tích hợp ký ức phức tạp và điều chỉnh hệ thần kinh, nên được "bù" sau khi các nhu cầu sinh lý cơ bản đã phần nào được đáp ứng.
+
+Tuy nhiên, một điểm quan trọng là **bộ não không thể hoàn toàn lấy lại lượng giấc ngủ đã mất**. Việc ngủ bù chỉ giúp khôi phục một phần chức năng và giảm thiểu tổn hại, chứ không thể đảo ngược hoàn toàn hậu quả của thiếu ngủ kéo dài.
+
+{: .note }
+**NREM** đóng vai trò nền tảng trong phục hồi thể chất và ổn định hệ thống, trong khi **REM** đảm nhiệm xử lý tinh vi về nhận thức và cảm xúc. Cả hai đều không thể thay thế lẫn nhau, và cơ chế ngủ bù chính là bằng chứng rõ ràng cho sự phụ thuộc này. Nên câu hỏi "NREM hay REM quan trọng hơn?" thực chất không có câu trả lời tuyệt đối.
+
+---
+
+## Cách bộ não xử lý thông tin khi thức và ngủ
+
+Ba trạng thái **Thức – NREM – REM** có thể được hiểu như một chu trình xử lý thông tin liên tục của não, trong đó mỗi giai đoạn đảm nhiệm một vai trò riêng nhưng liên kết chặt chẽ với nhau.
+
+Khi **thức (tỉnh táo)**, não hoạt động ở chế độ tiếp nhận. Đây là giai đoạn chúng ta trải nghiệm thế giới, thu thập dữ liệu từ môi trường và học hỏi liên tục thông qua cảm giác, hành động và tương tác. Tuy nhiên, những thông tin này ban đầu còn rời rạc và chưa được tổ chức một cách bền vững.
+
+Khi chuyển sang **giấc ngủ NREM**, não bước vào giai đoạn lưu trữ và củng cố. Những trải nghiệm trong ngày được "xử lý sơ cấp": các thành phần thô của ký ức và kỹ năng được lưu trữ, ổn định và gia cố. Đây là bước giúp thông tin trở nên đáng tin cậy hơn, tránh bị mất đi, nhưng vẫn chưa được tích hợp hoàn toàn vào hệ thống tri thức tổng thể.
+
+Tiếp theo, trong **giấc ngủ REM**, não thực hiện bước tích hợp sâu. Các mảnh thông tin đã được củng cố ở NREM sẽ được liên kết với những ký ức cũ, tạo ra các mối quan hệ mới và hình thành một mô hình hiểu biết hoàn chỉnh hơn về thế giới. Chính quá trình này góp phần vào tư duy sáng tạo, khả năng giải quyết vấn đề và việc "nhìn ra" các kết nối mà khi thức khó nhận ra.
+
+{: .note }
+> **Thức** là giai đoạn **tiếp nhận** - trải nghiệm và liên tục học hỏi thế giới xung quanh. 
+> 
+> **Giấc ngủ NREM** là giai đoạn **lưu trữ** - lưu trữ và củng cố các thành phần thô của các sự việc và kỹ năng mới. 
+> 
+> **Giấc ngủ REM** là giai đoạn **tích hợp** - kết nối những thành phần thô đó lại với nhau, cùng các kinh nghiệm trong quá khứ, để xây dựng một mô hình chính xác về cách thế giới hoạt động (bao gồm các hiểu biết sáng tạo và khả năng giải quyết vấn đề).
+
+
+
+<!-- ## Ảnh hưởng của Process-S và Process-C đến REM và NREM -->
