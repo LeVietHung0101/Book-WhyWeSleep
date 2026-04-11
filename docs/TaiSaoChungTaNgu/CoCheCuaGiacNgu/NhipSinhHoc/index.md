@@ -148,7 +148,7 @@ Melatonin là một hormone tự nhiên do cơ thể tiết ra, chủ yếu từ
 ### Cơ chế hoạt động của melatonin
 
 Tuyến tùng điều chỉnh việc tiết hormone melatonin (tăng hoặc giảm) dựa trên chỉ dẫn từ nhân trên chéo thị giác (SCN) – trung tâm điều khiển nhịp sinh học.
-- Khi ánh sáng giảm vào buổi tối, đối với "chiền chiện sớm", nhân trên chéo thị giác gửi tín hiệu kích hoạt tuyến tùng, làm tăng giải phóng melatonin vào máu. Hormone này hoạt động như một “thông báo sinh học”, báo cho cơ thể rằng đã đến thời điểm nghỉ ngơi và chuẩn bị đi ngủ: *"Trời tối rồi, ngủ thôi!"*.
+- Khi ánh sáng giảm vào buổi tối, đối với "chiền chiện sớm", nhân trên chéo thị giác gửi tín hiệu kích hoạt tuyến tùng, làm tăng giải phóng melatonin vào máu. Hormone này hoạt động như một "thông báo sinh học", báo cho cơ thể rằng đã đến thời điểm nghỉ ngơi và chuẩn bị đi ngủ: *"Trời tối rồi, ngủ thôi!"*.
 - Trong suốt đêm, nồng độ melatonin không giữ nguyên mà giảm dần sau khi đã đạt đỉnh, và tiếp tục hạ thấp vào gần sáng. Khi ánh sáng tăng dần vào buổi sáng, tín hiệu từ nhân trên chéo thị giác sẽ ức chế tuyến tùng, khiến việc tiết melatonin gần như dừng lại, giúp cơ thể chuyển sang trạng thái tỉnh táo.
 
 Melatonin ở động vật có vú có nhịp sinh học rõ rệt: thấp vào ban ngày và tăng mạnh vào ban đêm (gấp 10–15 lần).

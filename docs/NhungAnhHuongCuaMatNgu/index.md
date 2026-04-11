@@ -106,7 +106,7 @@ Lợi ích giấc ngủ NREM sâu:
 
 Ức chế hệ giao cảm → giảm huyết áp, nhịp tim, ngừa tăng áp, nhồi máu, đột quỵ. 
 
-Tương đương “quản lý huyết áp tự nhiên ban đêm”. 
+Tương đương "quản lý huyết áp tự nhiên ban đêm". 
 
 Thí nghiệm toàn cầu "Daylight Savings Time – DST": 
 
@@ -275,7 +275,7 @@ Thiếu ngủ gây giảm các lipoprotein mật độ cao (HDL), là " choleste
 
 Phá hủy cấu trúc DNA (telomere): 
 
-Telomere = “nắp bảo vệ” đầu nhiễm sắc thể (giống đầu dây giày). 
+Telomere = "nắp bảo vệ" đầu nhiễm sắc thể (giống đầu dây giày). 
 
 Thiếu ngủ hoặc ngủ kém khiến telomere hư hỏng nặng → Bắt chước điều được thấy khi lão hoá hoặc tình trạng già yếu trước tuổi. 
 

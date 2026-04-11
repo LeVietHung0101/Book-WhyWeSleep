@@ -1,7 +1,7 @@
 ---
 title: Sáng tạo
 parent: Tại sao chúng ta nên ngủ?
-nav_order: 1
+nav_order: 4
 ---
 
 # Sáng tạo
@@ -15,4 +15,4 @@ nav_order: 1
 
 ---
 
-Giấc ngủ REM tạo ra một "sân khấu ban đêm" để não kết nối thông tin từ các nguồn xa lạ, thúc đẩy giải quyết vấn đề và sáng tạo thông qua các liên tưởng không hiển nhiên. 
+Giấc ngủ REM tạo ra một "sân khấu ban đêm" để não kết nối thông tin từ các nguồn xa lạ, thúc đẩy giải quyết vấn đề và sáng tạo thông qua các liên tưởng không hiển nhiên.

@@ -64,7 +64,7 @@ Khi được dùng như một loại thuốc, adenosine có thể làm giảm nh
 ### Các thụ thể adenosine
 {: #cac-thu-the-adenosine }
 
-Các thụ thể adenosine (A1, A2A, A2B, A3) là một nhóm thụ thể màng tế bào thuộc họ GPCR (G-protein coupled receptors), chịu trách nhiệm “nhận tín hiệu” từ adenosine và chuyển hóa thành các phản ứng sinh học trong cơ thể. Dù cùng gắn với adenosine, mỗi loại thụ thể lại có cơ chế và chức năng sinh lý khác nhau.
+Các thụ thể adenosine (A1, A2A, A2B, A3) là một nhóm thụ thể màng tế bào thuộc họ GPCR (G-protein coupled receptors), chịu trách nhiệm "nhận tín hiệu" từ adenosine và chuyển hóa thành các phản ứng sinh học trong cơ thể. Dù cùng gắn với adenosine, mỗi loại thụ thể lại có cơ chế và chức năng sinh lý khác nhau.
 
 <table class="hover-table">
   <thead>
