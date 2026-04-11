@@ -69,7 +69,7 @@ bundle exec jekyll serve
   </video>
   <p class="video-caption">
   my_caption.<br>
-  Nguồn: <a href="link" target="_blank">caption</a> 
+  Nguồn: <a href="link" target="_blank">caption</a>
   </p>
 </div>
 

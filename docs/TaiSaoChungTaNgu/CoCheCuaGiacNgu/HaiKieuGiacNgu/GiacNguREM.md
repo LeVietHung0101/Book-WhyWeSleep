@@ -41,3 +41,24 @@ Tuy nhiên, sự mất trương lực này chỉ áp dụng cho cơ bắp tự c
 ## Mắt chuyển động nhanh 
 
 Một dấu hiệu nổi bật khác của REM là chuyển động mắt nhanh (Rapid Eye Movement). Trong giai đoạn này, nhãn cầu di chuyển nhanh, liên tục theo nhiều hướng, phản ánh việc não đang xử lý hình ảnh và nội dung giấc mơ. Điều này trái ngược với giai đoạn ngủ nông NREM (N1), khi mắt chỉ chuyển động chậm, đều và nhẹ trong quá trình chuyển từ trạng thái thức sang ngủ.
+
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/videos/REM_Sleep_YouTube.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <p class="video-caption">
+  Giấc ngủ chuyển động mắt nhanh ở người<br>
+  Nguồn: <a href="https://www.youtube.com/watch?v=U4-6bQXoOkA" target="_blank">Rapid Eye Movement (REM) Sleep - Psych Explained</a> 
+  </p>
+</div>
+
+
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/videos/Jack_the_Dog_in_REM_sleep_with_eyes_open_YouTube.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <p class="video-caption">
+  Giấc ngủ chuyển động mắt nhanh ở động vật (chó).<br>
+  Nguồn: <a href="https://www.youtube.com/watch?v=16r9-qrTbho" target="_blank">Jack the Dog in REM sleep with eyes open - Backyard Brains</a>
+  </p>
+</div>
