@@ -19,13 +19,36 @@ has_children: true
 
 Giấc ngủ là một trạng thái sinh lý tự nhiên, có tính chu kỳ, trong đó cơ thể giảm hoạt động và mức độ ý thức bị thay đổi đáng kể. Tuy nhiên, gọi giấc ngủ là "nghỉ ngơi hoàn toàn" là không chính xác. Trên thực tế, não bộ trong khi ngủ vẫn hoạt động rất tích cực - thậm chí ở một số giai đoạn còn hoạt động mạnh không kém khi tỉnh táo.
 
-**Mô tả thú vị về giấc ngủ**
+### Mô tả thú vị về giấc ngủ
 
 Từ khi sinh ra cho đến khi qua đời, con người liên tục rơi vào một trạng thái giống như "hôn mê tạm thời", lặp đi lặp lại mỗi ngày. Trạng thái này chiếm khoảng 1/3 cuộc đời của chúng ta.
 
 Trong lúc cơ thể gần như bất động, tâm trí lại có thể tạo ra những trải nghiệm sống động - đó là giấc mơ. Những hình ảnh, âm thanh và cảm xúc trong mơ đôi khi rất phi logic, nhưng lại có sức ảnh hưởng mạnh đến tâm lý con người.
 
 Điều đáng chú ý là, dù khoa học hiện đại đã tiến rất xa, các nhà nghiên cứu vẫn chưa có một câu trả lời hoàn chỉnh cho câu hỏi: "Tại sao chúng ta cần ngủ?"
+
+### Bộ đặc điểm (dễ thấy) biểu thị cho sự hiện diện của giấc ngủ
+
+**Tư thế nghỉ ngơi:**
+- Người ngủ thường nằm ngửa, sấp hoặc nghiêng, ít khi ngủ khi đứng hoặc ngồi trừ các tình
+huống đặc biệt.
+
+**Giảm vận động tự ý:**
+- Hầu như không có cử động chủ động lớn.
+- Các cử động nhỏ như điều chỉnh tư thế vẫn có thể xảy ra nhưng hiếm.
+- Hạ cơ bắp xuống: Thư giãn các cơ xương (đối trọng) theo tư thế đứng thẳng.
+- Một cơ thể đang ngủ sẽ che bất cứ thứ gì đang đỡ cơ thể nó ở bên dưới.
+
+**Giảm đáp ứng với môi trường:**
+- Trả lời kém hoặc không trả lời các kích thích nhẹ (âm thanh, ánh sáng, chạm nhẹ).
+- Đây là cách phân biệt ngủ với thức.
+
+**Có thể tỉnh dậy dễ dàng:**
+- Có thể đánh thức bằng kích thích đủ mạnh.
+- Khác hẳn với hôn mê, gây mê, ngủ đông và cái chết.
+
+**Giấc ngủ tuân theo một mô hình thời gian tin cậy trong 24 giờ:**
+- Tuân theo nhịp sinh học.
 
 ---
 

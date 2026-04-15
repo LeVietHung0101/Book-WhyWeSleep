@@ -21,9 +21,19 @@ Giấc ngủ của con người không phải là một trạng thái đồng nh
 
 [Giấc ngủ NREM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguNREM/" | relative_url }}), đặc biệt là giai đoạn sóng chậm (slow-wave sleep), là lúc não bước vào trạng thái đồng bộ cao và giảm tương tác với môi trường bên ngoài. Đây là giai đoạn đóng vai trò nền tảng trong phục hồi thể chất và củng cố trí nhớ, khi các ký ức mới được chuyển từ vùng lưu trữ tạm thời sang lưu trữ dài hạn. Có thể xem NREM là "chế độ bảo trì và ổn định" của não.
 
+Giấc ngủ NREM gồm 4 giai đoạn (NREM 1, NREM 2, NREM 3, NREM 4) được chia theo "mức ngủ sâu" - độ khó tăng dần cần thiết đánh thức một người dậy. Hai giai đoạn NREM 3 và 4 là các giai đoạn ngủ sâu nhất.
+- Giai đoạn N1 (Ngủ nông): là giai đoạn chuyển tiếp từ tỉnh táo sang ngủ, với hoạt động não chậm lại.
+- Giai đoạn N2 (Ngủ nhẹ): là giai đoạn củng cố trí nhớ và xử lý thông tin.
+- Giai đoạn N3 và N4 (Ngủ sâu): là giai đoạn ngủ sâu nhất, liên quan đến phục hồi thể chất và tái tạo năng lượng. Hiện nay giai đoạn 3 và 4 được gộp thành N3.
+
 Ngược lại, [giấc ngủ REM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguREM/" | relative_url }}) có hoạt động não gần giống trạng thái thức, thậm chí một số vùng còn hoạt động mạnh hơn. Đây là giai đoạn gắn liền với giấc mơ sống động, nơi não xử lý cảm xúc, tái tổ chức thông tin và tích hợp ký ức vào hệ thống nhận thức phức tạp. REM có thể được hiểu như "chế độ xử lý nâng cao", giúp tinh chỉnh và làm giàu trải nghiệm tinh thần.
 
 Cả NREM và REM đều không thể thay thế cho nhau mà bổ sung chức năng, tạo nên một chu trình hoàn chỉnh để duy trì sức khỏe thể chất lẫn tinh thần.
+
+{: .note }
+> <strong>Giấc ngủ NREM</strong>: Liên quan đến phục hồi thể chất, tái tạo tế bào, củng cố hệ miễn dịch và xử lý thông tin ngắn hạn.
+> 
+> <strong>Giấc ngủ REM</strong>: Liên quan đến giấc mơ, củng cố trí nhớ dài hạn, xử lý cảm xúc, tăng cường khả năng sáng tạo, bổ sung các kết nối thần kinh trong não.
 
 
 ---

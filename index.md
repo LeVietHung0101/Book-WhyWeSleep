@@ -7,7 +7,7 @@ permalink: /
 
 # Lời nói đầu
 
-Sau khi đọc cuốn sách Why We Sleep của giáo sư Matthew Walker, tôi nhận thấy mình cần tự tóm tắt lại các thông tin, kiến thức mà tôi cho là hữu ích, đồng thời mở rộng thêm một vài điểm.
+Sau khi đọc cuốn sách Why We Sleep của giáo sư [Matthew Walker](https://www.sleepfoundation.org/about-us/dr-matthew-walker), tôi nhận thấy mình cần tự tóm tắt lại các thông tin, kiến thức mà tôi cho là hữu ích, đồng thời mở rộng thêm một vài điểm.
 
 Tôi viết bản tóm tắt này để dành cho bản thân tôi và những người tôi quan tâm.
 Mong rằng họ sẽ có cái nhìn rộng và sâu sắc hơn về giấc ngủ, từ đó có những hành động thiết thực để cải thiện chất lượng giấc ngủ của bản thân.
@@ -15,7 +15,7 @@ Và sẽ thật tốt hơn nếu kiến thức đó tiếp tục được lan tr
 
 Nếu bạn muốn một bản tóm tắt thật sự ngắn gọn, hãy tham khảo [Why We Sleep by Matthew Walker — Book Summary and Notes](https://www.justologist.com/why-we-sleep/).
 
-Nếu bạn có hứng thú với nghiên cứu của giáo sư Matthew Walker, hãy thử đọc bài báo "[The Role of Sleep in Cognition and Emotion](https://walkerlab.berkeley.edu/reprints/Walker_NYAS_2009.pdf)" được đăng trên tạp chí "Annals of the New York Academy of Sciences", năm 2009. Bài báo tổng hợp các nghiên cứu về vai trò của giấc ngủ đối với trí nhớ, nhận thức và cảm xúc.
+Và nếu bạn có hứng thú với nghiên cứu của giáo sư Matthew Walker, hãy thử đọc bài báo "[The Role of Sleep in Cognition and Emotion](https://walkerlab.berkeley.edu/reprints/Walker_NYAS_2009.pdf)" được đăng trên tạp chí "Annals of the New York Academy of Sciences", năm 2009. Bài báo tổng hợp các nghiên cứu về vai trò của giấc ngủ đối với trí nhớ, nhận thức và cảm xúc.
 
 
 <figure>
