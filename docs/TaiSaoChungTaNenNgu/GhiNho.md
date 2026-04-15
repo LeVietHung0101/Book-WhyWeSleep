@@ -115,7 +115,7 @@ Nghiên cứu bằng MRI cho thấy ký ức di chuyển từ đồi hải mã (
 > Thí nghiệm ở Đức năm 2006: Kích thích điện não trong giấc ngủ NREM làm tăng sóng chậm và spindle, gần gấp đôi khả năng nhớ (so với nhóm không kích thích).
  
 
-### Tái kích hoạt trí nhớ có mục tiêu
+### Tái kích hoạt trí nhớ có mục tiêu {#targeted-memory-reactivation}
 
 **Tái kích hoạt trí nhớ có mục tiêu (Targeted Memory Reactivation - TMR)**: là một kỹ thuật sử dụng kích thích giác quan (như âm thanh hoặc mùi hương) để củng cố hoặc thay đổi các ký ức cụ thể đã được học trước đó. Kỹ thuật này thường được sử dụng trong khi ngủ bằng cách "phát lại" các kích thích được liên kết với thông tin đã học một cách kín đáo, không gây thức giấc, để tăng cường sự củng cố trí nhớ một cách chọn lọc đối với những ký ức đó. 
 

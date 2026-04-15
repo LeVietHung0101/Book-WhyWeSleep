@@ -48,7 +48,7 @@ bundle exec jekyll serve
 
 ⮩
 
-[...]({{ "/docs/..." | relative_url }})
+[...]({{ "/docs/___" | relative_url }})
 
 
 
@@ -57,8 +57,8 @@ bundle exec jekyll serve
   <img
     src="{{ site.baseurl }}\assets\images\"
   />
-  <figcaption>...<br>
-  Nguồn: <a href="..." target="_blank">...</a> 
+  <figcaption>my_caption<br>
+  Nguồn: <a href="link" target="_blank">caption_of_link</a> 
   </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ bundle exec jekyll serve
   </video>
   <p class="video-caption">
   my_caption.<br>
-  Nguồn: <a href="link" target="_blank">caption</a>
+  Nguồn: <a href="link" target="_blank">caption_of_link</a>
   </p>
 </div>
 

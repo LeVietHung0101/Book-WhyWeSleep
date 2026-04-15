@@ -100,22 +100,17 @@ Dòng chảy chính của giấc mơ: không phải sự kiện, mà là **cảm
 
 ---
 
-## Xoa dịu nỗi đau
+## Giấc mơ có chức năng không?
 
 Giấc mơ trong giai đoạn REM không đơn thuần là "hiện tượng đi kèm" mà thực chất có vai trò chức năng riêng. Các nghiên cứu đo hoạt động não và những thí nghiệm kiểm soát chặt chẽ cho thấy: khi REM diễn ra, nội dung giấc mơ không phải là thứ ngẫu nhiên vô nghĩa, mà là một phần tích cực trong quá trình xử lý thông tin và cảm xúc của não.
 
-Để hiểu rõ hơn, cần phân biệt với khái niệm epiphenomenon (hiện tượng phụ). Một ví dụ đơn giản là nhiệt từ bóng đèn dây tóc: mục đích chính của bóng đèn là phát sáng, còn nhiệt tỏa ra chỉ là hệ quả phụ, không mang chức năng cốt lõi. Trước đây, giấc mơ từng bị xem giống như "nhiệt" của giấc ngủ REM — tức chỉ là sản phẩm phụ không có giá trị.
+Để hiểu rõ hơn, cần phân biệt với khái niệm epiphenomenon (hiện tượng phụ). Một ví dụ đơn giản là nhiệt từ bóng đèn dây tóc: mục đích chính của bóng đèn là phát sáng, còn nhiệt tỏa ra chỉ là hệ quả phụ, không mang chức năng cốt lõi. Trước đây, giấc mơ từng bị xem giống như "nhiệt" của giấc ngủ REM - tức chỉ là sản phẩm phụ không có giá trị.
 
 Tuy nhiên, bằng chứng hiện đại cho thấy cách hiểu này là sai. **Giấc mơ không phải là phần dư thừa của REM, mà ngược lại, nó có thể là cơ chế giúp REM thực hiện các chức năng quan trọng như xử lý cảm xúc, củng cố ký ức và tái tổ chức thông tin**. Nói cách khác, nếu REM là "quá trình", thì giấc mơ chính là một phần cách thức mà quá trình đó được triển khai, chứ không phải thứ phát sinh vô ích.
 
 
-<!-- 
----
-
+<!--
 ## Vườm ươm sáng tạo
-
----
-
+## Xoa dịu nỗi đau
 ## Giải mã thế giới
-
---- -->
+-->
