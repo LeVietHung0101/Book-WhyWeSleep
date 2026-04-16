@@ -13,6 +13,10 @@ Tôi viết bản tóm tắt này để dành cho bản thân tôi và những n
 Mong rằng họ sẽ có cái nhìn rộng và sâu sắc hơn về giấc ngủ, từ đó có những hành động thiết thực để cải thiện chất lượng giấc ngủ của bản thân.
 Và sẽ thật tốt hơn nếu kiến thức đó tiếp tục được lan truyền rộng rãi.
 
+Trước khi dành nhiều thời gian để tìm hiểu về giấc ngủ, cách nó hoạt động và tác động thế nào đến cơ thể, bạn hãy đọc [12 lời khuyên quan trọng để có giấc ngủ khỏe mạnh]({{ "/docs/NhungGiaiPhapChoGiacNgu/#12-tips-for-healthy-sleep" | relative_url }}).
+
+[abc]({{ "/docs/NhungGiaiPhapChoGiacNgu/#12-loi-khuyen-quan-trong-de-co-giac-ngu-khoe-manh" | relative_url }})
+
 Nếu bạn muốn một bản tóm tắt thật sự ngắn gọn, hãy tham khảo [Why We Sleep by Matthew Walker — Book Summary and Notes](https://www.justologist.com/why-we-sleep/).
 
 Và nếu bạn có hứng thú với nghiên cứu của giáo sư Matthew Walker, hãy thử đọc bài báo "[The Role of Sleep in Cognition and Emotion](https://walkerlab.berkeley.edu/reprints/Walker_NYAS_2009.pdf)" được đăng trên tạp chí "Annals of the New York Academy of Sciences", năm 2009. Bài báo tổng hợp các nghiên cứu về vai trò của giấc ngủ đối với trí nhớ, nhận thức và cảm xúc.

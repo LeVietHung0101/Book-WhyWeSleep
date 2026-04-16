@@ -43,7 +43,7 @@ Các vùng não sau đây **tăng mạnh hoạt động** trong giấc ngủ REM
 - Vùng cảm xúc (hạch hạnh nhân-amygdala và vỏ não đai-cingulate): tăng hoạt động đáng kể (30% so với khi tỉnh), làm cho trải nghiệm mơ trở nên mãnh liệt về mặt cảm xúc.
 
 Vùng não sau đây **giảm mạnh hoạt động** trong giấc ngủ REM:
-- Vùng vỏ não trước bên (prefrontal left/right): trung tâm của tư duy logic và kiểm soát bị "tắt tương đối", giải thích vì sao giấc mơ thường kỳ lạ, thiếu tính hợp lý mà người mơ vẫn chấp nhận như thật.
+- Vùng vỏ não trước trán bên trái/phải (prefrontal left/right): trung tâm của tư duy logic và kiểm soát bị "tắt tương đối", giải thích vì sao giấc mơ thường kỳ lạ, thiếu tính hợp lý mà người mơ vẫn chấp nhận như thật.
 
 <figure>
   <img
