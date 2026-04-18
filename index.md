@@ -43,16 +43,16 @@ bundle exec jekyll serve
 
 
 <details markdown="block">
-<summary><i>...</i></summary>
+<summary><i>___</i></summary>
 
-> ...
+> ___
 {: .codeBlock }
 </details>
 
 
 ⮩
 
-[...]({{ "/docs/___" | relative_url }})
+[___]({{ "/docs/___" | relative_url }})
 
 
 
@@ -96,55 +96,3 @@ bundle exec jekyll serve
     </tr>
   </tbody>
 </table>
-
-
-
-
-1. Tại sao chúng ta ngủ?
-    Giấc ngủ là gì?
-        Giấc ngủ của muôn loài (chương 4)
-    Cơ chế của giấc ngủ
-        Nhịp sinh học (Process-C)
-            Loại thời gian sinh học (Chronotype)
-            Jet lag
-        Áp lực ngủ (Process-S)
-            Caffein
-        Điều hoà giấc ngủ
-        Hai kiểu giấc ngủ
-            N-REM
-            REM
-            Chu kỳ giấc ngủ
-            Ảnh hưởng của Process-S và Process-C đến REM và NREM
-            3.12 Bộ não của bạn sinh ra giấc ngủ như thế nào
-        Các bộ phận của não liên quan đến giấc ngủ
-            Đồi thị (Thalamus)
-            Vỏ não trước trán (prefrontal cortex)
-            Hồi hải mã
-            Hạch hạnh nhân (amygdala)
-            Vùng vân (Striatum)
-2. Tại sao chúng ta nên ngủ?
-    Những thay đổi trong giấc ngủ theo tuổi thọ (chương 5)
-    Đối với não bộ (chương 6)
-        Ghi nhớ
-        Quên
-        Sáng tạo
-3. Tại sao chúng ta ngủ mơ? (PHẦN 3)
-    Xoa dịu nỗi đau
-    Vườm ươm sáng tạo
-    Giải mã thế giới
-4. Những ảnh hưởng của mất ngủ
-    Mất ngủ
-    Bệnh Alzheimer
-    Hệ tim mạch
-    Trao đổi chất
-    Bệnh tiểu đường
-    Béo phì
-    Hệ sinh sản
-    Hệ miễn dịch
-    Gen và ADN    
-5. Những giải pháp cho giấc ngủ
-    Thay đổi xã hội
-    12 lời khuyên cho giấc ngủ ngon
-    "Chợp mắt quyền lực" (power nap)
-
- -->

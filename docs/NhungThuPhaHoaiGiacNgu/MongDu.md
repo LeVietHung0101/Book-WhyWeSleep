@@ -15,18 +15,9 @@ nav_order: 1
 
 ---
 
-<figure>
-  <img
-    src="{{ site.baseurl }}\assets\images\Sleepwalking_Incident_in_Newark.png"
-  />
-  <figcaption>Tác phẩm "Sleepwalking Incident in Newark", bản khắc gỗ năm 1880.<br>
-  Tác phẩm mô tả cảnh tượng một cảnh sát mới vào nghề sợ hãi trước tình huống này, thể hiện sự đối lập giữa sự yên bình của người mộng du và sự thận trọng của người thi hành công vụ.<br>
-  </figcaption>
-</figure>
-
 ## Mộng du xảy ra ở REM hay NREM?
 
-**Mộng du (somnambulism)** là một nhóm các rối loạn giấc ngủ liên quan đến vận động, bao gồm các hành vi như đi bộ, nói mớ, ăn uống, và thậm chí là những hành động phức tạp hơn như nhắn tin hay quan hệ tình dục trong khi ngủ.
+**Mộng du (Somnambulism)** là một nhóm các rối loạn giấc ngủ liên quan đến vận động, bao gồm các hành vi như đi bộ, nói mớ, ăn uống, và thậm chí là những hành động phức tạp hơn như nhắn tin hay quan hệ tình dục trong khi ngủ.
 
 Những hiện tượng này thực chất xảy ra trong giai đoạn **ngủ NREM sâu nhất**, chứ không phải trong giấc mơ REM như nhiều người thường lầm tưởng. Do diễn ra trong giai đoạn không có giấc mơ, người mộng du thường không có hồi ức hay trải nghiệm tâm trí nào khi được đánh thức.
 
@@ -46,3 +37,11 @@ Hiện tượng này **phổ biến ở trẻ em** hơn người lớn, một ph
 1. [Bí ẩn hiện tượng giết người khi mộng du (Vụ án của Kenneth Parks, năm 1987)](https://vnexpress.net/bi-an-hien-tuong-giet-nguoi-khi-mong-du-4720319.html)
 2. [Sleep walking - Sleep Forensis Associates (Các vụ án liên quan đến mộng du)](https://sleepforensicmedicine.org/case-studies/sleep-walking/)
 
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Sleepwalking_Incident_in_Newark.png"
+  />
+  <figcaption>Tác phẩm "Sleepwalking Incident in Newark", bản khắc gỗ năm 1880.<br>
+  Tác phẩm mô tả cảnh tượng một cảnh sát mới vào nghề sợ hãi trước tình huống này, thể hiện sự đối lập giữa sự yên bình của người mộng du và sự thận trọng của người thi hành công vụ.<br>
+  </figcaption>
+</figure>
