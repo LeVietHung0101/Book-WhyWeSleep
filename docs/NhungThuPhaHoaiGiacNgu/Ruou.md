@@ -15,8 +15,6 @@ nav_order: 9
 
 ---
 
----
-
 ## Rượu là chất an thần, không phải công cụ hỗ trợ giấc ngủ
 
 Nhiều người lầm tưởng rượu giúp họ dễ ngủ, nhưng thực tế rượu thuộc nhóm thuốc **an thần**. Nó liên kết với các thụ thể trong não để ngăn các tế bào thần kinh phát xung điện. 
@@ -46,16 +44,24 @@ Khi cơ thể chuyển hóa rượu, nó tạo ra các sản phẩm phụ là al
 
 Đọc thêm:
 1. [Delirium Tremens - Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/25052-delirium-tremens)
- 
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\An_alcoholic_man_with_delirium_Wellcome.jpg"
+  />
+  <figcaption>Tác phẩm "L'alcool tue" của họa sĩ người Pháp Eugène Burnand (đầu thế kỷ 20) mô tả một người đàn ông nghiện rượu bị mê sảng do rượu, đang hấp hối, được bao quanh bởi gia đình đầy lo lắng. Dòng chữ "L'alcool tue" có nghĩa là "Rượu giết người" trong tiếng Pháp.<br>
+  Nguồn: <a href="link" target="_blank">caption_of_link</a>
+  </figcaption>
+</figure>
+
 
 ---
 
 ## Tác động tàn phá lên trí nhớ và sự học hỏi
 
-Một nghiên cứu quan trọng với sinh viên đại học đã chỉ ra rằng rượu gây ra tình trạng **mất trí nhớ một phần** đối với những gì đã học.
-- **Thí nghiệm:** Các sinh viên học một nội dung mới vào ngày thứ nhất. Những người uống rượu vào đêm đầu tiên sau khi học bị **quên mất hơn 50% kiến thức sau một tuần**.
-- **Sự thật đáng kinh ngạc:** Ngay cả khi bạn ngủ ngon hai đêm đầu tiên và chỉ uống rượu vào **đêm thứ ba** sau khi học, bạn vẫn bị quên mất 40% kiến thức. 
-- Điều này chứng tỏ não bộ cần nhiều đêm ngủ tự nhiên liên tục để xử lý và củng cố các ký ức mới, rượu có thể "tẩy sạch" những nỗ lực học tập dù nó được tiêu thụ vài ngày sau đó.
+Một nghiên cứu quan trọng với sinh viên đại học đã chỉ ra rằng rượu gây ra tình trạng **mất trí nhớ một phần** đối với những gì đã học: Các sinh viên học một nội dung mới vào ngày thứ nhất. **Những người uống rượu vào đêm đầu tiên sau khi học bị quên mất hơn 50% kiến thức sau một tuần**.
+
+Ngay cả khi bạn ngủ ngon hai đêm đầu tiên và chỉ uống rượu vào **đêm thứ ba** sau khi học, bạn vẫn bị **quên mất 40% kiến thức**. Điều này chứng tỏ não bộ cần nhiều đêm ngủ tự nhiên liên tục để xử lý và củng cố các ký ức mới, rượu có thể "tẩy sạch" những nỗ lực học tập dù nó được tiêu thụ vài ngày sau đó.
 
 ---
 
