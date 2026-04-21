@@ -34,13 +34,11 @@ Nhiều bước tiến mang tính cách mạng của nhân loại đã bắt ngu
 > 
 > **Cảm giác ý niệm - Ideasthesia:** là cách giải thích sâu hơn của hiện tượng trên, rằng không phải giác quan kích hoạt giác quan, mà chính ý nghĩa (concept) của kích thích mới là thứ tạo ra trải nghiệm cảm giác. *Ví dụ: Ký tự "5" có thể có màu khác nhau tùy bạn hiểu nó là số hay chữ "S", chứng tỏ ý nghĩa quyết định trải nghiệm, không phải bản thân hình dạng.*
 > 
-> Đọc thêm:
-> 1. [Synesthesia / Ideasthesia - Prof. Dr. Danko Nikolic](https://www.danko-nikolic.com/synesthesia-ideasthesia/)
+> Đọc thêm: [Synesthesia / Ideasthesia - Prof. Dr. Danko Nikolic](https://www.danko-nikolic.com/synesthesia-ideasthesia/)
 {: .codeBlock }
 </details>
 
-Đọc thêm:
-1. [How Sleep Facilitates Relational Associative Memory (Giấc ngủ hỗ trợ trí nhớ liên kết như thế nào?)](https://www.brainpost.co/weekly-brainpost/2022/6/14/how-sleep-facilitates-relational-associative-memory)
+Đọc thêm: [How Sleep Facilitates Relational Associative Memory (Giấc ngủ hỗ trợ trí nhớ liên kết như thế nào?)](https://www.brainpost.co/weekly-brainpost/2022/6/14/how-sleep-facilitates-relational-associative-memory)
 
 ---
 
@@ -95,5 +93,4 @@ Mặc dù chỉ có khoảng 20% dân số có khả năng này một cách tự
   </figcaption>
 </figure>
 
-Đọc thêm:
-1. [How to Lucid Dream: Expert Tips and Tricks - Sleep Foundation](https://www.sleepfoundation.org/dreams/lucid-dreams)
+Đọc thêm: [How to Lucid Dream: Expert Tips and Tricks - Sleep Foundation](https://www.sleepfoundation.org/dreams/lucid-dreams)

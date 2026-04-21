@@ -38,8 +38,7 @@ Mục tiêu của quá trình này là giúp chúng ta thực hiện hai việc 
 
 Nếu quá trình này thất bại, chúng ta sẽ luôn cảm thấy căng thẳng mỗi khi nhớ lại các sự kiện đau buồn.
 
-Đọc thêm:
-1. [Dream sleep takes sting out of painful memories - UC Berkeley Research](https://vcresearch.berkeley.edu/news/dream-sleep-takes-sting-out-painful-memories)
+Đọc thêm: [Dream sleep takes sting out of painful memories - UC Berkeley Research](https://vcresearch.berkeley.edu/news/dream-sleep-takes-sting-out-painful-memories)
 
 {: .note }
 Câu nói "thời gian sẽ chữa lành mọi vết thương" chưa đầy đủ, mà cụ thể hơn, chính "**thời gian trong giấc ngủ mơ**" đã mang lại sự hồi phục về mặt cảm xúc.

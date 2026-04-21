@@ -15,8 +15,6 @@ nav_order: 2
 
 ---
 
----
-
 ## Sự xung đột giữa đạo đức và việc tước đoạt giấc ngủ của chính phủ
 
 Sự tàn phá về mặt thể chất và tinh thần do việc thiếu ngủ kéo dài nghiêm trọng đến mức tổ chức **Kỷ lục Thế giới Guinness đã ngừng công nhận** các nỗ lực phá kỷ lục về thời gian thức từ những năm 1980.
@@ -30,16 +28,13 @@ Mặc dù các nhà khoa học coi việc ép buộc con người thiếu ngủ 
 2. [Freezing cells and sleep deprivation: the brutal conditions migrants still face after capture (Buồng giam lạnh cóng và thiếu ngủ: những điều kiện tàn khốc mà người di cư vẫn phải đối mặt sau khi bị bắt giữ.
 )](https://www.theguardian.com/us-news/2014/dec/12/migrants-face-brutal-conditions-after-capture-sleep-deprivation)
 
-
-
 ---
 
 ## Sự vô hiệu của việc thiếu ngủ trong thu thập tình báo
 
-Giáo sư Matthew Walker lập luận rằng việc tước đoạt giấc ngủ hoàn toàn **không hiệu quả cho mục đích thu thập tình báo** chính xác. Thiếu ngủ làm suy yếu mọi chức năng trí tuệ cần thiết như trí nhớ, sự ổn định cảm xúc và khả năng hiểu ngôn ngữ cơ bản. Quan trọng hơn, trạng thái trí não rối loạn do thiếu ngủ làm tăng gấp đôi hoặc thậm chí gấp bốn lần khả năng một cá nhân **thú tội giả** về những việc họ không hề làm. Lời tự thuật của cựu Thủ tướng Israel Menachem Begin cho thấy những người bị tra tấn bằng cách thiếu ngủ sẽ ký bất cứ thứ gì chỉ để đổi lấy cơ hội được ngủ không gián đoạn.
+Việc tước đoạt giấc ngủ hoàn toàn **không hiệu quả cho mục đích thu thập tình báo** chính xác. Thiếu ngủ làm suy yếu mọi chức năng trí tuệ cần thiết như trí nhớ, sự ổn định cảm xúc và khả năng hiểu ngôn ngữ cơ bản. Quan trọng hơn, trạng thái trí não rối loạn do thiếu ngủ làm tăng gấp đôi hoặc thậm chí gấp bốn lần khả năng một cá nhân **thú tội giả** về những việc họ không hề làm. Lời tự thuật của cựu Thủ tướng Israel [Menachem Begin](https://vi.wikipedia.org/wiki/Menachem_Begin) cho thấy những người bị tra tấn bằng cách thiếu ngủ sẽ ký bất cứ thứ gì chỉ để đổi lấy cơ hội được ngủ không gián đoạn.
 
-Đọc thêm:
-1. [Descriptions of Techniques Allegedly Authorized by the CIA (Mô tả các kỹ thuật được cho là do CIA cho phép).](https://www.hrw.org/news/2005/11/21/descriptions-techniques-allegedly-authorized-cia)
+Đọc thêm: [Descriptions of Techniques Allegedly Authorized by the CIA (Mô tả các kỹ thuật được cho là do CIA cho phép).](https://www.hrw.org/news/2005/11/21/descriptions-techniques-allegedly-authorized-cia)
 
 ---
 

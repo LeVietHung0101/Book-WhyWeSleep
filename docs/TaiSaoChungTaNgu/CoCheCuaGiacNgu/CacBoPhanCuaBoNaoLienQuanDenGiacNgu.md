@@ -59,8 +59,7 @@ Ngoài cảm giác, đồi thị còn tham gia vào **điều phối vận độ
 
 Khi đồi thị bị tổn thương, các chức năng này có thể bị ảnh hưởng nghiêm trọng. Người bệnh có thể gặp rối loạn cảm giác (mất cảm giác hoặc đau bất thường), rối loạn vận động (run, yếu cơ), hoặc hội chứng đồi thị (thalamic syndrome) với cơn đau dữ dội khó kiểm soát. Trong trường hợp nặng, tổn thương đồi thị còn có thể làm suy giảm ý thức, dẫn đến trạng thái ngủ rũ (narcolepsy) hoặc hôn mê.
 
-Đọc thêm:
-1. [Chứng ngủ rũ: Narcolepsy - National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/health-information/disorders/narcolepsy)
+Đọc thêm: [Chứng ngủ rũ: Narcolepsy - National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/health-information/disorders/narcolepsy)
 
 ---
 

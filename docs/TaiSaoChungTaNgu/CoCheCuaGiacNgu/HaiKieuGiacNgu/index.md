@@ -58,8 +58,7 @@ Từ giữa đêm trở đi, cấu trúc này dần đảo chiều. Các pha REM
 Chu kỳ NREM - REM là một đặc điểm phổ quát ở nhiều loài, nhưng độ dài mỗi chu kỳ có sự khác biệt. Ở người, chu kỳ tương đối dài ( khoảng 90 phút), trong khi ở nhiều loài động vật khác, chu kỳ này thường ngắn hơn đáng kể.
 
 
-Đọc thêm:
-1. [Physiology, Sleep Stages  - National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+Đọc thêm: [Physiology, Sleep Stages  - National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
 
 ---
 
@@ -132,8 +131,7 @@ Process-S tác động đến REM theo cách gián tiếp hơn. Trong điều ki
 {: .codeBlock }
 </details>
 
-Đọc thêm:
-1. [REM Rebound: Causes and Effects - Sleep Foundation](https://www.sleepfoundation.org/how-sleep-works/rem-rebound)
+Đọc thêm: [REM Rebound: Causes and Effects - Sleep Foundation](https://www.sleepfoundation.org/how-sleep-works/rem-rebound)
 
 {: .note }
 **Process-S** chủ yếu thúc đẩy giấc ngủ NREM, đặc biệt là giấc ngủ sâu, để đáp ứng nhu cầu phục hồi thể chất. Nó ảnh hưởng gián tiếp đến REM thông qua hiện tượng REM rebound khi áp lực ngủ giảm.

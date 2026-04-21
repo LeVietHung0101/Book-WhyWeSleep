@@ -85,8 +85,8 @@ Một giấc ngủ ngắn (40-120 phút) vào đầu buổi tối trước khi t
 
 Giấc ngủ ngắn sớm là **giải pháp tạm thời nhằm giảm mệt mỏi** (như cho phi công), nhưng không thay thế giấc ngủ đủ 8 giờ. Thiếu ngủ mạn tính (<7 giờ) gây suy giảm nghiêm trọng, và chỉ rất ít người (do gene hiếm) chịu được, nên ưu tiên giấc ngủ đầy đủ để duy trì sức khỏe và hiệu suất. 
 
-Đọc thêm:
-1. [Do Pilots Sleep when Flying the Plane - FlightDeckFriend.com](https://www.flightdeckfriend.com/ask-a-pilot/do-pilots-sleep-in-flight/)
+Đọc thêm: [Do Pilots Sleep when Flying the Plane - FlightDeckFriend.com](https://www.flightdeckfriend.com/ask-a-pilot/do-pilots-sleep-in-flight/)
+
 ---
 
 ## Liệu pháp Hành vi Nhận thức cho Chứng mất ngủ (CBT-I)

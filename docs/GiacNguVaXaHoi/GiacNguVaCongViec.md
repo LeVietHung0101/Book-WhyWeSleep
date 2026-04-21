@@ -72,8 +72,7 @@ Thiếu ngủ làm suy yếu vùng vỏ não trước trán (nơi kiểm soát x
 - **Sự gian dối:** Nhân viên ngủ ít hơn 6 tiếng có tỷ lệ **nói dối, làm giả hóa đơn thanh toán và đổ lỗi cho người khác** cao hơn.
 - **Lười biếng xã hội (Social Loafing):** Những người thiếu ngủ có xu hướng "dựa dẫm" vào nỗ lực của tập thể, làm ít việc hơn nhưng vẫn muốn nhận thành quả chung, gây ra sự bất mãn và xung đột trong nhóm.
 
-Đọc thêm:
-1. [Social loafing là gì: Tâm lý ỷ lại khiến 1 người làm, 10 người muốn hưởng](https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/social-loafing-la-gi)
+Đọc thêm: [Social loafing là gì: Tâm lý ỷ lại khiến 1 người làm, 10 người muốn hưởng](https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/social-loafing-la-gi)
 
 ---
 

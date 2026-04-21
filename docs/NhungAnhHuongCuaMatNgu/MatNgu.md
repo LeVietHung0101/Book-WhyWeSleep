@@ -90,8 +90,7 @@ Thiếu ngủ khiến bộ não rơi vào trạng thái dao động quá mức g
   />
 </figure>
 
-Đọc thêm:
-1. [TED Series, Part VI: Sleep and Mental Health – The Neuroscience of Restoration and Affective Regulation](https://neuroaffectivecbt.com/2025/10/28/ted-series-part-vi-sleep-and-mental-health-the-neuroscience-of-restoration-and-affective-regulation/)
+Đọc thêm: [TED Series, Part VI: Sleep and Mental Health – The Neuroscience of Restoration and Affective Regulation](https://neuroaffectivecbt.com/2025/10/28/ted-series-part-vi-sleep-and-mental-health-the-neuroscience-of-restoration-and-affective-regulation/)
 
 ---
 

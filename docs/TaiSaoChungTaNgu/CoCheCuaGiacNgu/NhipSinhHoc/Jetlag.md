@@ -65,5 +65,4 @@ Những đối tượng chịu ảnh hưởng rõ rệt nhất là **phi công, 
 
 Để hạn chế ảnh hưởng trên, có thể uống thuốc ngủ chứa melatonin. Việc này kích hoạt sự gia tăng nhân tạo trong việc lưu thông melatonin để bắt chước sự gia tăng đột biến melatonin tự nhiên ở múi giờ mới. Tuy nhiên, đây chỉ là biện pháp hỗ trợ; việc thích nghi hoàn toàn vẫn cần thời gian để đồng hồ sinh học tự điều chỉnh.
 
-Đọc thêm:
-1. [Tổng quan bệnh Jet lag - Vinmec](https://www.vinmec.com/vie/benh/jet-lag-3184)
+Đọc thêm: [Tổng quan bệnh Jet lag - Vinmec](https://www.vinmec.com/vie/benh/jet-lag-3184)
