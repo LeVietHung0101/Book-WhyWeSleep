@@ -50,7 +50,10 @@ Khi một số trường học (như ở Edina, Minnesota) lùi giờ học từ
 - **Cải thiện tinh thần:** Tỷ lệ đi học chuyên cần tăng lên, các vấn đề tâm lý và hành vi giảm xuống, tình trạng lạm dụng chất gây nghiện cũng giảm theo.
 - **Tăng tuổi thọ (Giảm tai nạn giao thông):** Đây là kết quả bất ngờ nhất. Tại hạt Teton, Wyoming, khi lùi giờ học sang 8:55 sáng, tỷ lệ tai nạn giao thông ở tài xế từ 16-18 tuổi đã **giảm tới 70%**.
 
-Đọc thêm: [PROOF POINTS: Later school start time gave small boost to grades but big boost to sleep, new study finds (BẰNG CHỨNG: Nghiên cứu mới cho thấy, việc bắt đầu học muộn hơn giúp cải thiện điểm số một chút nhưng lại giúp cải thiện giấc ngủ đáng kể.)](https://hechingerreport.org/proof-points-later-school-start-time-gave-small-boost-to-grades-but-big-boost-to-sleep-new-study-finds/)
+Đọc thêm:
+
+1. [PROOF POINTS: Later school start time gave small boost to grades but big boost to sleep, new study finds (BẰNG CHỨNG: Nghiên cứu mới cho thấy, việc bắt đầu học muộn hơn giúp cải thiện điểm số một chút nhưng lại giúp cải thiện giấc ngủ đáng kể.)](https://hechingerreport.org/proof-points-later-school-start-time-gave-small-boost-to-grades-but-big-boost-to-sleep-new-study-finds/)
+2. [Vì Sao Trẻ Nên Tới Trường Muộn Hơn Vào Buổi Sáng? - Viện tâm lý Việt - Pháp](https://tamlyvietphap.vn/vi-sao-tre-nen-toi-truong-muon-hon-vao-buoi-sang/)
 
 ---
 

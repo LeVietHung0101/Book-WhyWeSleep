@@ -16,3 +16,6 @@ nav_order: 4
 ---
 
 Giấc ngủ REM tạo ra một "sân khấu ban đêm" để não kết nối thông tin từ các nguồn xa lạ, thúc đẩy giải quyết vấn đề và sáng tạo thông qua các liên tưởng không hiển nhiên.
+
+Đọc tiếp phần: [Giấc mơ sáng tạo và giấc mơ kiểm soát]({{ "/docs/TaiSaoChungTaNguMo/GiacMoSangTaoVaGiacMoKiemSoat/" | relative_url }})
+
