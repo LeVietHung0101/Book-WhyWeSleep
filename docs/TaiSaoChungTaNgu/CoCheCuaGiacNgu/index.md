@@ -1,7 +1,7 @@
 ---
 title: Giấc ngủ hoạt động thế nào?
 parent: Tại sao chúng ta ngủ?
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 

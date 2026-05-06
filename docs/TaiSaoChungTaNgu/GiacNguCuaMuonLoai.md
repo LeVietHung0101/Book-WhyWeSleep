@@ -1,7 +1,7 @@
 ---
 title: Giấc ngủ của muôn loài
 parent: Tại sao chúng ta ngủ?
-nav_order: 1
+nav_order: 2
 ---
 
 # Giấc ngủ của muôn loài
@@ -66,7 +66,7 @@ Một vài sinh vật đơn bào có vòng đời dài hơn 24 giờ:
 
 ## Giấc ngủ của muôn loài
 
-Tổng thời gian ngủ của mỗi loài đều khác nhau. Dù cùng một nhóm họ (động vật gặm nhấm) nhưng loài sóc và chuột vẫn có tổng thời gian ngủ khác nhau. Những loài ngủ nhiều hơn thì có giấc ngủ sâu hơn, chất lượng cao hơn. Mọi sinh vật sống với tuổi thọ dài hơn vài ngày sẽ tạo ra chu kỳ tự nhiên, gọi là nhịp sinh học 24h.
+Tổng thời gian ngủ của mỗi loài đều khác nhau. Dù cùng một nhóm họ (động vật gặm nhấm) nhưng loài sóc và chuột vẫn có tổng thời gian ngủ khác nhau. Những loài ngủ nhiều hơn thì có giấc ngủ sâu hơn, chất lượng cao hơn. Mọi sinh vật sống với tuổi thọ dài hơn vài ngày sẽ tạo ra chu kỳ tự nhiên, gọi là nhịp sinh học 24 giờ.
 
 Chưa có quy tắc để dự đoán tổng thời gian ngủ của mỗi loài. Các yếu tố đã được xem xét: cân nặng, kích thước, chế độ ăn (ăn tạp, ăn chay, ăn thịt), sự hiện diện và bản chất của mạng lưới xã hội, tỷ lệ trao đổi chất, tính phức tạp của hệ thần kinh. 
 
@@ -79,7 +79,7 @@ Chưa có quy tắc để dự đoán tổng thời gian ngủ của mỗi loài
 
 Một vài sinh vật có tuổi thọ ngắn hơn một ngày như:
 - [Phù du](https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_ph%C3%B9_du) (giai đoạn trưởng thành): vài phút (5 phút) đến vài giờ (giai đoạn ấu trùng lại kéo dài 1-2 năm). Chúng sẽ thực hiện các hoạt động giao phối và sinh sản trong khoảng thời gian ngắn ngủi này.
-- Giun bụng lông ([gastrotricha](https://en.wikipedia.org/wiki/Gastrotrich)): khoảng 3 ngày, vì là nguồn thức ăn cho nhiều loài khác. Tuy tuổi thọ lớn hơn 24h nhưng chúng không có nhịp sinh học 24h, cũng như là một trong những loài có tuổi thọ ngắn nhất.
+- Giun bụng lông ([Gastrotricha](https://vi.wikipedia.org/wiki/Gastrotricha)): khoảng 3 ngày, vì là nguồn thức ăn cho nhiều loài khác. Tuy tuổi thọ lớn hơn 24 giờ nhưng chúng không có nhịp sinh học 24 giờ, cũng như là một trong những loài có tuổi thọ ngắn nhất.
 
 ---
 
@@ -96,8 +96,7 @@ Dù không ngủ, thực vật vẫn có nhịp sinh học ngày - đêm rất r
 {: .note }
 Thực vật không ngủ vì thiếu nền tảng sinh học cần thiết cho giấc ngủ - đó là hệ thần kinh và ý thức. Những gì chúng thể hiện chỉ là các chu kỳ hoạt động - nghỉ mang tính tự động, giúp chúng thích nghi hiệu quả với môi trường sống.
 
-Video: [Season 1, Episode 2: Do plants sleep?](https://www.youtube.com/watch?v=Kz6dkOXdVkc) - "No brain, no sleep".
-
+Xem thêm: [Season 1, Episode 2: Do plants sleep?](https://www.youtube.com/watch?v=Kz6dkOXdVkc).
 
 <figure>
   <img
@@ -111,16 +110,29 @@ Video: [Season 1, Episode 2: Do plants sleep?](https://www.youtube.com/watch?v=K
 
 ## Các sinh vật có mơ không?
 
-Không phải mọi sinh vật đều "mơ". Khả năng mơ thường gắn với giấc ngủ REM, và trạng thái này chủ yếu xuất hiện rõ ở chim và động vật có vú (trừ động vật có vú sống dưới nước). Ở các nhóm như cá, côn trùng hay phần lớn bò sát, giấc ngủ REM rất mờ nhạt hoặc chưa được xác nhận rõ, nên chưa thể kết luận chúng có mơ hay không.
+Không phải mọi sinh vật đều "mơ". Khả năng mơ thường gắn với [giấc ngủ REM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/" | relative_url }}), và trạng thái này chủ yếu xuất hiện rõ ở chim và động vật có vú (trừ động vật có vú sống dưới nước). Ở các nhóm như cá, côn trùng hay phần lớn bò sát, giấc ngủ REM rất mờ nhạt hoặc chưa được xác nhận rõ, nên chưa thể kết luận chúng có mơ hay không.
 
 Động vật có vú dưới nước không có giấc ngủ REM do giấc ngủ REM gây liệt cơ tạm thời, trạng thái này không phù hợp với nhu cầu phải bơi và nổi lên để thở. Có thể giấc ngủ REM vẫn xuất hiện, nhưng với các đặc điểm mà ta chưa hiểu rõ.
 
 
 Một ngoại lệ đáng chú ý là nhóm động vật có vú của nhánh động vật chân màng, giấc ngủ REM của chúng được phân chia theo môi trường:
-- Khi ở trên cạn: chúng có đủ giấc ngủ REM và NREM.
+- Khi ở trên cạn: chúng có đủ [giấc ngủ REM và NREM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/" | relative_url }}).
 - Khi ở dưới nước: *gần như không có giấc ngủ REM*, hoặc chỉ có ở mức rất thấp (ví dụ hải cẩu khi ở dưới nước chỉ đạt 5-10% lượng giấc ngủ REM so với khi ở trên cạn).
 
-Về tiến hoá, giấc ngủ đã xuất hiện từ rất sớm (khoảng 500 triệu năm trước, ở giun trong suốt thời kỳ bùng nổ kỷ Cambri), nhưng giấc ngủ REM xuất hiện muộn hơn (ít nhất 100 triệu năm trước, ở thằn lằn râu - bearded dragon, Pogona vitticeps - ở Úc) và chỉ ở một số nhóm có hệ thần kinh phát triển hơn. Điều này cho thấy: không phải mọi loài đều mơ, và giấc mơ là một đặc điểm tiến hoá "nâng cao".
+Về tiến hoá, giấc ngủ đã xuất hiện từ rất sớm (khoảng 500 triệu năm trước, ở giun trong suốt thời kỳ bùng nổ kỷ Cambri), nhưng giấc ngủ REM xuất hiện muộn hơn (ít nhất 100 triệu năm trước, ở thằn lằn râu - bearded dragon, Pogona vitticeps - ở Úc) và chỉ ở một số nhóm có hệ thần kinh phát triển hơn. Điều này cho thấy: **Không phải mọi loài đều mơ, và giấc mơ là một đặc điểm tiến hoá "nâng cao"**.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Sleep_in_animals.png"
+  />
+  <figcaption>Các nhà nghiên cứu phát hiện ngày càng nhiều loài trong giới động vật có các pha ngủ khác nhau. Ở động vật có vú, giấc ngủ gồm REM (pha ngủ động - <strong>active sleep</strong>) và NREM (pha ngủ tĩnh - <strong>quiet sleep</strong>), gắn với các kiểu hoạt động não đặc trưng. Dù chưa được nghiên cứu đầy đủ ở mọi loài, nhiều động vật cũng cho thấy sự xen kẽ giữa pha ngủ động (có cử động, giật nhẹ, chuyển động mắt nhanh) và pha ngủ tĩnh (không có các biểu hiện này). Điều này cho thấy việc tồn tại nhiều loại giấc ngủ có ý nghĩa tiến hóa quan trọng.<br>
+  Nguồn: <a href="https://www.smithsonianmag.com/science-nature/do-other-animals-dream-180982861/" target="_blank">Do Other Animals Dream? - Smithsonian Magazine</a> 
+  </figcaption>
+</figure>
+
+Đọc thêm:
+1. [Do Other Animals Dream? - Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/do-other-animals-dream-180982861/)
+2. [Diversity of REM sleep - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154624001086)
 
 ---
 
@@ -139,15 +151,15 @@ Một điểm quan trọng là giấc ngủ đơn bán cầu não chỉ xảy ra
 
 <figure>
   <img
-    src="{{ site.baseurl }}\assets\images\SleepDiagram_JessicaKendall-Bar.png"
+    src="{{ site.baseurl }}\assets\images\SleepDiagram.png"
   />
   <figcaption>
-  Nguồn: <a href="https://www.eurekalert.org/multimedia/981557" target="_blank">Sleep Diagram (IMAGE) - University of California - Santa Cruz</a>
+  Dựa trên: <a href="https://www.eurekalert.org/multimedia/981557" target="_blank">Sleep Diagram (IMAGE) - University of California - Santa Cruz</a>
   </figcaption>
 </figure>
 
-Các loài động vật có vú sống dưới nước (cetaceans, như cá voi và cá heo), cùng với họ hải cẩu tai ngoài (otariids, như hải cẩu lông (fur seals) và sư tử biển) có khả năng giữ một bên bán cầu não thức trong khi bên còn lại ngủ (giấc ngủ đơn bán cầu).
-Trong khi đó, ở hầu hết các loài động vật có vú khác, bao gồm con người và nhóm hải cẩu không tai (phocids, như hải mã và hải cẩu thật (true seals)), cả hai bán cầu não đều ngủ cùng một lúc. 
+Các loài động vật có vú sống dưới nước (cetaceans, như cá voi và cá heo), cùng với [họ hải cẩu tai ngoài (otariidae)](https://vi.wikipedia.org/wiki/Otariidae) (như [hải cẩu lông (fur seals)](https://vi.wikipedia.org/wiki/Arctocephalinae) và [sư tử biển (sea lion)](https://vi.wikipedia.org/wiki/S%C6%B0_t%E1%BB%AD_bi%E1%BB%83n)) có khả năng giữ một bên bán cầu não thức trong khi bên còn lại ngủ (giấc ngủ đơn bán cầu).
+Trong khi đó, ở hầu hết các loài động vật có vú khác, bao gồm con người và [nhóm hải cẩu không tai (phocidae)](https://en.wikipedia.org/wiki/Phocidae) (như [moóc (walrus)](https://vi.wikipedia.org/wiki/Mo%C3%B3c_(%C4%91%E1%BB%99ng_v%E1%BA%ADt)) và [hải cẩu thật (true seals)](https://vi.wikipedia.org/wiki/H%E1%BB%8D_H%E1%BA%A3i_c%E1%BA%A9u_th%E1%BA%ADt_s%E1%BB%B1)), cả hai bán cầu não đều ngủ cùng một lúc. 
 
 <figure>
   <img
@@ -163,26 +175,26 @@ Trong khi đó, ở hầu hết các loài động vật có vú khác, bao gồ
   <img
     src="{{ site.baseurl }}\assets\images\Unihemispheric_Slow_Wave_Sleep_in_Bird.jpg"
   />
-  <figcaption>
+  <figcaption>Áp lực giấc ngủ khiến chim chuyển từ giấc ngủ không đối xứng sang giấc ngủ đối xứng.<br>
   Nguồn: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00293-3?rss=yes" target="_blank">Sleep pressure causes birds to trade asymmetric sleep for symmetric sleep - Current Biology - A Cell Press journal</a>
   </figcaption>
 </figure>
 
 Đọc thêm:
-1. [Sleep pressure causes birds to trade asymmetric sleep for symmetric sleep - Current Biology - A Cell Press journal](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00293-3?rss=yes)
-2. [How Do Whales Sleep? - Baja Expeditions](https://bajaex.com/blogs/san-ignacio/how-do-whales-sleep/)
+1. [How Do Whales Sleep? - Baja Expeditions](https://bajaex.com/blogs/san-ignacio/how-do-whales-sleep/)
+2. [Sleep pressure causes birds to trade asymmetric sleep for symmetric sleep - Current Biology - A Cell Press journal](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00293-3?rss=yes)
 
 ---
 
 ## Giảm thời gian ngủ do chịu áp lực
 
-Khi bị ảnh hưởng bởi áp lực môi trường cực đoan, một số loài có thể phát triển các cơ chế đặc biệt để thích nghi hoặc giảm/điều chỉnh thời lượng giấc ngủ: 
+Khi bị ảnh hưởng bởi áp lực từ môi trường cực đoan, một số loài có thể phát triển các cơ chế đặc biệt để thích nghi hoặc giảm/điều chỉnh thời lượng giấc ngủ: 
 
-- **Đói**: Khi thiếu thức ăn nghiêm trọng, động vật (như ruồi hoặc con người) sẽ giảm ngủ để tìm kiếm thức ăn, tạm thời ưu tiên dinh dưỡng hơn giấc ngủ. 
+- **Đói**: Khi thiếu thức ăn nghiêm trọng, động vật (như ruồi hoặc con người) sẽ giảm thời gian ngủ để tìm kiếm thức ăn, tạm thời ưu tiên dinh dưỡng hơn giấc ngủ. 
 
-- **Cá voi sát thủ**: Mẹ và con non không ngủ trong hành trình trở về đàn sau khi sinh, do nguy cơ con non mới sinh bị giết là 50%, bất chấp nhu cầu ngủ cao ở trẻ sơ sinh. 
+- **Cá voi sát thủ**: Mẹ và con non không ngủ trong suốt hành trình trở về đàn sau khi sinh, do nguy cơ con non mới sinh bị giết là 50%, bất chấp nhu cầu ngủ cao ở con non. 
 
-- **Chim di cư**: Các loài chim, như chim sẻ mào trắng (white-crowned sparrow), chịu được thiếu ngủ trong các chuyến bay dài bằng cách ngủ ngắn (vài giây) trong lúc bay. Đặc biệt, chim sẻ mào trắng có khả năng chịu thiếu ngủ hoàn toàn trong mùa di cư mà không bị ảnh hưởng, nhưng ngoài mùa này, thiếu ngủ gây rối loạn nghiêm trọng. 
+- **Chim di cư**: Các loài chim, như [chim sẻ mào trắng (white-crowned sparrow)](https://en.wikipedia.org/wiki/White-crowned_sparrow), chịu được thiếu ngủ trong các chuyến bay dài bằng cách ngủ ngắn (vài giây) trong lúc bay. Đặc biệt, chim sẻ mào trắng có khả năng chịu thiếu ngủ hoàn toàn trong mùa di cư mà không bị ảnh hưởng, nhưng ngoài mùa này, thiếu ngủ gây rối loạn nghiêm trọng. 
 
 <figure>
   <img
@@ -190,8 +202,8 @@ Khi bị ảnh hưởng bởi áp lực môi trường cực đoan, một số l
   />
 </figure>
 
-Chính phủ Mỹ đang đầu tư nghiên cứu khả năng chịu thiếu ngủ của chim sẻ mào trắng, hy vọng áp dụng để tạo ra "chiến binh 24 giờ". 
-Trung bình, chỉ có 25% ứng viên SEAL vượt qua được [Tuần Lễ Địa Ngục (Hell Week)](https://navyseals.com/nsw/hell-week-0/), khóa huấn luyện khắc nghiệt nhất trong quân đội Hoa Kỳ. Tuần Lễ Địa Ngục bao gồm 5 ngày rưỡi huấn luyện tác chiến khắc nghiệt, lạnh lẽo và ẩm ướt với tổng thời gian ngủ chưa đến 4 tiếng. Học viên thực hiện các bài tập đòi hỏi họ phải suy nghĩ, lãnh đạo, đưa ra quyết định đúng đắn và hoạt động hiệu quả ngay cả khi thiếu ngủ trầm trọng, gần như hạ thân nhiệt, thậm chí ảo giác.
+Chính phủ Mỹ đang đầu tư vào nghiên cứu khả năng chịu thiếu ngủ của chim sẻ mào trắng, hy vọng áp dụng để tạo ra "chiến binh 24 giờ". 
+Trung bình, chỉ có 25% ứng viên SEAL vượt qua được [Tuần Lễ Địa Ngục (Hell Week)](https://navyseals.com/nsw/hell-week-0/), khóa huấn luyện khắc nghiệt nhất trong quân đội Mỹ. Tuần Lễ Địa Ngục bao gồm 5 ngày rưỡi huấn luyện tác chiến khắc nghiệt, lạnh lẽo và ẩm ướt với tổng thời gian ngủ chưa đến 4 tiếng. Học viên thực hiện các bài tập đòi hỏi họ phải suy nghĩ, lãnh đạo, đưa ra quyết định đúng đắn và hoạt động hiệu quả ngay cả khi thiếu ngủ trầm trọng, gần như hạ thân nhiệt, thậm chí ảo giác.
 
 Đọc thêm:
 1. [Hiện tượng mất ngủ khi di cư ở chim sẻ mào trắng, Migratory Sleeplessness in the White-Crowned Sparrow (Zonotrichia leucophrys gambelii).](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020212)
