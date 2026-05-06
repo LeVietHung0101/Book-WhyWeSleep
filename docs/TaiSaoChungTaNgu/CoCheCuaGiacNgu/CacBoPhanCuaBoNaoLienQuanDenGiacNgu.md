@@ -10,16 +10,19 @@ nav_order: 5
 
 ## Nhân trên chéo thị giác
 
-**Nhân trên chéo thị giác (Suprachiasmatic Nucleus – SCN)** là trung tâm điều khiển nhịp sinh học. Đây là một cụm tế bào thần kinh nhỏ nằm ở giữa não, phía trên [vùng giao thoa thị giác (optic chiasm)](https://vi.wikipedia.org/wiki/Giao_thoa_th%E1%BB%8B_gi%C3%A1c) trong não, nơi giao nhau của các dây thần kinh thị giác.
+**Nhân trên chéo thị giác (Suprachiasmatic Nucleus – SCN)*- là trung tâm điều khiển nhịp sinh học. Đây là một cụm tế bào thần kinh nhỏ nằm ở giữa não, phía trên [vùng giao thoa thị giác (optic chiasm)](https://vi.wikipedia.org/wiki/Giao_thoa_th%E1%BB%8B_gi%C3%A1c) trong não, nơi giao nhau của các dây thần kinh thị giác.
 
 Nhân trên chéo thị giác sẽ nhận tín hiệu trực tiếp từ võng mạc (thông qua vùng giao thoa thị giác), từ đó điều hòa nhịp sinh học bằng cách gửi tín hiệu kích hoạt tuyến tùng (pineal gland) trong não để tăng hoặc giảm việc tiết hormone [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}).
 
 <figure>
   <img
-    src="{{ site.baseurl }}\assets\images\Suprachiasmatic_Nucleus.jpg"
+    src="{{ site.baseurl }}\assets\images\Suprachiasmatic_Nucleus_And_Optic_Chiasm.jpg"
+  />
+  <img
+    src="{{ site.baseurl }}\assets\images\Suprachiasmatic_Nucleus_And_Optic_Chiasm_2.png"
   />
   <figcaption>Vị trí của nhân trên chéo thị giác trong não người.<br>
-  Vỏ não (Cerebral cortex), Nhân trên chéo thị giác (Suprachiasmatic nucleus),  Giao thoa thị giác (Optic chiasm),<br>Vùng dưới đồi (Hypothalamus), Tuyến tùng (Pineal gland).<br>
+  Vỏ não (Cerebral cortex), Nhân trên chéo thị giác (Suprachiasmatic nucleus), Giao thoa thị giác (Optic chiasm),<br>Vùng dưới đồi (Hypothalamus), Tuyến tùng (Pineal gland).<br>
   Nguồn: <a href="https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus" target="_blank">Suprachiasmatic nucleus - Wikipedia</a> 
   </figcaption>
 </figure>
@@ -35,8 +38,18 @@ Nhân trên chéo thị giác sẽ nhận tín hiệu trực tiếp từ võng m
 ---
 
 ## Tuyến tùng
-
+{: #pineal-gland}
 Tuyến tùng (Pineal gland) là một tuyến nội tiết nhỏ nằm sâu trong trung tâm não, gần vùng đồi thị. Nó đóng vai trò quan trọng trong việc điều hòa nhịp sinh học của cơ thể. Chức năng chính của tuyến tùng là sản xuất hormone [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}).
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Pineal_gland.jpg"
+  />
+  <figcaption>Vị trí của nhân trên chéo thị giác trong não người.<br>
+  Vỏ não (Cerebral cortex), Nhân trên chéo thị giác (Suprachiasmatic nucleus), Giao thoa thị giác (Optic chiasm),<br>Vùng dưới đồi (Hypothalamus), Tuyến tùng (Pineal gland).<br>
+  Nguồn: <a href="https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus" target="_blank">Suprachiasmatic nucleus - Wikipedia</a> 
+  </figcaption>
+</figure>
 
 ---
 
@@ -55,7 +68,7 @@ Tuyến tùng (Pineal gland) là một tuyến nội tiết nhỏ nằm sâu tro
 
 Chức năng nổi bật nhất của đồi thị là **trung chuyển và kiểm soát thông tin cảm giác**. Hầu hết các tín hiệu từ cơ thể như xúc giác, thị giác, thính giác, vị giác, cảm giác đau và nhiệt độ đều phải đi qua đồi thị trước khi đến vỏ não để được nhận thức. Không chỉ đơn thuần truyền tín hiệu, đồi thị còn đóng vai trò như một "bộ lọc", quyết định thông tin nào được phép đi tiếp, từ đó giúp não tránh bị quá tải bởi kích thích từ môi trường.
 
-Ngoài cảm giác, đồi thị còn tham gia vào **điều phối vận động** bằng cách nhận tín hiệu từ tiểu não và hạch nền, rồi chuyển tiếp đến vỏ não vận động để tinh chỉnh cử động. Đồng thời, nó góp phần quan trọng trong việc **điều hòa trạng thái ý thức và cảm xúc**, thông qua liên kết với hệ viền (limbic system) và tham gia vào việc duy trì chu kỳ ngủ – thức.
+Ngoài cảm giác, đồi thị còn tham gia vào **điều phối vận động*- bằng cách nhận tín hiệu từ tiểu não và hạch nền, rồi chuyển tiếp đến vỏ não vận động để tinh chỉnh cử động. Đồng thời, nó góp phần quan trọng trong việc **điều hòa trạng thái ý thức và cảm xúc**, thông qua liên kết với hệ viền (limbic system) và tham gia vào việc duy trì chu kỳ ngủ – thức.
 
 Khi đồi thị bị tổn thương, các chức năng này có thể bị ảnh hưởng nghiêm trọng. Người bệnh có thể gặp rối loạn cảm giác (mất cảm giác hoặc đau bất thường), rối loạn vận động (run, yếu cơ), hoặc hội chứng đồi thị (thalamic syndrome) với cơn đau dữ dội khó kiểm soát. Trong trường hợp nặng, tổn thương đồi thị còn có thể làm suy giảm ý thức, dẫn đến trạng thái ngủ rũ (narcolepsy) hoặc hôn mê.
 
@@ -82,13 +95,77 @@ Về cấu trúc, neocortex gồm nhiều lớp tế bào thần kinh (thường
 
 ---
 
+## Vùng dưới đồi
+{: #hypothalamus }
+Vùng dưới đồi (Hypothalamus) là một vùng não sâu nằm ngay phía trước thân não. Nó đóng vai trò như **"trung tâm điều khiển"*- giúp duy trì trạng thái cân bằng nội môi (homeostasis).
+
+Nó là cầu nối giữa **hệ thần kinh và hệ nội tiết**, hoạt động bằng cách:
+- Điều khiển hệ thần kinh tự động (nhịp tim, hô hấp, huyết áp,...).
+- Sản xuất và điều phối hormone thông qua tuyến yên.
+
+**Các chức năng chính:**
+- Điều hòa nhiệt độ cơ thể.
+- Kiểm soát đói, khát và cảm giác no.
+- Ảnh hưởng tâm trạng, ham muốn tình dục.
+- Điều chỉnh giấc ngủ và nhịp sinh học.
+- Kiểm soát huyết áp và nhiều chức năng sống quan trọng.
+
+**Nếu bị rối loạn hoặc tổn thương**, vùng dưới đồi có thể gây ra nhiều vấn đề như:
+- Rối loạn hormone (ảnh hưởng tăng trưởng, sinh sản,...).
+- Mất cân bằng nước, huyết áp.
+- Rối loạn giấc ngủ, thân nhiệt.
+- Các bệnh như [đái tháo nhạt](https://tamanhhospital.vn/benh/dai-thao-nhat/) hoặc [rối loạn tuyến yên](https://tamanhhospital.vn/benh/roi-loan-tuyen-yen/).
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Hypothalamus.jpg"
+  />
+  <figcaption>Vùng dưới đồi (Hypothalamus), Thể vòm của hồi hải mã (Fornix of hippocampus), Đồi thị (Thalamus), Cầu não (Pons), Giao thoa thị giác (Optic chiasm), Tuyến yên trước (Anterior pituitary), Tuyến yên sau (Posterior pituitary).<br>
+  Nguồn: <a href="https://my.clevelandclinic.org/health/body/22566-hypothalamus" target="_blank">Hypothalamus: What It Is, Function, Conditions & Disorders - Cleveland Clinic</a> 
+  </figcaption>
+</figure>
+
+Đọc thêm: [Hypothalamus: What It Is, Function, Conditions & Disorders - Cleveland Clinic](https://my.clevelandclinic.org/health/body/22566-hypothalamus?utm_source=chatgpt.com)
+
+---
+
 ## Hồi hải mã
 
-Đồi hải mã (Hippocampus) là nơi lưu trữ tạm thời các ký ức mới (thông tin, trải nghiệm mới). Vùng này có dung lượng hạn chế và không ổn định về lâu dài.
+Hồi hải mã (hippocampus) là một cấu trúc nhỏ trong não (thuộc thùy thái dương và hệ viền), là nơi lưu trữ tạm thời các ký ức mới (thông tin, trải nghiệm mới), có vai trò cốt lõi trong **học tập và trí nhớ**.
+
+**Chức năng chính:**
+- Chuyển đổi trí nhớ ngắn hạn thành ký ức dài hạn (tổ chức, lưu trữ, truy xuất thông tin).
+- Hỗ trợ học tập và nhận thức môi trường.
+- Ghi nhớ không gian (định vị, điều hướng) và ngôn ngữ (chọn từ phù hợp).
+- Tham gia trí nhớ tường minh (sự kiện, trải nghiệm).
+
+**Đặc điểm & liên kết:**
+- Có hai hồi hải mã (trái và phải), nằm sâu trong thùy thái dương.
+- Thuộc **hệ viền**, phối hợp với các vùng như [hạch hạnh nhân (amygdala)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#amygdala" | relative_url }}) để gắn trí nhớ với cảm xúc.
+- Có dung lượng hạn chế và không ổn định về lâu dài.
+
+**Khi bị tổn thương:**
+- Gây **mất trí nhớ**, khó tạo ký ức mới, rối loạn nhận thức.
+- Liên quan đến các bệnh như Alzheimer, sa sút trí tuệ, động kinh, PTSD,...
+
+**Cách bảo vệ:**
+- Duy trì lối sống lành mạnh: ngủ đủ, tập thể dục, học hỏi, giảm stress.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Hippocampus.jpg"
+  />
+  <figcaption>Hồi hải mã (Hippocampus), Hồi đai (Cingulate gyrus), Đồi thị (Thalamus), Hạch hạnh nhân (Amygdala), Hệ viền (Limbic system), Chức năng của hồi hải mã (Functions of the hippocampus), Trí nhớ ngắn hạn và dài hạn (Short and long-term memory), Học tập (Learning), Trí nhớ không gian (Spatial memory).<br>
+  Nguồn: <a href="https://my.clevelandclinic.org/health/body/hippocampus" target="_blank">Hippocampus: What It Is, Function, Location & Damage - Cleveland Clinic</a> 
+  </figcaption>
+</figure>
+
+Đọc thêm: [Hippocampus: What It Is, Function, Location & Damage - Cleveland Clinic](https://my.clevelandclinic.org/health/body/hippocampus)
 
 ---
 
 ## Hạch hạnh nhân
+{: #amygdala }
 
 Hạch hạnh nhân (Amygdala): có vai trò kích thích các cảm xúc mạnh mẽ (giận giữ, hung hăng); có liên quan đến phản ứng chiến-hay-chạy (the fight or flight response). 
 

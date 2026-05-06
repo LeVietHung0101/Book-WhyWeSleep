@@ -45,7 +45,7 @@ Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân 
 
 ## Cơ chế điều khiển của não bộ
 
-**Vùng dưới đồi (hypothalamus)** trong não chứa các tế bào nhạy cảm với nhiệt độ. Khi thân nhiệt trung tâm giảm xuống vào buổi tối, các tế bào này sẽ gửi tín hiệu đến **nhân trên chéo thị giác (SCN)**, thông báo cho não bộ kích hoạt sự gia tăng **melatonin**. Như vậy, sự giải phóng melatonin không chỉ do ánh sáng giảm đi chỉ dẫn mà còn do sự sụt giảm nhiệt độ cơ thể phối hợp nhịp nhàng với chu kỳ mặt trời lặn.
+[Vùng dưới đồi (hypothalamus)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hypothalamus" | relative_url }}) trong não chứa các tế bào nhạy cảm với nhiệt độ. Khi thân nhiệt trung tâm giảm xuống vào buổi tối, các tế bào này sẽ gửi tín hiệu đến **nhân trên chéo thị giác (SCN)**, thông báo cho não bộ kích hoạt sự gia tăng **melatonin**. Như vậy, sự giải phóng melatonin không chỉ do ánh sáng giảm đi chỉ dẫn mà còn do sự sụt giảm nhiệt độ cơ thể phối hợp nhịp nhàng với chu kỳ Mặt Trời lặn.
 
 ---
 

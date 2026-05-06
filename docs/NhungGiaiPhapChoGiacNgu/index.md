@@ -37,7 +37,7 @@ has_children: true
 
 10. **Tạo môi trường phòng ngủ tối, mát mẻ và không thiết bị điện tử:** Hãy loại bỏ mọi thứ gây xao nhãng như tiếng ồn, ánh sáng mạnh, giường không thoải mái hoặc nhiệt độ quá ấm. Điện thoại và tivi là những tác nhân gây mất ngủ nghiêm trọng. Nếu bạn hay lo lắng về thời gian, hãy **quay mặt đồng hồ đi** để không nhìn thấy nó khi đang cố ngủ.
 
-11. **Tiếp xúc hợp lý với ánh sáng mặt trời:** Ánh sáng ban ngày là chìa khóa để điều chỉnh nhịp sinh học. Hãy cố gắng ra ngoài ít nhất **30 phút mỗi ngày** và nếu có thể, hãy thức dậy cùng ánh mặt trời hoặc sử dụng đèn cường độ sáng cao vào buổi sáng.
+11. **Tiếp xúc hợp lý với ánh sáng Mặt Trời:** Ánh sáng ban ngày là chìa khóa để điều chỉnh nhịp sinh học. Hãy cố gắng ra ngoài ít nhất **30 phút mỗi ngày** và nếu có thể, hãy thức dậy cùng ánh Mặt Trời hoặc sử dụng đèn cường độ sáng cao vào buổi sáng.
 
 12. **Đừng nằm trên giường khi vẫn thức:** Nếu bạn vẫn tỉnh táo sau 20 phút nằm trên giường hoặc bắt đầu cảm thấy lo lắng, hãy **rời khỏi giường** và thực hiện một hoạt động thư giãn nhẹ nhàng cho đến khi thấy buồn ngủ trở lại. Sự lo lắng vì không ngủ được sẽ càng khiến việc đi vào giấc ngủ trở nên khó khăn hơn.
 

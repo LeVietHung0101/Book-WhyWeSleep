@@ -45,7 +45,7 @@ Thiếu ngủ làm rối loạn trực tiếp hệ hormone kiểm soát cảm gi
 
 Không chỉ dừng ở mức hormone, thiếu ngủ còn làm suy yếu khả năng kiểm soát của não bộ.
 - **Giảm hoạt động** của vỏ não trước (prefrontal cortex) - vùng chịu trách nhiệm cho **lý trí và kiểm soát hành vi**.
-- **Tăng hoạt động** của các vùng não liên quan đến **hệ thống phần thưởng** (vùng dưới đồi "hypothalamus" và các khu vực khác).
+- **Tăng hoạt động** của các vùng não liên quan đến **hệ thống phần thưởng** ([vùng dưới đồi]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hypothalamus" | relative_url }}) và các khu vực khác).
 
 Điều này tạo ra sự mất cân bằng: "Giảm lý trí, tăng bản năng", khiến con người dễ bị cuốn vào các lựa chọn ăn uống kém lành mạnh, đặc biệt là thức ăn nhanh. Đồng thời, mức endocannabinoids (các chất nội sinh có tác dụng tương tự cần sa) tăng cao, càng khuếch đại cảm giác ngon miệng và ham muốn ăn.
 
