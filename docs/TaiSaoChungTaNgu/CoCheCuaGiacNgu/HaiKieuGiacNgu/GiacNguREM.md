@@ -24,7 +24,7 @@ nav_order: 2
     src="{{ site.baseurl }}\assets\images\brain_waves_is_awake_in_REM_sleep_and_in_NREM_sleep.png"
   />
   <figcaption>Sóng não khi thức, trong giấc ngủ REM và NREM.<br>
-  Nguồn: <a href="https://www.whoop.com/us/en/thelocker/what-is-rem-sleep/?srsltid=AfmBOoree-Vd4uDkol5H56WPmgYZ7ztjA-QpOjFqFXwyWTLKpFm8ovWy" target="_blank">What is REM Sleep, Why it’s Important, How Much You Need & How to Increase It - WHOOP</a> 
+  Nguồn: <a href="https://www.whoop.com/us/en/thelocker/what-is-rem-sleep/?srsltid=AfmBOoree-Vd4uDkol5H56WPmgYZ7ztjA-QpOjFqFXwyWTLKpFm8ovWy" target="_blank">REM Sleep Explained: Why It Matters and How to Get More - WHOOP</a> 
   </figcaption>
 </figure>
 

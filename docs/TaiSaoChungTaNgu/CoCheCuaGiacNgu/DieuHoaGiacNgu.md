@@ -17,7 +17,7 @@ nav_order: 3
 
 ## Mô hình hai quá trình
 
-**Nhịp sinh học** và **áp lực ngủ** là hai cơ chế chính điều giấc ngủ. Chúng không hoạt động riêng lẻ mà phối hợp chặt chẽ để quyết định *khi nào bạn buồn ngủ* và *bạn sẽ ngủ bao lâu*.
+[Nhịp sinh học]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/" | relative_url }}) và [áp lực ngủ]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/ApLucNgu/" | relative_url }}) là hai cơ chế chính điều giấc ngủ. Chúng không hoạt động riêng lẻ mà phối hợp chặt chẽ để quyết định *khi nào bạn buồn ngủ* và *bạn sẽ ngủ bao lâu*.
 
 [Alexander Borbély](https://scholar.google.com/citations?user=P6emPEYAAAAJ&hl=en) đã đề xuất **mô hình hai quá trình điều hòa giấc ngủ** (Two-Process Model of Sleep Regulation) để giải thích cách cơ thể điều hòa giấc ngủ.
 - Process-S: [Áp lực ngủ]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/ApLucNgu/" | relative_url }}) (phụ thuộc thời gian thức).
@@ -49,7 +49,7 @@ nav_order: 3
   <img
     src="{{ site.baseurl }}\assets\images\TwoProcessModelOfSleepRegulation.png"
   />
-  <figcaption>Two-Process Model of Sleep Regulation<br>
+  <figcaption>Điều hoà ngủ - thức: Sự tương tác giữa động lực ngủ cân bằng nội môi (homeostatic sleep drive) và động lực sinh học cho sự tỉnh táo (circadian drive for arousal).<br>
   Nguồn: <a href="https://www.researchgate.net/publication/315843850_What_about_the_parents_Sleep_quality_mood_saliva_cortisol_response_and_sense_of_coherence_in_parents_with_a_child_admitted_to_pediatric_care" target="_blank">What about the parents? Sleep quality, mood, saliva cortisol response and sense of coherence in parents with a child admitted to pediatric care</a> 
   </figcaption>
 </figure>
@@ -62,11 +62,11 @@ Sự điều hòa giấc ngủ là kết quả của tương tác liên tục gi
 
 **Vào ban ngày**, Process-S (áp lực ngủ) tăng dần do thời gian thức kéo dài. Tuy nhiên, tín hiệu tỉnh táo từ Process-C (nhịp sinh học) giúp duy trì sự tỉnh táo và ngăn bạn ngủ gật, ngay cả khi đã bắt đầu mệt. Cơ chế này đảm bảo bạn có thể hoạt động ổn định trong khung giờ sinh học ban ngày, trừ khi thiếu ngủ nghiêm trọng.
 
-Ngược lại, **vào ban đêm**, Process-C (nhịp sinh học) chuyển sang pha "cho phép ngủ", đồng thời Process-S (áp lực ngủ) lúc này đã tích lũy ở mức cao. Sự kết hợp này tạo điều kiện tối ưu để bạn dễ dàng đi vào giấc ngủ và duy trì giấc ngủ sâu. Khi hai quá trình đồng pha, chất lượng giấc ngủ (bao gồm cả NREM và REM) thường đạt mức tốt nhất.
+Ngược lại, **vào ban đêm**, Process-C (nhịp sinh học) chuyển sang pha "cho phép ngủ", đồng thời Process-S (áp lực ngủ) lúc này đã tích lũy ở mức cao. Sự kết hợp này tạo điều kiện tối ưu để bạn dễ dàng đi vào giấc ngủ và duy trì giấc ngủ sâu. Khi hai quá trình đồng pha, chất lượng giấc ngủ (bao gồm cả [NREM và REM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/" | relative_url }})) thường đạt mức tốt nhất.
 
-Vấn đề phát sinh khi **hai quá trình này bị lệch pha**. Trong các trường hợp như [jet lag]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/Jetlag/" | relative_url }}) hoặc làm việc ca đêm, nhịp sinh học (Process-C) không khớp với thời gian thức - ngủ thực tế, dẫn đến xung đột với áp lực ngủ (Process-S). Hệ quả là bạn có thể khó ngủ, ngủ không sâu, hoặc cảm thấy mệt mỏi kéo dài dù đã ngủ đủ thời lượng.
+Vấn đề phát sinh khi **hai quá trình này bị lệch pha**. Trong các trường hợp như [jet lag]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/Jetlag/" | relative_url }}), nhịp sinh học (Process-C) không khớp với thời gian ngủ - thức thực tế, dẫn đến xung đột với áp lực ngủ (Process-S). Hệ quả là bạn có thể khó ngủ, ngủ không sâu, hoặc cảm thấy mệt mỏi kéo dài dù đã ngủ đủ thời lượng.
 
-Bất kỳ sự rối loạn nào ở một trong hai quá trình đều có thể gây **hiệu ứng dây chuyền**. Ví dụ, thiếu ngủ mạn tính làm Process-S luôn ở mức cao, trong khi nhịp sinh học lệch lạc khiến Process-C không hỗ trợ giấc ngủ đúng thời điểm. Sự kết hợp này không chỉ làm giảm chất lượng giấc ngủ (cả REM và NREM), mà còn ảnh hưởng tiêu cực đến trí nhớ, tâm trạng và sức khỏe tổng thể.
+Bất kỳ sự rối loạn nào ở một trong hai quá trình đều có thể gây **hiệu ứng dây chuyền**. Ví dụ, thiếu ngủ mạn tính làm Process-S luôn ở mức cao, trong khi lệch nhịp sinh học khiến Process-C không hỗ trợ giấc ngủ đúng thời điểm. Sự kết hợp này không chỉ làm giảm chất lượng giấc ngủ (cả REM và NREM), mà còn ảnh hưởng tiêu cực đến trí nhớ, tâm trạng và sức khỏe tổng thể.
 
 ---
 

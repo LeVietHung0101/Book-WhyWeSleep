@@ -21,12 +21,11 @@ Sự tàn phá về mặt thể chất và tinh thần do việc thiếu ngủ k
 
 Mặc dù các nhà khoa học coi việc ép buộc con người thiếu ngủ là không thể chấp nhận được về mặt đạo đức, nhiều chính phủ và quân đội trên thế giới vẫn sử dụng phương pháp này như một công cụ thẩm vấn. Các quốc gia thường gọi một cách giảm nhẹ hành vi này là **"quản lý giấc ngủ của tù nhân"** để che giấu bản chất tra tấn của nó.
 
-> <i>Đến năm 2017, phương pháp tra tấn "tước đoạt giấc ngủ" vẫn được các quốc gia sau sử dụng: Myanmar, Iran, Iraq, Hoa Kỳ, Israel, Ai Cập, Libya, Pakistan, Ả Rập Xê Út, Tunisia và Thổ Nhĩ Kỳ.</i>
+> <i>Đến năm 2017, phương pháp tra tấn "tước đoạt giấc ngủ" vẫn được các quốc gia sau sử dụng: Myanmar, Iran, Iraq, Mỹ, Israel, Ai Cập, Libya, Pakistan, Ả Rập Xê Út, Tunisia và Thổ Nhĩ Kỳ.</i>
 
 Đọc thêm:
-1. [What’s the limit to how long a human can stay awake? And why we don’t monitor the record (Giới hạn thời gian tối đa mà con người có thể thức là bao lâu? Và tại sao chúng ta không theo dõi kỷ lục này).](https://www.guinnessworldrecords.com/news/2023/1/whats-the-limit-to-how-long-a-human-can-stay-awake-733188)
-2. [Freezing cells and sleep deprivation: the brutal conditions migrants still face after capture (Buồng giam lạnh cóng và thiếu ngủ: những điều kiện tàn khốc mà người di cư vẫn phải đối mặt sau khi bị bắt giữ.
-)](https://www.theguardian.com/us-news/2014/dec/12/migrants-face-brutal-conditions-after-capture-sleep-deprivation)
+1. [What’s the limit to how long a human can stay awake? And why we don’t monitor the record - Guinness World Records (Giới hạn thời gian tối đa mà con người có thể thức là bao lâu? Và tại sao chúng ta không theo dõi kỷ lục này).](https://www.guinnessworldrecords.com/news/2023/1/whats-the-limit-to-how-long-a-human-can-stay-awake-733188)
+2. [Freezing cells and sleep deprivation: the brutal conditions migrants still face after capture - Guardian News & Media (Buồng giam lạnh cóng và thiếu ngủ: những điều kiện tàn khốc mà người di cư vẫn phải đối mặt sau khi bị bắt giữ.)](https://www.theguardian.com/us-news/2014/dec/12/migrants-face-brutal-conditions-after-capture-sleep-deprivation)
 
 ---
 
@@ -34,7 +33,7 @@ Mặc dù các nhà khoa học coi việc ép buộc con người thiếu ngủ 
 
 Việc tước đoạt giấc ngủ hoàn toàn **không hiệu quả cho mục đích thu thập tình báo** chính xác. Thiếu ngủ làm suy yếu mọi chức năng trí tuệ cần thiết như trí nhớ, sự ổn định cảm xúc và khả năng hiểu ngôn ngữ cơ bản. Quan trọng hơn, trạng thái trí não rối loạn do thiếu ngủ làm tăng gấp đôi hoặc thậm chí gấp bốn lần khả năng một cá nhân **thú tội giả** về những việc họ không hề làm. Lời tự thuật của cựu Thủ tướng Israel [Menachem Begin](https://vi.wikipedia.org/wiki/Menachem_Begin) cho thấy những người bị tra tấn bằng cách thiếu ngủ sẽ ký bất cứ thứ gì chỉ để đổi lấy cơ hội được ngủ không gián đoạn.
 
-Đọc thêm: [Descriptions of Techniques Allegedly Authorized by the CIA (Mô tả các kỹ thuật được cho là do CIA cho phép).](https://www.hrw.org/news/2005/11/21/descriptions-techniques-allegedly-authorized-cia)
+Đọc thêm: [Descriptions of Techniques Allegedly Authorized by the CIA - Human Rights Watch (Mô tả các kỹ thuật được cho là do CIA cho phép)](https://www.hrw.org/news/2005/11/21/descriptions-techniques-allegedly-authorized-cia)
 
 ---
 
@@ -50,4 +49,4 @@ Việc tước đoạt giấc ngủ hoàn toàn **không hiệu quả cho mục 
 
 ## Góc độ luật pháp và các vi phạm nhân quyền
 
-Các tòa án liên bang Hoa Kỳ đã phán quyết rằng việc tước đoạt giấc ngủ vi phạm các Hiến pháp về bảo vệ con người khỏi hình phạt độc ác và bất thường. Tuy nhiên, các quy định của Bộ Quốc phòng và quân đội Hoa Kỳ vẫn tìm cách lách luật, cho phép hạn chế giấc ngủ của đối tượng thẩm vấn chỉ còn **bốn giờ mỗi ngày trong tối đa bốn tuần**. Giáo sư Matthew Walker lên án đây là một hành vi tấn công man rợ vào sinh học con người, có tác động gây tử vong về lâu dài tương đương với việc bỏ đói. Chúng ta cần phải bãi bỏ hoàn toàn thực hành vô nhân đạo này để xây dựng một xã hội văn minh hơn.
+Các tòa án liên bang Mỹ đã phán quyết rằng việc tước đoạt giấc ngủ vi phạm các Hiến pháp về bảo vệ con người khỏi hình phạt độc ác và bất thường. Tuy nhiên, các quy định của Bộ Quốc phòng và quân đội Mỹ vẫn tìm cách lách luật, cho phép hạn chế giấc ngủ của đối tượng thẩm vấn chỉ còn **bốn giờ mỗi ngày trong tối đa bốn tuần**. Giáo sư Matthew Walker lên án đây là một hành vi tấn công man rợ vào sinh học con người, có tác động gây tử vong về lâu dài tương đương với việc bỏ đói. Chúng ta cần phải bãi bỏ hoàn toàn thực hành vô nhân đạo này để xây dựng một xã hội văn minh hơn.

@@ -9,10 +9,11 @@ nav_order: 5
 ---
 
 ## Nhân trên chéo thị giác
+{: #suprachiasmatic-nucleus }
 
 **Nhân trên chéo thị giác (Suprachiasmatic Nucleus – SCN)*- là trung tâm điều khiển nhịp sinh học. Đây là một cụm tế bào thần kinh nhỏ nằm ở giữa não, phía trên [vùng giao thoa thị giác (optic chiasm)](https://vi.wikipedia.org/wiki/Giao_thoa_th%E1%BB%8B_gi%C3%A1c) trong não, nơi giao nhau của các dây thần kinh thị giác.
 
-Nhân trên chéo thị giác sẽ nhận tín hiệu trực tiếp từ võng mạc (thông qua vùng giao thoa thị giác), từ đó điều hòa nhịp sinh học bằng cách gửi tín hiệu kích hoạt tuyến tùng (pineal gland) trong não để tăng hoặc giảm việc tiết hormone [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}).
+Nhân trên chéo thị giác sẽ nhận tín hiệu trực tiếp từ võng mạc (thông qua vùng giao thoa thị giác), từ đó điều hòa nhịp sinh học bằng cách gửi tín hiệu kích hoạt [tuyến tùng (pineal gland)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#pineal-gland" | relative_url }}) trong não để tăng hoặc giảm việc tiết hormone [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}).
 
 <figure>
   <img
@@ -54,6 +55,7 @@ Tuyến tùng (Pineal gland) là một tuyến nội tiết nhỏ nằm sâu tro
 ---
 
 ## Đồi thị 
+{: #thalamus}
 
 Đồi thị (Thalamus) là một cấu trúc quan trọng nằm sâu trong trung tâm não bộ, thuộc não trung gian (diencephalon). Nó nằm giữa hai bán cầu đại não, ngay phía trên thân não và bên dưới vỏ não. Về cấu tạo, đồi thị gồm hai khối chất xám đối xứng, mỗi khối liên kết với một bán cầu não, tạo thành một "trạm trung tâm" trong hệ thống xử lý thông tin.
 
@@ -68,7 +70,7 @@ Tuyến tùng (Pineal gland) là một tuyến nội tiết nhỏ nằm sâu tro
 
 Chức năng nổi bật nhất của đồi thị là **trung chuyển và kiểm soát thông tin cảm giác**. Hầu hết các tín hiệu từ cơ thể như xúc giác, thị giác, thính giác, vị giác, cảm giác đau và nhiệt độ đều phải đi qua đồi thị trước khi đến vỏ não để được nhận thức. Không chỉ đơn thuần truyền tín hiệu, đồi thị còn đóng vai trò như một "bộ lọc", quyết định thông tin nào được phép đi tiếp, từ đó giúp não tránh bị quá tải bởi kích thích từ môi trường.
 
-Ngoài cảm giác, đồi thị còn tham gia vào **điều phối vận động*- bằng cách nhận tín hiệu từ tiểu não và hạch nền, rồi chuyển tiếp đến vỏ não vận động để tinh chỉnh cử động. Đồng thời, nó góp phần quan trọng trong việc **điều hòa trạng thái ý thức và cảm xúc**, thông qua liên kết với hệ viền (limbic system) và tham gia vào việc duy trì chu kỳ ngủ – thức.
+Ngoài cảm giác, đồi thị còn tham gia vào **điều phối vận động** - bằng cách nhận tín hiệu từ tiểu não và hạch nền, rồi chuyển tiếp đến vỏ não vận động để tinh chỉnh cử động. Đồng thời, nó góp phần quan trọng trong việc **điều hòa trạng thái ý thức và cảm xúc**, thông qua liên kết với hệ viền (limbic system) và tham gia vào việc duy trì chu kỳ ngủ – thức.
 
 Khi đồi thị bị tổn thương, các chức năng này có thể bị ảnh hưởng nghiêm trọng. Người bệnh có thể gặp rối loạn cảm giác (mất cảm giác hoặc đau bất thường), rối loạn vận động (run, yếu cơ), hoặc hội chứng đồi thị (thalamic syndrome) với cơn đau dữ dội khó kiểm soát. Trong trường hợp nặng, tổn thương đồi thị còn có thể làm suy giảm ý thức, dẫn đến trạng thái ngủ rũ (narcolepsy) hoặc hôn mê.
 
@@ -77,8 +79,9 @@ Khi đồi thị bị tổn thương, các chức năng này có thể bị ản
 ---
 
 ## Vỏ não trước trán
+{: #prefrontal-cortex}
 
-Vỏ não trước trán (Prefrontal cortex): nằm ngay phía sau nhãn cầu; liên quan tới tư duy và việc ra quyết định có lý trí, hợp lý; được kết hợp chặt chẽ với hạch hạnh nhân để điều chỉnh trung tâm bộ não về mặt cảm xúc sâu bằng sự kiểm soát ức chế. 
+Vỏ não trước trán (Prefrontal cortex) nằm ngay phía sau nhãn cầu; liên quan tới tư duy và việc ra quyết định có lý trí, hợp lý; được kết hợp chặt chẽ với hạch hạnh nhân để điều chỉnh trung tâm bộ não về mặt cảm xúc sâu bằng sự kiểm soát ức chế. 
 
 <figure>
   <img
@@ -88,6 +91,7 @@ Vỏ não trước trán (Prefrontal cortex): nằm ngay phía sau nhãn cầu; 
 </figure>
 
 ## Vỏ não mới
+{: #neocortex}
 
 Vỏ não mới (Neocortex) là lớp vỏ não ngoài cùng, chịu trách nhiệm cho các chức năng nhận thức bậc cao như tư duy, ngôn ngữ, lập kế hoạch và đặc biệt là lưu trữ trí nhớ dài hạn.
 
@@ -96,8 +100,8 @@ Về cấu trúc, neocortex gồm nhiều lớp tế bào thần kinh (thường
 ---
 
 ## Vùng dưới đồi
-{: #hypothalamus }
-Vùng dưới đồi (Hypothalamus) là một vùng não sâu nằm ngay phía trước thân não. Nó đóng vai trò như **"trung tâm điều khiển"*- giúp duy trì trạng thái cân bằng nội môi (homeostasis).
+{: #hypothalamus}
+Vùng dưới đồi (Hypothalamus) là một vùng não sâu nằm ngay phía trước thân não. Nó đóng vai trò như **"trung tâm điều khiển"** - giúp duy trì trạng thái cân bằng nội môi (homeostasis).
 
 Nó là cầu nối giữa **hệ thần kinh và hệ nội tiết**, hoạt động bằng cách:
 - Điều khiển hệ thần kinh tự động (nhịp tim, hô hấp, huyết áp,...).
@@ -125,11 +129,10 @@ Nó là cầu nối giữa **hệ thần kinh và hệ nội tiết**, hoạt đ
   </figcaption>
 </figure>
 
-Đọc thêm: [Hypothalamus: What It Is, Function, Conditions & Disorders - Cleveland Clinic](https://my.clevelandclinic.org/health/body/22566-hypothalamus?utm_source=chatgpt.com)
-
 ---
 
 ## Hồi hải mã
+{: #hippocampus}
 
 Hồi hải mã (hippocampus) là một cấu trúc nhỏ trong não (thuộc thùy thái dương và hệ viền), là nơi lưu trữ tạm thời các ký ức mới (thông tin, trải nghiệm mới), có vai trò cốt lõi trong **học tập và trí nhớ**.
 
@@ -146,7 +149,7 @@ Hồi hải mã (hippocampus) là một cấu trúc nhỏ trong não (thuộc th
 
 **Khi bị tổn thương:**
 - Gây **mất trí nhớ**, khó tạo ký ức mới, rối loạn nhận thức.
-- Liên quan đến các bệnh như Alzheimer, sa sút trí tuệ, động kinh, PTSD,...
+- Liên quan đến các bệnh như [Alzheimer]({{ "/docs/NhungAnhHuongCuaMatNgu/Alzheimer/" | relative_url }}), sa sút trí tuệ, động kinh, PTSD,...
 
 **Cách bảo vệ:**
 - Duy trì lối sống lành mạnh: ngủ đủ, tập thể dục, học hỏi, giảm stress.
@@ -155,25 +158,24 @@ Hồi hải mã (hippocampus) là một cấu trúc nhỏ trong não (thuộc th
   <img
     src="{{ site.baseurl }}\assets\images\Hippocampus.jpg"
   />
-  <figcaption>Hồi hải mã (Hippocampus), Hồi đai (Cingulate gyrus), Đồi thị (Thalamus), Hạch hạnh nhân (Amygdala), Hệ viền (Limbic system), Chức năng của hồi hải mã (Functions of the hippocampus), Trí nhớ ngắn hạn và dài hạn (Short and long-term memory), Học tập (Learning), Trí nhớ không gian (Spatial memory).<br>
+  <figcaption>Các thành phần của não bộ: Hồi hải mã (Hippocampus), Hồi đai (Cingulate gyrus), Đồi thị (Thalamus), Hạch hạnh nhân (Amygdala), Hệ viền (Limbic system).<br>Chức năng của hồi hải mã: Trí nhớ ngắn hạn và dài hạn (Short and long-term memory), Học tập (Learning), Trí nhớ không gian (Spatial memory).<br>
   Nguồn: <a href="https://my.clevelandclinic.org/health/body/hippocampus" target="_blank">Hippocampus: What It Is, Function, Location & Damage - Cleveland Clinic</a> 
   </figcaption>
 </figure>
 
-Đọc thêm: [Hippocampus: What It Is, Function, Location & Damage - Cleveland Clinic](https://my.clevelandclinic.org/health/body/hippocampus)
-
 ---
 
 ## Hạch hạnh nhân
-{: #amygdala }
+{: #amygdala}
 
-Hạch hạnh nhân (Amygdala): có vai trò kích thích các cảm xúc mạnh mẽ (giận giữ, hung hăng); có liên quan đến phản ứng chiến-hay-chạy (the fight or flight response). 
+Hạch hạnh nhân (Amygdala) là một cấu trúc não hình quả hạnh nhân sâu bên trong thùy thái dương. Nó có vai trò kích thích các cảm xúc mạnh mẽ (giận giữ, hung hăng); có liên quan đến phản ứng chiến-hay-chạy (the fight or flight response). 
 
 ---
 
 ## Vùng vân
+{: #striatum }
 
-Vùng vân (Striatum): liên quan đến sự bốc đồng và phần thưởng, ảnh hưởng đến động lực, hứng thú, và hành vi tìm kiếm khoái cảm, nhờ sự tham gia của chất dẫn truyền thần kinh dopamine; nằm ngay phía trên và phía sau hạch hạnh nhân. 
+Vùng vân (Striatum) liên quan đến sự bốc đồng và phần thưởng, ảnh hưởng đến động lực, hứng thú, và hành vi tìm kiếm khoái cảm, nhờ sự tham gia của chất dẫn truyền thần kinh dopamine; nằm ngay phía trên và phía sau hạch hạnh nhân. 
 
 <figure>
   <img

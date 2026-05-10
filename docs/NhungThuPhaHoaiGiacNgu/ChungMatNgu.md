@@ -53,7 +53,7 @@ Mặc dù di truyền đóng góp khoảng 28% đến 45%, nhưng các tác nhâ
 Nguyên nhân cốt lõi là sự **quá tải của hệ thần kinh giao cảm** (phản ứng chiến-hay-chạy). Điều này dẫn đến một chuỗi các hệ lụy:
 - **Nhiệt độ cơ thể:** Tốc độ trao đổi chất tăng khiến nhiệt độ cơ thể không thể giảm xuống mức cần thiết để bắt đầu giấc ngủ.
 - **Hormone căng thẳng:** Nồng độ cortisol, adrenaline và noradrenaline luôn ở mức cao, làm tăng nhịp tim và sự tỉnh táo.
-- **Hoạt động não bộ:** Các vùng não liên quan đến cảm xúc (hạch hạnh nhân) và trí nhớ (hồi hải mã) vẫn hoạt động mạnh mẽ, khiến "cánh cổng" đồi thị luôn mở và không thể ngăn chặn các tín hiệu từ thế giới bên ngoài đi vào vỏ não.
+- **Hoạt động não bộ:** Các vùng não liên quan đến cảm xúc ([hạch hạnh nhân]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#amygdala" | relative_url }})) và trí nhớ ([hồi hải mã]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hippocampus" | relative_url }})) vẫn hoạt động mạnh mẽ, khiến "cánh cổng" [đồi thị]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#thalamus" | relative_url }}) luôn mở và không thể ngăn chặn các tín hiệu từ thế giới bên ngoài đi vào vỏ não.
 
 
 <details markdown="block">
@@ -67,6 +67,7 @@ Nguyên nhân cốt lõi là sự **quá tải của hệ thần kinh giao cảm
 {: .codeBlock }
 </details>
 
+Đọc thêm: [Adrenaline và Noradrenaline ảnh hưởng đến sức khỏe như thế nào? - Nhà thuốc Long Châu](https://nhathuoclongchau.com.vn/bai-viet/adrenaline-va-noradrenaline-cap-cuu-tim-mach-khac-nhau-nhu-the-nao.html)
 
 ---
 

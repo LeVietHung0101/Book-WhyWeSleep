@@ -6,11 +6,4 @@ has_children: true
 
 # Giấc ngủ và xã hội
 
-<details markdown="block">
-  <summary>Mục lục</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
+Phần này trình bày cách giấc ngủ được quan tâm trong xã hội.

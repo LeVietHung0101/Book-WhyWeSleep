@@ -17,17 +17,6 @@ nav_order: 10
 
 ## Điều kiện tiên quyết để bắt đầu giấc ngủ: Giảm thân nhiệt trung tâm
 
-Nhiệt độ môi trường xung quanh và nhiệt độ cơ thể là yếu tố then chốt nhưng thường bị xem nhẹ trong việc quyết định chất lượng giấc ngủ. Để có thể đi vào giấc ngủ một cách thuận lợi, thân nhiệt trung tâm của cơ thể cần phải **giảm khoảng 1 độ C**. Đây là lý do tại sao chúng ta thường dễ ngủ hơn trong một căn phòng hơi lạnh hơn là một căn phòng quá nóng.
-
-<figure>
-  <img
-    src="{{ site.baseurl }}\assets\images\Core_body_temperature_and_melatonin.png"
-  />
-  <figcaption>Mối quan hệ giữa nhịp sinh học của thân nhiệt trung tâm (đường liền nét) và melatonin (đường chấm nét) ở người có giấc ngủ ngon, thường ngủ từ 23 giờ đến 7 giờ.<br>
-  Nguồn: <a href="https://www.thesleepscientist.com/post/too-hot-to-sleep-night-sweats-menopause-and-heatwaves" target="_blank">Too hot to sleep? Night sweats, menopause and heatwaves - The Sleep Scientist (Trời quá nóng không ngủ được? Đổ mồ hôi ban đêm, mãn kinh và sóng nhiệt) - </a> 
-  </figcaption>
-</figure>
-
 <strong>Thân nhiệt trung tâm (Core body temperature)</strong> là nhiệt độ của các vùng nằm sâu bên trong cơ thể, <strong>phản ánh trực tiếp nhiệt độ của các cơ quan nội tạng và máu</strong>. Nó ảnh hưởng trực tiếp đến tốc độ các phản ứng sinh học, từ chuyển hoá đến hoạt động của enzyme.
 
 Đồng thời, thân nhiệt trung tâm cũng là <strong>cơ sở của cơ chế điều hoà nhiệt</strong>, giúp cơ thể duy trì trạng thái ổn định dù nhiệt độ môi trường bên ngoài thay đổi.
@@ -41,11 +30,22 @@ Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân 
  <figcaption>Trường nhiệt độ của cơ thể người. Phần lõi cơ thể có nhiệt độ gần như không đổi, trong khi nhiệt độ của lớp da chịu ảnh hưởng bởi các yếu tố bên ngoài và bên trong.<br>Nguồn: <a href="https://www.cosinuss.com/en/measured-data/vital-signs/body-temperature/" target="_blank">Body temperature  - Cosinuss</a></figcaption>
 </figure>
 
+Nhiệt độ môi trường xung quanh và nhiệt độ cơ thể là yếu tố then chốt nhưng thường bị xem nhẹ trong việc quyết định chất lượng giấc ngủ. Để có thể đi vào giấc ngủ một cách thuận lợi, thân nhiệt trung tâm của cơ thể cần phải **giảm khoảng 1 độ C**. Đây là lý do tại sao chúng ta thường dễ ngủ hơn trong một căn phòng hơi lạnh hơn là một căn phòng quá nóng.
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Core_body_temperature_and_melatonin.png"
+  />
+  <figcaption>Mối quan hệ giữa nhịp sinh học của thân nhiệt trung tâm (đường liền nét) và melatonin (đường nét chấm) ở người có giấc ngủ ngon, thường ngủ từ 23 giờ đến 7 giờ.<br>
+  Nguồn: <a href="https://www.thesleepscientist.com/post/too-hot-to-sleep-night-sweats-menopause-and-heatwaves" target="_blank">Too hot to sleep? Night sweats, menopause and heatwaves - The Sleep Scientist (Trời quá nóng không ngủ được? Đổ mồ hôi ban đêm, mãn kinh và sóng nhiệt) - </a> 
+  </figcaption>
+</figure>
+
 ---
 
 ## Cơ chế điều khiển của não bộ
 
-[Vùng dưới đồi (hypothalamus)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hypothalamus" | relative_url }}) trong não chứa các tế bào nhạy cảm với nhiệt độ. Khi thân nhiệt trung tâm giảm xuống vào buổi tối, các tế bào này sẽ gửi tín hiệu đến **nhân trên chéo thị giác (SCN)**, thông báo cho não bộ kích hoạt sự gia tăng **melatonin**. Như vậy, sự giải phóng melatonin không chỉ do ánh sáng giảm đi chỉ dẫn mà còn do sự sụt giảm nhiệt độ cơ thể phối hợp nhịp nhàng với chu kỳ Mặt Trời lặn.
+[Vùng dưới đồi (hypothalamus)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hypothalamus" | relative_url }}) trong não chứa các tế bào nhạy cảm với nhiệt độ. Khi thân nhiệt trung tâm giảm xuống vào buổi tối, các tế bào này sẽ gửi tín hiệu đến [nhân trên chéo thị giác (SCN)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#suprachiasmatic-nucleus" | relative_url }}), thông báo cho não bộ kích hoạt sự gia tăng [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}). Như vậy, sự giải phóng melatonin không chỉ do ánh sáng giảm đi chỉ dẫn mà còn do sự sụt giảm nhiệt độ cơ thể phối hợp nhịp nhàng với chu kỳ Mặt Trời lặn.
 
 ---
 
@@ -69,7 +69,7 @@ Cơ thể chúng ta chủ động tản nhiệt thông qua bề mặt da, đặc
 
 ## Tác động của môi trường hiện đại
 
-Con người hiện đại đã tách biệt mình khỏi chu kỳ nhiệt độ tự nhiên thông qua các hệ thống sưởi và điều hòa nhiệt độ trung tâm. Việc duy trì nhiệt độ phòng không đổi khiến não bộ không nhận được tín hiệu làm mát cần thiết để giải phóng melatonin đúng lúc. 
+Con người hiện đại đã tách biệt mình khỏi chu kỳ nhiệt độ tự nhiên thông qua các hệ thống sưởi và điều hòa nhiệt độ trung tâm. Việc duy trì nhiệt độ phòng không đổi khiến não bộ không nhận được tín hiệu làm mát cần thiết để giải phóng [melatonin]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/#melatonin" | relative_url }}) đúng lúc. 
 - Nhiệt độ phòng lý tưởng cho giấc ngủ của hầu hết mọi người là khoảng **18,3 độ C**. Tuy nhiên, nhiệt độ phòng để đạt được giấc ngủ ngon của mỗi người sẽ tuỳ thuộc vào sinh lý, giới tính và độ tuổi.
 - Đặt nhiệt độ phòng quá cao thường là nguyên nhân gây ra chứng khó ngủ hoặc mất ngủ do cơ thể không thể tản nhiệt hiệu quả.
 

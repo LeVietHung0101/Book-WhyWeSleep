@@ -17,7 +17,7 @@ nav_order: 3
 
 ## Sự mâu thuẫn giữa sinh học thiếu niên và giờ học sớm
 
-**Thực trạng vô lý**: hơn 80% trường trung học công lập ở Mỹ bắt đầu trước 8:15 sáng, và gần một nửa bắt đầu trước 7:20 sáng. Đối với một thiếu niên, việc thức dậy lúc 5:15 sáng để kịp xe buýt tương đương với việc một người lớn thức dậy lúc 3:15 sáng, do nhịp sinh học của thanh thiếu niên bị đẩy lùi muộn hơn so với người lớn. Việc ép buộc này không chỉ cản trở khả năng học tập mà còn gây ra tình trạng thiếu ngủ kinh niên.
+**Thực trạng vô lý**: hơn 80% trường trung học công lập ở Mỹ bắt đầu trước 8:15 sáng, và gần một nửa bắt đầu trước 7:20 sáng. Đối với một thiếu niên, việc thức dậy lúc 5:15 sáng để kịp xe buýt tương đương với việc một người lớn thức dậy lúc 3:15 sáng, do [nhịp sinh học của thanh thiếu niên bị đẩy lùi muộn hơn so với người lớn]({{ "/docs/TaiSaoChungTaNenNgu/NhungThayDoiCuaGiacNguTheoTuoiTho/#thách-thức-giấc-ngủ-ở-thanh-thiếu-niên-10-19-tuổi" | relative_url }}). Việc ép buộc này không chỉ cản trở khả năng học tập mà còn gây ra tình trạng thiếu ngủ kinh niên.
 
 ---
 
@@ -28,7 +28,7 @@ Thiếu niên bị tước đoạt giấc ngủ vào sáng sớm sẽ mất đi 
 {: .note }
 **Giấc ngủ REM chính là thứ ngăn cách giữa sự lý trí và chứng điên loạn**.
 
-Đọc thêm: [The 5 Stages of Acute Sleep Deprivation (5 giai đoạn của tình trạng thiếu ngủ cấp tính)](https://www.healthline.com/health/sleep-deprivation/sleep-deprivation-stages)
+Đọc thêm: [The 5 Stages of Acute Sleep Deprivation - Healthline Media (5 giai đoạn của tình trạng thiếu ngủ cấp tính)](https://www.healthline.com/health/sleep-deprivation/sleep-deprivation-stages)
 
 
 
@@ -52,7 +52,7 @@ Khi một số trường học (như ở Edina, Minnesota) lùi giờ học từ
 
 Đọc thêm:
 
-1. [PROOF POINTS: Later school start time gave small boost to grades but big boost to sleep, new study finds (BẰNG CHỨNG: Nghiên cứu mới cho thấy, việc bắt đầu học muộn hơn giúp cải thiện điểm số một chút nhưng lại giúp cải thiện giấc ngủ đáng kể.)](https://hechingerreport.org/proof-points-later-school-start-time-gave-small-boost-to-grades-but-big-boost-to-sleep-new-study-finds/)
+1. [PROOF POINTS: Later school start time gave small boost to grades but big boost to sleep, new study finds - The Hechinger Report (BẰNG CHỨNG: Nghiên cứu mới cho thấy, việc bắt đầu học muộn hơn giúp cải thiện điểm số một chút nhưng lại giúp cải thiện giấc ngủ đáng kể.)](https://hechingerreport.org/proof-points-later-school-start-time-gave-small-boost-to-grades-but-big-boost-to-sleep-new-study-finds/)
 2. [Vì Sao Trẻ Nên Tới Trường Muộn Hơn Vào Buổi Sáng? - Viện tâm lý Việt - Pháp](https://tamlyvietphap.vn/vi-sao-tre-nen-toi-truong-muon-hon-vao-buoi-sang/)
 
 ---

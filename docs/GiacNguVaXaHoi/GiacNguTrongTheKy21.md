@@ -42,7 +42,7 @@ Công nghệ có thể trở thành công cụ hỗ trợ giấc ngủ thông qu
 Bên cạnh các giải pháp thụ động, sự chủ động thay đổi thói quen thông qua giáo dục và dữ liệu thực tế đóng vai trò then chốt:
 - **Giáo dục cộng đồng:** Việc giảng dạy về khoa học giấc ngủ đã chứng minh hiệu quả thực tế; ví dụ, các sinh viên của Giáo sư Matthew Walker đã ngủ thêm trung bình 42 phút mỗi đêm sau khi kết thúc khóa học.
 - **Dữ liệu định lượng bản thân:** Sử dụng thiết bị đeo để cho mỗi cá nhân thấy mối liên hệ trực tiếp giữa giấc ngủ và sức khỏe của chính họ, như cách ngủ đủ giúp giảm thèm ăn, cải thiện tâm trạng và tăng năng suất làm việc.
-- **Phân tích dự báo (Predictalytics):** Các ứng dụng tương lai có thể dự báo các nguy cơ sức khỏe dài hạn như bệnh Alzheimer, ung thư hoặc sự sụt giảm testosterone dựa trên thói quen thiếu ngủ kéo dài của người dùng. Ngoài ra, dữ liệu giấc ngủ có thể giúp xác định thời điểm tối ưu để tiêm phòng (như cúm) nhằm đạt hiệu quả miễn dịch cao nhất.
+- **Phân tích dự báo (Predictalytics):** Các ứng dụng tương lai có thể dự báo các nguy cơ sức khỏe dài hạn như [bệnh Alzheimer]({{ "/docs/NhungAnhHuongCuaMatNgu/Alzheimer/" | relative_url }}), [ung thư]({{ "/docs/NhungAnhHuongCuaMatNgu/HeMienDich/#tang-nguy-co-ung-thu" | relative_url }}) hoặc [sự sụt giảm testosterone]({{ "/docs/NhungAnhHuongCuaMatNgu/HeSinhSan/#nam-giới" | relative_url }}) dựa trên thói quen thiếu ngủ kéo dài của người dùng. Ngoài ra, dữ liệu giấc ngủ có thể giúp xác định thời điểm tối ưu để tiêm phòng (như cúm) nhằm đạt hiệu quả miễn dịch cao nhất.
 
 ---
 

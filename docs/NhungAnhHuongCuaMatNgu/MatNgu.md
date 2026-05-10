@@ -26,7 +26,7 @@ Tổ chức Y tế Thế giới và Tổ chức Nghiên cứu Giấc ngủ Mỹ 
 Sự tập trung có thể giảm sút chỉ với một lượng thiếu ngủ nhỏ nhất. Người bị thiếu ngủ sẽ hoàn toàn bỏ lỡ các sự kiện (ngừng phản ứng hoàn toàn) chứ không phải là phản ứng chậm. 
 
 Hai thủ phạm chính của các vụ tai nạn lái xe khi buồn ngủ:
-- **Tài xế hoàn toàn chìm vào giấc ngủ khi lái xe**. Nguyên nhân là do sự thiếu ngủ trầm trọng (chẳng hạn như lái xe liên tục không chợp mắt suốt hơn 20h). Tuy nhiên điều này ít xảy ra.
+- **Tài xế hoàn toàn chìm vào giấc ngủ khi lái xe**. Nguyên nhân là do sự thiếu ngủ trầm trọng (chẳng hạn như lái xe liên tục không chợp mắt suốt hơn 20 giờ). Tuy nhiên điều này ít xảy ra.
 - **Tài xế ngủ gật**. Nguyên nhân là do tài xế thường xuyên ngủ ít hơn 7 giờ/đêm. **Điều này thường xuyên xảy ra**.
 
 > <i>**Ngủ gật (microsleep)** là sự mất hiệu lực tạm thời trong tập trung kéo dài vài giây (3-14 giây), mí mắt đóng một phần hoặc hoàn toàn.</i>
@@ -51,7 +51,7 @@ Thiếu ngủ (đặc biệt là thiếu ngủ do ngủ ít hơn 6-7 giờ/đêm
 > 
 > <i>Ở châu Âu, tỷ lệ tai nạn do mệt mỏi và ngủ gật dao động trong khoảng 10% đến 25%, cho thấy đây là một trong những nguyên nhân phổ biến.</i>
 > 
-> <i>Nguồn: <a href="https://vov.vn/xa-hoi/giac-ngu-trang-ke-giet-nguoi-tham-lang-tren-cac-con-duong-post1209183.vov" target="_blank">Giấc ngủ trắng, kẻ giết người thầm lặng trên các con đường</a>.</i>
+> <i>Nguồn: <a href="https://vov.vn/xa-hoi/giac-ngu-trang-ke-giet-nguoi-tham-lang-tren-cac-con-duong-post1209183.vov" target="_blank">Giấc ngủ trắng, kẻ giết người thầm lặng trên các con đường - Báo Điện tử Tiếng nói Việt Nam</a>.</i>
 
 ---
 
@@ -69,17 +69,18 @@ Do đó, **ngủ đủ khoảng 7–8 giờ mỗi đêm là điều kiện cơ b
 
 ---
 
-## Ảnh hưởng của thiếu ngủ lên các vùng trong não liên quan đến cảm xúc 
+## Ảnh hưởng của thiếu ngủ lên các vùng trong não liên quan đến cảm xúc
+{: #anh-huong-cua-thieu-ngu-len-cac-vung-trong-nao-lien-quan-den-cam-xuc }
 
 ### Hạch hạnh nhân (Amygdala)
 
-Thiếu ngủ khiến hạch hạnh nhân - trung tâm xử lý cảm xúc - trở nên phản ứng mạnh hơn khoảng 60%, khiến **các kích thích tiêu cực bị khuếch đại bất thường**.
+Thiếu ngủ khiến [hạch hạnh nhân]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#amygdala" | relative_url }}) (trung tâm xử lý cảm xúc) trở nên phản ứng mạnh hơn khoảng 60%, khiến **các kích thích tiêu cực bị khuếch đại bất thường**.
 
-Đồng thời, sự kết nối giữa hạch hạnh nhân và **vỏ não trước trán** (prefrontal cortex, vùng chịu trách nhiệm kiểm soát, ức chế và ra quyết định) bị suy yếu, dẫn đến trạng thái **mất kiểm soát cảm xúc**. Hệ quả là con người dễ rơi vào các biểu hiện như cáu kỉnh, thiếu kiên nhẫn, hoặc thậm chí là những phản ứng cảm xúc cực đoan và khó dự đoán.
+Đồng thời, sự kết nối giữa hạch hạnh nhân và [vỏ não trước trán]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#prefrontal-cortex" | relative_url }}) (vùng chịu trách nhiệm kiểm soát, ức chế và ra quyết định) bị suy yếu, dẫn đến trạng thái **mất kiểm soát cảm xúc**. Hệ quả là con người dễ rơi vào các biểu hiện như cáu kỉnh, thiếu kiên nhẫn, hoặc thậm chí là những phản ứng cảm xúc cực đoan và khó dự đoán.
 
 ### Vùng vân (Striatum)
 
-Thiếu ngủ khiến vùng vân - liên quan đến hệ thống phần thưởng - trở nên **quá nhạy với các kích thích tích cực** như tiền bạc, thể thao hay cảm giác hưng phấn. Khi thiếu đi sự kiểm soát từ vỏ não trước trán, sự nhạy cảm này có thể đẩy cá nhân đến các hành vi mạo hiểm hoặc xu hướng nghiện ngập.
+Thiếu ngủ khiến [vùng vân]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#striatum" | relative_url }}) (liên quan đến hệ thống phần thưởng) trở nên **quá nhạy với các kích thích tích cực** như tiền bạc, thể thao hay cảm giác hưng phấn. Khi thiếu đi sự kiểm soát từ vỏ não trước trán, sự nhạy cảm này có thể đẩy cá nhân đến các hành vi mạo hiểm hoặc xu hướng nghiện ngập.
 
 {: .note }
 Thiếu ngủ khiến bộ não rơi vào trạng thái dao động quá mức giữa hai cực cảm xúc, khi thì tiêu cực quá mức, khi lại hưng phấn quá đà, làm mất cân bằng nội tại.
@@ -122,4 +123,4 @@ Có sự thâm hụt 40% trong khả năng nhồi nhét các sự kiện mới v
 > 
 > <i>Trả lời: <strong>Không</strong>. Vì nếu âm thanh không được kiểm soát (như để nhạc/video bật suốt đêm), nó sẽ phá vỡ NREM sâu, nhưng TMR lại được thiết kế với âm thanh có chọn lọc để hòa hợp với giấc ngủ, hỗ trợ quá trình củng cố ký ức mà không làm tổn hại chất lượng ngủ tổng thể.</i>
 
-Thiếu ngủ thậm chí còn ảnh hưởng đến ADN và các gen liên quan đến học tập trong các tế bào não của chính **đồi hải mã**, làm yếu bộ máy tạo ký ức tạm thời trong não, ngăn cản bộ não xây dựng các vết tích bộ nhớ lâu dài.
+Thiếu ngủ thậm chí còn ảnh hưởng đến ADN và các gen liên quan đến học tập trong các tế bào não của chính [hồi hải mã]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hippocampus" | relative_url }}), làm yếu bộ máy tạo ký ức tạm thời trong não, ngăn cản bộ não xây dựng các vết tích bộ nhớ lâu dài.

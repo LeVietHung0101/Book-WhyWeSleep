@@ -21,7 +21,7 @@ nav_order: 2
 
 Cơ chế cốt lõi liên quan đến sự tích tụ của **beta-amyloid**, một loại protein độc hại hình thành các mảng bám đặc trưng (plaques) của Alzheimer. Các mảng amyloid này tích tụ nhiều ở vùng giữa của **thùy trán** (frontal lobe) - khu vực đóng vai trò tạo ra giấc ngủ NREM sâu. Khi bị xâm lấn, vùng này hoạt động kém hiệu quả, khiến giấc ngủ sâu bị gián đoạn, từ đó làm **suy giảm khả năng củng cố ký ức mới**. Lớp trầm tích amyloid ở các vùng giữa của thuỳ trán càng nhiều, chất lượng giấc ngủ NREM sâu càng suy giảm do bị gián đoạn (ở người cao tuổi).
 
-Đáng chú ý, amyloid không trực tiếp ảnh hưởng đến đồi hải mã (hippocampus) - nơi lưu trữ ký ức ngắn hạn - mà chủ yếu làm gián đoạn quá trình chuyển hóa ký ức sang dạng bền vững.
+Đáng chú ý, amyloid không trực tiếp ảnh hưởng đến [hồi hải mã]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hippocampus" | relative_url }}) (nơi lưu trữ ký ức ngắn hạn) mà chủ yếu làm gián đoạn quá trình chuyển hóa ký ức sang dạng bền vững.
 
 
 <figure>

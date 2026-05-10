@@ -99,7 +99,7 @@ Nghiên cứu của Tiến sĩ [Daniel Kripke](https://profiles.ucsd.edu/daniel.
 
 Có nhiều nguyên nhân khiến tỉ lệ tử vong tăng cao ở người dùng thuốc ngủ, bao gồm:
 - **Nhiễm trùng:** Thuốc ngủ có thể không cung cấp các lợi ích phục hồi miễn dịch như giấc ngủ tự nhiên, dẫn đến tỉ lệ nhiễm trùng cao hơn, đặc biệt nguy hiểm đối với người cao tuổi.
-- **Tai nạn giao thông:** Tình trạng lờ đờ, "say thuốc" vào sáng hôm sau khiến người dùng dễ gặp tai nạn xe cộ chết người.
+- **Tai nạn giao thông:** Tình trạng lờ đờ, "say thuốc" vào sáng hôm sau khiến người dùng dễ gặp tai nạn giao thông gây chết người.
 - **Ngã và chấn thương:** Người già dễ bị ngã vào ban đêm do tác dụng phụ của thuốc, dẫn đến các biến chứng nghiêm trọng.
 - **Bệnh tim mạch:** Sử dụng thuốc ngủ thường xuyên cũng liên quan đến tỉ lệ mắc bệnh tim và đột quỵ cao hơn.
 
@@ -118,7 +118,7 @@ Dữ liệu của Tiến sĩ [Daniel Kripke](https://profiles.ucsd.edu/daniel.kr
   <figcaption>Thuốc ngủ Restoril.</figcaption>
 </figure>
 
-Đọc thêm: [Tác dụng của thuốc Restoril: Điều trị chứng mất ngủ, ngủ không sâu giấc](https://www.vinmec.com/vie/bai-viet/tac-dung-cua-thuoc-restoril-dieu-tri-chung-mat-ngu-ngu-khong-sau-giac-vi)
+Đọc thêm: [Tác dụng của thuốc Restoril: Điều trị chứng mất ngủ, ngủ không sâu giấc - Vinmec](https://www.vinmec.com/vie/bai-viet/tac-dung-cua-thuoc-restoril-dieu-tri-chung-mat-ngu-ngu-khong-sau-giac-vi)
 
 
 ---
@@ -127,4 +127,4 @@ Dữ liệu của Tiến sĩ [Daniel Kripke](https://profiles.ucsd.edu/daniel.kr
 
 Mặc dù có những bằng chứng về tác hại, các công ty dược phẩm vẫn thu lợi nhuận khổng lồ, ví dụ như Ambien đã mang về **4 tỷ đô la doanh số** chỉ trong vòng 24 tháng. Giáo sư Matthew Walker lập luận rằng cho đến nay **không có nghiên cứu nào chứng minh thuốc ngủ giúp cứu mạng con người**; trái lại, chúng gây ra những rủi ro sức khỏe không đáng có. Ông kêu gọi sự minh bạch hơn trong giáo dục y tế để bệnh nhân có thể nhận thức đầy đủ các rủi ro và đưa ra lựa chọn sáng suốt trước khi quyết định sử dụng thuốc ngủ.
 
-Đọc thêm: [Sleeping Pills (Benzodiazepines, Z-drugs, DORAs): What You Need to Know](https://www.benzoinfo.com/sleeping-pills/)
+Đọc thêm: [Sleeping Pills (Benzodiazepines, Z-drugs, DORAs): What You Need to Know - Benzodiazepine Information Coalition](https://www.benzoinfo.com/sleeping-pills/)

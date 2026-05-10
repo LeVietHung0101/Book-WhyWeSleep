@@ -27,13 +27,13 @@ nav_order: 3
 
 **Giả thuyết**
 
-Năm 1983, nhà khoa học [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) cho rằng: *Chức năng của giấc ngủ REM (giấc ngủ mơ) là loại bỏ những bản sao thông tin không mong muốn hoặc chồng chéo trong não*. Ông gọi những thông tin đó là ký ức ký sinh (parasitic memories).
+Năm 1983, nhà khoa học [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) cho rằng: "*Chức năng của giấc ngủ REM (giấc ngủ mơ) là loại bỏ những bản sao thông tin không mong muốn hoặc chồng chéo trong não*". Ông gọi những thông tin đó là ký ức ký sinh (parasitic memories).
 
 **Thí nghiệm**
 
 Năm 2009, giáo sư Matthew Walker cùng sinh viên của mình thực hiện một thí nghiệm giấc ngủ ngắn ban ngày. Thí nghiệm này được thiết kế để kiểm tra liệu giấc ngủ có chọn lọc ký ức hay không.
 
-> Người tham gia học một danh sách từ vào buổi trưa. Sau mỗi từ, họ nhận được tín hiệu: **“R” (remember)** để ghi nhớ hoặc **“F” (forget)** để quên, tức là mỗi thông tin được “gắn nhãn” ngay sau khi học. Sau đó, một nửa số người được ngủ trưa 90 phút, nửa còn lại thức. Đến 6 giờ chiều, tất cả được yêu cầu nhớ lại càng nhiều từ càng tốt, bất kể nhãn ban đầu.
+> <i>Người tham gia học một danh sách từ vào buổi trưa. Sau mỗi từ, họ nhận được tín hiệu: **“R” (remember)** để ghi nhớ hoặc **“F” (forget)** để quên, tức là mỗi thông tin được “gắn nhãn” ngay sau khi học. Sau đó, một nửa số người được ngủ trưa 90 phút, nửa còn lại thức. Đến 6 giờ chiều, tất cả được yêu cầu nhớ lại càng nhiều từ càng tốt, bất kể nhãn ban đầu.</i>
 
 Kết quả: Nhóm được ngủ trưa 90 phút tăng lưu trữ ký ức được gắn nhãn "nhớ" nhưng không củng cố ký ức gắn nhãn "quên", trong khi nhóm không ngủ không có sự phân biệt rõ rệt.
 
@@ -47,14 +47,14 @@ Giấc ngủ không xử lý ký ức một cách đồng đều, mà ưu tiên 
 
 Các sóng spindle (sóng ngắn, tần số 11-15 Hz) chịu trách nhiệm trong sự chọn lọc ký ức trong giấc ngủ NREM: 
 - Số lượng sóng spindle cao hơn tương quan với hiệu quả nhớ / quên tốt hơn. 
-- Hoạt động điện não của sóng spindle tạo vòng lặp giữa đồi hải mã (bộ nhớ) và thuỳ trán (quyết định có chủ ý, logic), giúp lưu trữ ký ức quan trọng và loại bỏ ký ức không cần thiết.
+- Hoạt động điện não của sóng spindle tạo vòng lặp giữa [hồi hải mã]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hippocampus" | relative_url }}) (bộ nhớ tạm thời) và thuỳ trán (frontal lobe, quyết định có chủ ý, logic), giúp lưu trữ ký ức quan trọng và loại bỏ ký ức không cần thiết.
 
 <figure>
   <img
     src="{{ site.baseurl }}\assets\images\1-s2.0-S1364661324000299-gr3_lrg.jpg"
   />
   <figcaption>Sóng chậm và sóng sleep spindle đồng bộ với nhau làm tăng khả năng ghi nhớ.<br>
-  Nguồn: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324000299" target="_blank">Coupled sleep rhythms for memory consolidation - ScienceDirect</a> 
+  Nguồn: <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00029-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661324000299%3Fshowall%3Dtrue" target="_blank">Coupled sleep rhythms for memory consolidation - CellPress</a> 
   </figcaption>
 </figure>
 

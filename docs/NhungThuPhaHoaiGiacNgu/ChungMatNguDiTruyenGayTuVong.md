@@ -35,8 +35,27 @@ Các triệu chứng sau là của một bệnh nhân Michael Corke:
 
 Nguyên nhân đến từ **sự biến dị của một gen có tên PrNP - thể đạm độc (prion protein)**. Gen PrNP thực hiện các chức năng hữu ích trong não bộ. Tuy nhiên thể biến dị của nó có khả năng lây lan và bắt đầu phá huỷ một số bộ phận nhất định trong não bộ, dẫn đến tình trạng thái hoá não gia tốc nhanh chống khi protein lan truyền.
 
-Một trong các bộ phận bị tấn công là **đồi thị** (thalamus) - cánh cổng cảm giác trong bộ não sẽ đóng lại để kết thúc tỉnh táo và bắt đầu giấc ngủ.
+Một trong các bộ phận bị tấn công là [đồi thị]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#thalamus" | relative_url }}) (cánh cổng cảm giác trong bộ não sẽ đóng lại để kết thúc tỉnh táo và bắt đầu giấc ngủ).
+
 Khi bị tấn công, đồi thị sẽ bị lõm nhiều lỗ và bị kẹt ở vị trí "mở" vĩnh viễn. Dẫn đến bệnh nhân sẽ luôn tỉnh táo và không bao giờ chìm vào giấc ngủ. Các tín hiệu giúp chúng ta ngủ (giảm thân nhiệt trung tâm, giảm nhịp tim, huyết áp, chuyển hoá,...) sẽ bị cản trở bởi sự hư hại của đồi thị, sẽ không thể đi xuống tuỷ sống và được gửi đến các mô và cơ quan khác của cơ thể.
+
+<details markdown="block">
+<summary><i>Thân nhiệt trung tâm</i></summary>
+
+> <strong>Thân nhiệt trung tâm (Core body temperature)</strong> là nhiệt độ của các vùng nằm sâu bên trong cơ thể, <strong>phản ánh trực tiếp nhiệt độ của các cơ quan nội tạng và máu</strong>. Nó ảnh hưởng trực tiếp đến tốc độ các phản ứng sinh học, từ chuyển hoá đến hoạt động của enzyme.
+>
+> Đồng thời, thân nhiệt trung tâm cũng là <strong>cơ sở của cơ chế điều hoà nhiệt</strong>, giúp cơ thể duy trì trạng thái ổn định dù nhiệt độ môi trường bên ngoài thay đổi.
+>
+> Khác với nhiệt độ da dễ bị tác động bởi môi trường, thân nhiệt trung tâm tương đối ổn định và chỉ dao động trong một khoảng hẹp. Nó thường được <strong>đo tại trực tràng</strong>, là vị trí cho kết quả ổn định và chính xác nhất. Ở con người, trong điều kiện bình thường, thân nhiệt đo tại đây thường nằm trong <strong>khoảng 36,3 – 37,1°C</strong>.
+> <figure>
+>  <img
+>    src="{{ site.baseurl }}\assets\images\COS-cosinuss-bodytemperature-core_shell-EN-XXXX-V01.jpg"
+>    width="75%"
+>  />
+>  <figcaption>Trường nhiệt độ của cơ thể người. Phần lõi cơ thể có nhiệt độ gần như không đổi, trong khi nhiệt độ của lớp da chịu ảnh hưởng bởi các yếu tố bên ngoài và bên trong.<br>Nguồn: <a href="https://www.cosinuss.com/en/measured-data/vital-signs/body-temperature/" target="_blank">Body temperature  - Cosinuss</a></figcaption>
+> </figure>
+{: .codeBlock }
+</details>
 
 <figure>
   <img

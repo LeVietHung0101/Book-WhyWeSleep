@@ -71,7 +71,6 @@ Giấc ngủ REM không chỉ kết nối thông tin mà còn tạo ra kiến th
 Không chỉ là việc ngủ hay mơ nói chung, **nội dung của giấc mơ thực sự có ý nghĩa** đối với việc giải quyết vấn đề.
 - Nghiên cứu với mê cung thực tế ảo cho thấy những người **mơ về các chủ đề liên quan đến mê cung** có sự cải thiện kỹ năng định hướng **cao gấp 10 lần** so với những người cũng ngủ và mơ nhưng nội dung không liên quan.
 - Giấc mơ không sao chép y hệt trải nghiệm thực tế mà chọn lọc các mảnh vụn quan trọng và đặt chúng vào bối cảnh những kiến thức đã có từ trước để xây dựng ý nghĩa.
-- **Thomas Edison** đã tận dụng "khoảng trống thiên tài" này bằng cách cầm những quả bóng thép khi chợp mắt để chúng rơi xuống sàn khi ông bắt đầu mơ, giúp ông tỉnh dậy và ghi lại ngay các ý tưởng sáng tạo.
 
 ---
 

@@ -52,10 +52,6 @@ Sự kết hợp của các hệ quả trên khiến **các vi tổn thương tr
 
 ## Lợi ích giấc ngủ NREM sâu
 
-Ức chế hệ giao cảm → giảm huyết áp, nhịp tim, ngừa tăng áp, nhồi máu, đột quỵ. 
-
-Tương đương "quản lý huyết áp tự nhiên ban đêm". 
-
 Giấc ngủ NREM sâu đóng vai trò như một "bộ điều hòa huyết áp tự nhiên" vào ban đêm. Trong giai đoạn này, hoạt động của hệ giao cảm bị ức chế , giúp giảm nhịp tim và huyết áp, từ đó bảo vệ mạch máu, ngừa tăng áp, nhồi máu, đột quỵ.
 
 ---

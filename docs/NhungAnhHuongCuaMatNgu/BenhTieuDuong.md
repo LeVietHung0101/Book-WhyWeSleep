@@ -17,7 +17,7 @@ nav_order: 4
 
 ## Tác động của bệnh tiểu đường
 
-Bệnh tiểu đường, đặc biệt là loại 2, không chỉ là rối loạn đường huyết đơn thuần mà kéo theo nhiều biến chứng nghiêm trọng. Khi đường huyết tăng cao và kéo dài, các mạch máu và mô bị tổn thương, dẫn đến mù lòa, suy thận, loét và cắt cụt chi, tăng huyết áp và bệnh tim mạch. Tổng thể, bệnh có thể rút ngắn tuổi thọ trung bình khoảng 10 năm nếu không được kiểm soát tốt.
+Bệnh tiểu đường, đặc biệt là loại 2, không chỉ là rối loạn đường huyết đơn thuần mà kéo theo nhiều biến chứng nghiêm trọng. Khi đường huyết tăng cao và kéo dài, các mạch máu và mô bị tổn thương, dẫn đến mù lòa, suy thận, loét và cắt cụt chi, tăng huyết áp và bệnh tim mạch. Tổng thể, bệnh tiểu đường có thể rút ngắn tuổi thọ trung bình khoảng 10 năm nếu không được kiểm soát tốt.
 
 ---
 

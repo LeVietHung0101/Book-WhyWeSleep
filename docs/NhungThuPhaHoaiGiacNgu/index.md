@@ -6,11 +6,4 @@ has_children: true
 
 # Những thứ phá hoại giấc ngủ
 
-<details markdown="block">
-  <summary>Mục lục</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
+Phần này trình bày các rối loạn giấc ngủ và các yếu tố ảnh hưởng xấu đến giấc ngủ.

@@ -17,7 +17,7 @@ nav_order: 3
 
 ## Chứng ngủ rũ là gì?
 
-**Chứng ngủ rũ (Narcolepsy)** là một rối loạn thần kinh có nguồn gốc từ hệ thống thần kinh trung ương, cụ thể là não bộ. Bệnh thường khởi phát trong độ tuổi từ 10 đến 20. Mặc dù có cơ sở di truyền do đột biến gene, nhưng đây không phải là bệnh di truyền từ cha mẹ sang con cái.
+**Chứng ngủ rũ (Narcolepsy)** là một rối loạn thần kinh có nguồn gốc từ hệ thống thần kinh trung ương, cụ thể là não bộ. Bệnh thường khởi phát trong độ tuổi từ 10 đến 20. Mặc dù có cơ sở di truyền do đột biến gen, nhưng đây không phải là bệnh di truyền từ cha mẹ sang con cái.
 
 ---
 
@@ -44,9 +44,9 @@ nav_order: 3
 
 ## Cơ chế sinh học: Sự thiếu hụt Orexin
 
-Trong não bộ có một "công tắc thức-ngủ" nằm ở vùng dưới đồi (hypothalamus). 
+Trong não bộ có một "công tắc thức-ngủ" nằm ở [vùng dưới đồi (hypothalamus)]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/CacBoPhanCuaBoNaoLienQuanDenGiacNgu/#hypothalamus" | relative_url }}). 
 - Bình thường, não giải phóng một chất dẫn truyền thần kinh gọi là **orexin** để giữ cho công tắc này ở vị trí "thức" một cách vững chắc.
-- Ở bệnh nhân ngủ rũ, có tới **90% tế bào sản sinh orexin bị mất đi** (do bột biến gene). 
+- Ở bệnh nhân ngủ rũ, có tới **90% tế bào sản sinh orexin bị mất đi** (do đột biến gen). 
 - Thiếu orexin khiến công tắc này trở nên lỏng lẻo, khiến não bộ không thể duy trì trạng thái thức ổn định ban ngày cũng như trạng thái ngủ ổn định ban đêm, dẫn đến việc các đặc tính của giấc ngủ REM (như liệt cơ) xâm lấn vào lúc đang thức.
 
 

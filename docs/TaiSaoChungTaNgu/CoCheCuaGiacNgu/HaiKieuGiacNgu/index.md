@@ -17,14 +17,17 @@ nav_order: 4
 
 ## Hai pha ngủ
 
-Giấc ngủ của con người không phải là một trạng thái đồng nhất mà được chia thành hai pha chính: **NREM** (Non-Rapid Eye Movement) và **REM** (Rapid Eye Movement). Hai pha này luân phiên theo chu kỳ trong suốt đêm, tạo thành một hệ thống phối hợp chặt chẽ nhằm phục hồi và tối ưu hóa hoạt động của não bộ.
+Giấc ngủ của con người không phải là một trạng thái đồng nhất mà được chia thành hai pha chính: **NREM** và **REM**. Hai pha này luân phiên theo chu kỳ trong suốt đêm, tạo thành một hệ thống phối hợp chặt chẽ nhằm phục hồi và tối ưu hóa hoạt động của não bộ.
+
+> <i><strong>NREM</strong> (Non-Rapid Eye Movement): giấc ngủ không chuyển động mắt nhanh.</i><br>
+> <i><strong>REM</strong> (Rapid Eye Movement): giấc ngủ chuyển động mắt nhanh.</i>
 
 [Giấc ngủ NREM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguNREM/" | relative_url }}), đặc biệt là giai đoạn sóng chậm (slow-wave sleep), là lúc não bước vào trạng thái đồng bộ cao và giảm tương tác với môi trường bên ngoài. Đây là giai đoạn đóng vai trò nền tảng trong phục hồi thể chất và củng cố trí nhớ, khi các ký ức mới được chuyển từ vùng lưu trữ tạm thời sang lưu trữ dài hạn. Có thể xem NREM là "chế độ bảo trì và ổn định" của não.
 
-Giấc ngủ NREM gồm 4 giai đoạn (NREM 1, NREM 2, NREM 3, NREM 4) được chia theo "mức ngủ sâu" - độ khó tăng dần cần thiết đánh thức một người dậy. Hai giai đoạn NREM 3 và 4 là các giai đoạn ngủ sâu nhất.
+Giấc ngủ NREM gồm 4 giai đoạn (N1, N2, N3, N4) được chia theo "mức ngủ sâu" - độ khó tăng dần cho việc đánh thức một người dậy.
 - Giai đoạn N1 (Ngủ nông): là giai đoạn chuyển tiếp từ tỉnh táo sang ngủ, với hoạt động não chậm lại.
 - Giai đoạn N2 (Ngủ nhẹ): là giai đoạn củng cố trí nhớ và xử lý thông tin.
-- Giai đoạn N3 và N4 (Ngủ sâu): là giai đoạn ngủ sâu nhất, liên quan đến phục hồi thể chất và tái tạo năng lượng. Hiện nay giai đoạn 3 và 4 được gộp thành N3.
+- Giai đoạn N3 và N4 (Ngủ sâu): là giai đoạn ngủ sâu nhất, liên quan đến phục hồi thể chất và tái tạo năng lượng. Hiện nay giai đoạn N3 và N4 được gộp thành N3.
 
 Ngược lại, [giấc ngủ REM]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/HaiKieuGiacNgu/GiacNguREM/" | relative_url }}) có hoạt động não gần giống trạng thái thức, thậm chí một số vùng còn hoạt động mạnh hơn. Đây là giai đoạn gắn liền với giấc mơ sống động, nơi não xử lý cảm xúc, tái tổ chức thông tin và tích hợp ký ức vào hệ thống nhận thức phức tạp. REM có thể được hiểu như "chế độ xử lý nâng cao", giúp tinh chỉnh và làm giàu trải nghiệm tinh thần.
 
@@ -51,14 +54,26 @@ Giấc ngủ có cấu trúc theo chu kỳ lặp lại. Ở người trưởng t
   </figcaption>
 </figure>
 
-Khi bắt đầu ngủ, não gần như ngay lập tức đi vào giấc ngủ NREM. Trong các chu kỳ đầu tiên, NREM, đặc biệt là giấc ngủ sâu, chiếm phần lớn thời gian, phản ánh nhu cầu phục hồi sinh lý và tái thiết cơ thể sau một ngày hoạt động. Sau mỗi pha NREM, não chuyển sang REM ở cuối chu kỳ, nhưng ở giai đoạn đầu đêm, REM còn ngắn và chiếm tỷ lệ nhỏ.
+Khi bắt đầu ngủ, não gần như ngay lập tức đi vào giấc ngủ NREM. Trong các chu kỳ đầu tiên, NREM, đặc biệt là giấc ngủ sâu (N3, N4), chiếm phần lớn thời gian, phản ánh nhu cầu phục hồi sinh lý và tái thiết cơ thể sau một ngày hoạt động. Sau mỗi pha NREM, não chuyển sang REM ở cuối chu kỳ, nhưng ở giai đoạn đầu đêm, REM còn ngắn và chiếm tỷ lệ nhỏ.
 
 Từ giữa đêm trở đi, cấu trúc này dần đảo chiều. Các pha REM xuất hiện rõ rệt hơn và kéo dài hơn qua từng chu kỳ, đặc biệt vào nửa sau của giấc ngủ. Ở chu kỳ cuối cùng (thường gần sáng), REM có thể chiếm phần lớn thời gian, cho thấy vai trò ngày càng tăng của xử lý cảm xúc và tích hợp ký ức khi cơ thể đã được phục hồi tương đối.
 
-Chu kỳ NREM - REM là một đặc điểm phổ quát ở nhiều loài, nhưng độ dài mỗi chu kỳ có sự khác biệt. Ở người, chu kỳ tương đối dài ( khoảng 90 phút), trong khi ở nhiều loài động vật khác, chu kỳ này thường ngắn hơn đáng kể.
+Chu kỳ NREM - REM là một đặc điểm phổ quát ở nhiều loài, nhưng độ dài mỗi chu kỳ có sự khác biệt. Ở người, chu kỳ tương đối dài (khoảng 90 phút), trong khi ở nhiều loài động vật khác, chu kỳ này thường ngắn hơn đáng kể.
 
 
-Đọc thêm: [Physiology, Sleep Stages  - National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Sleep_cycles_in_human_and_dog.png"
+  />
+  <figcaption>Biểu đồ giấc ngủ điển hình từ bản ghi giấc ngủ kéo dài ba giờ của một người và một con chó. Điểm khác biệt lớn giữa giấc ngủ của chó và người là chó có chu kỳ ngủ ngắn, chỉ kéo dài 45 phút mỗi lần.<br>
+  Nguồn: <a href="https://www.researchgate.net/publication/354760802_Interhemispheric_asymmetry_during_NREM_sleep_in_the_dog" target="_blank">Sự bất đối xứng giữa hai bán cầu não trong giấc ngủ NREM ở chó (Interhemispheric asymmetry during NREM sleep in the dog) - ResearchGate</a> 
+  </figcaption>
+</figure>
+
+
+Đọc thêm:
+1. [Physiology, Sleep Stages  - National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+2. [Understanding Sleep Cycle in Dogs -  Sootheandsettle](https://sootheandsettle.com/blogs/anxiety-in-dogs/understanding-sleep-cycle-in-dogs?srsltid=AfmBOorl1iqvBwOAMnxxVBJEayPT09tQ0Rf1pnb75Al9iVCfvOGKw48_)
 
 ---
 
@@ -70,7 +85,7 @@ Khi **ngủ muộn**, bạn làm **suy giảm phần đầu của giấc ngủ -
 
 Khi **ngủ ngắn (dậy sớm hơn bình thường)**, bạn làm **mất phần cuối của giấc ngủ - nơi REM chiếm ưu thế**. Ví dụ, nếu một người cần ngủ 8 giờ (từ 22 giờ đến 6 giờ) nhưng dậy lúc 4 giờ, họ mất khoảng 25% tổng thời gian ngủ. Tuy nhiên, phần bị mất này lại chứa tỷ lệ REM rất cao, có thể lên tới 60% - 90% lượng REM của cả đêm. Điều này ảnh hưởng mạnh đến các chức năng như xử lý cảm xúc, tích hợp ký ức và tư duy sáng tạo.
 
-> *Việc xác định ngủ muộn và ngủ ngắn (dậy sớm) là so với giờ ngủ theo thói quen (habitual bedtime) - thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.*
+> *Việc xác định ngủ muộn và ngủ ngắn (dậy sớm) sẽ dựa vào giờ ngủ theo thói quen (habitual bedtime) - thời gian ngủ ổn định của mỗi cá nhân theo thói quen và nhịp sinh học tự nhiên.*
 
 {: .note }
 Ngủ muộn cắt giảm NREM sâu, ngủ ngắn cắt giảm REM cuối.
@@ -81,7 +96,7 @@ Ngủ muộn cắt giảm NREM sâu, ngủ ngắn cắt giảm REM cuối.
 
 Khi bị thiếu ngủ kéo dài (ví dụ hơn 24 giờ không ngủ), bộ não không ưu tiên tuyệt đối một loại giấc ngủ nào mà tìm cách bù đắp cả NREM và REM. Điều này cho thấy hai pha ngủ này đều thiết yếu, phục vụ những chức năng khác nhau nhưng bổ sung cho nhau.
 
-Trong đêm đầu tiên sau thiếu ngủ, thời gian ngủ thường kéo dài hơn bình thường - hiện tượng này được gọi là**ngủ bù**. Đáng chú ý, não ưu tiên tăng mạnh giấc ngủ NREM sâu (slow-wave sleep). Đây là giai đoạn liên quan đến phục hồi sinh lý, cân bằng nội môi và củng cố trí nhớ cơ bản, nên được xem là nhu cầu "cấp thiết" khi cơ thể bị thiếu ngủ.
+Trong đêm đầu tiên sau thiếu ngủ, thời gian ngủ thường kéo dài hơn bình thường - hiện tượng này được gọi là **ngủ bù**. Đáng chú ý, não ưu tiên tăng mạnh giấc ngủ NREM sâu. Đây là giai đoạn liên quan đến phục hồi sinh lý, cân bằng nội môi và củng cố trí nhớ cơ bản, nên được xem là nhu cầu "cấp thiết" khi cơ thể bị thiếu ngủ.
 
 Ở các đêm hồi phục tiếp theo (khoảng đêm thứ 2 đến thứ 4), xu hướng này thay đổi: giấc ngủ REM tăng tỷ lệ nhiều hơn. REM liên quan chặt chẽ đến xử lý cảm xúc, tích hợp ký ức phức tạp và điều chỉnh hệ thần kinh, nên được "bù" sau khi các nhu cầu sinh lý cơ bản đã phần nào được đáp ứng.
 
@@ -118,7 +133,7 @@ Giấc ngủ của con người chịu sự điều khiển bởi hai cơ chế 
 
 ### Ảnh hưởng của Process-S đến NREM
 
-Process-S (áp lực ngủ) có ảnh hưởng mạnh nhất đến giấc ngủ NREM, đặc biệt là giai đoạn ngủ sâu (N3 và N4). Khi thời gian thức kéo dài, áp lực ngủ tăng lên, khiến não ưu tiên bước nhanh vào NREM sâu ở các chu kỳ đầu tiên. Đây là cách cơ thể phục hồi năng lượng và sửa chữa tổn thương tích lũy trong ngày. Điều này cũng giải thích vì sao sau khi thiếu ngủ, giấc ngủ sóng chậm (slow-wave sleep) tăng rõ rệt - một cơ chế "bù đắp" trực tiếp của Process-S.
+Process-S (áp lực ngủ) có ảnh hưởng mạnh nhất đến giấc ngủ NREM, đặc biệt là giai đoạn ngủ sâu (N3 và N4). Khi thời gian thức kéo dài, áp lực ngủ tăng lên, khiến não ưu tiên bước nhanh vào NREM sâu ở các chu kỳ đầu tiên. Đây là cách cơ thể phục hồi năng lượng và sửa chữa tổn thương tích lũy trong ngày. Điều này cũng giải thích vì sao sau khi thiếu ngủ, giấc ngủ NREM sâu tăng rõ rệt - một cơ chế "bù đắp" trực tiếp của Process-S.
 
 ### Ảnh hưởng của Process-S đến REM
 
@@ -139,11 +154,11 @@ Process-S tác động đến REM theo cách gián tiếp hơn. Trong điều ki
 
 ### Ảnh hưởng của Process-C đến NREM
 
-Process-C (nhịp sinh học) lại đóng vai trò quyết định về thời điểm và phân bố của các pha ngủ. Đối với REM, Process-C có ảnh hưởng đặc biệt rõ: REM thường xuất hiện nhiều hơn và kéo dài hơn vào nửa sau của đêm, khi tín hiệu tỉnh táo từ đồng hồ sinh học giảm xuống. Nếu nhịp sinh học bị rối loạn (ví dụ do [jet lag]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/Jetlag/" | relative_url }}) - lệch múi giờ hoặc làm việc ca đêm), REM dễ bị gián đoạn, kéo theo ảnh hưởng đến trí nhớ và cảm xúc.
+Process-C (nhịp sinh học) lại đóng vai trò quyết định về thời điểm và phân bố của các pha ngủ. Đối với REM, Process-C có ảnh hưởng đặc biệt rõ: REM thường xuất hiện nhiều hơn và kéo dài hơn vào nửa sau của đêm, khi tín hiệu tỉnh táo từ đồng hồ sinh học giảm xuống. Nếu nhịp sinh học bị rối loạn (ví dụ do [jet lag]({{ "/docs/TaiSaoChungTaNgu/CoCheCuaGiacNgu/NhipSinhHoc/Jetlag/" | relative_url }})), REM dễ bị gián đoạn, kéo theo ảnh hưởng đến trí nhớ và cảm xúc.
 
 ### Ảnh hưởng của Process-C đến REM
 
-Process-C không điều khiển cường độ NREM như Process-S, nhưng lại quyết định thời điểm cơ thể sẵn sàng đi vào giấc ngủ. NREM, đặc biệt là ngủ sâu (N3 và N4), thường chiếm ưu thế trong nửa đầu đêm - khi nhịp sinh học bước vào pha "giảm tỉnh táo". Nếu nhịp này bị lệch, khả năng đi vào và duy trì NREM sâu cũng bị ảnh hưởng, làm giảm hiệu quả phục hồi thể chất.
+Process-C không điều khiển cường độ NREM như Process-S, nhưng lại quyết định thời điểm cơ thể sẵn sàng đi vào giấc ngủ. NREM, đặc biệt là giấc ngủ sâu (N3 và N4), thường chiếm ưu thế trong nửa đầu đêm - khi nhịp sinh học bước vào pha "giảm tỉnh táo". Nếu nhịp này bị lệch, khả năng đi vào và duy trì NREM sâu cũng bị ảnh hưởng, làm giảm hiệu quả phục hồi thể chất.
 
 {: .note }
 **Process-C** điều chỉnh thời điểm và tỷ lệ của REM và NREM trong chu kỳ ngủ, với REM chiếm ưu thế vào nửa sau của đêm và NREM chiếm ưu thế vào nửa đầu.

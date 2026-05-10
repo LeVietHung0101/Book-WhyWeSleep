@@ -20,7 +20,7 @@ has_children: true
 
 **Áp lực ngủ** là ham muốn ngủ tự nhiên của cơ thể, thức càng lâu thì ham muốn ngủ càng tăng.
 
-> *Áp lực ngủ: sleep pressure / sleep drive / Process S.*
+> *Áp lực ngủ còn được gọi là Sleep pressure / Sleep drive / Process S.*
 
 **Adenosine** là một chất dẫn truyền thần kinh đóng vai trò trung tâm trong việc tạo ra áp lực ngủ.
 
@@ -32,6 +32,8 @@ Khi cơ thể cần năng lượng để co cơ hoặc truyền tín hiệu não
 
 {: .note }
 Áp lực ngủ tăng dần theo theo sự gia tăng nồng độ adenosine ở bộ não.
+
+Đọc thêm: [Adenosin Triphosphat (ATP) : Phân tử vận chuyển năng lượng - Nhà thuốc Long Châu](https://nhathuoclongchau.com.vn/thanh-phan/atp)
 
 ### Áp lực ngủ giảm khi ngủ
 
@@ -79,7 +81,7 @@ Các thụ thể adenosine (A1, A2A, A2B, A3) là một nhóm thụ thể màng 
     <tr>
       <td>A1</td>
       <td>Ức chế hoạt động thần kinh, giảm giải phóng chất dẫn truyền. </td>
-      <td>Vỏ não (cortex), hồi hải mã, nhân nền (basal forebrain), tiểu não. </td>
+      <td>Vỏ não (cortex), hồi hải mã (hippocampus), nhân nền (basal forebrain), tiểu não. </td>
       <td>Giảm tỉnh táo, gây buồn ngủ.<br>Ức chế giải phóng acetylcholine, dopamine.<br>Giảm nhịp tim, giãn mạch nhẹ</td>
     </tr>
     <tr>
@@ -92,11 +94,11 @@ Các thụ thể adenosine (A1, A2A, A2B, A3) là một nhóm thụ thể màng 
       <td>A2B</td>
       <td>Vai trò phụ trong giãn mạch, viêm, miễn dịch. </td>
       <td>Mạch máu, phổi, ruột, mô ngoại vi. </td>
-      <td>Giãn mạch mạnh.<br>Tăng phản ứng viêm (cytokine).<br>Ảnh hưởng miễn dịch và tiêu hóa</td>
+      <td>Giãn mạch máu.<br>Tăng phản ứng viêm (cytokine).<br>Ảnh hưởng miễn dịch và tiêu hóa</td>
     </tr>
     <tr>
       <td>A3</td>
-      <td>Điều hòa miễn dịch và phản ứng viêm ở mức độ goại vi; ức chế tế báo ung thư. </td>
+      <td>Điều hòa miễn dịch và phản ứng viêm ở mức độ ngoại vi; ức chế tế báo ung thư. </td>
       <td>Tim, phổi, hệ miễn dịch, não (ít). </td>
       <td>Ức chế phóng thích histamine.<br>Ảnh hưởng bảo vệ tế bào tim, chống viêm.<br>Có vai trò trong bệnh lý ung thư và tim mạch.</td>
     </tr>
@@ -106,6 +108,12 @@ Các thụ thể adenosine (A1, A2A, A2B, A3) là một nhóm thụ thể màng 
 Đọc thêm: [Adenosine and Sleep: Understanding Your Sleep Drive - Sleep Foundation](https://www.sleepfoundation.org/how-sleep-works/adenosine-and-sleep)
 
 ---
+
+<figure>
+  <img
+    src="{{ site.baseurl }}\assets\images\Caffeine_background.png"
+  />
+</figure>
 
 # Caffeine
 
@@ -129,6 +137,8 @@ Caffeine chỉ làm giảm cảm giác buồn ngủ chứ không làm giảm "á
  - Integrative Pharmacology/</a>
   </figcaption>
 </figure>
+
+Đọc thêm: [Caffeine and adenosine: The reason behind the coffee crash - Ultrahuman Blog](https://blog.ultrahuman.com/blog/caffeine-and-adenosine/)
 
 ---
 
